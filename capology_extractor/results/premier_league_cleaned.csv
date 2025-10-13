@@ -1,0 +1,621 @@
+,playerName,playerId,age,country,club,contractStart,contractEnd,grossPW,grossPY,grossPYBonus,contractReleaseClause
+0,Erling Haaland,erling-haaland-36728,25,Norway,Manchester City,2025-01-17,2034-06-30,525000.0,27300000.0,18200000.0,0.0
+1,Mohamed Salah,mohamed-salah-33770,33,Egypt,Liverpool,2025-04-11,2027-06-30,400000.0,20800000.0,5200000.0,0.0
+2,Casemiro,casemiro-33657,33,Brazil,Manchester United,2022-08-22,2026-06-30,350000.0,18200000.0,5200000.0,0.0
+3,Virgil van Dijk,virgil-van-dijk-33427,34,Netherlands,Liverpool,2025-04-17,2027-06-30,350000.0,18200000.0,2600000.0,0.0
+4,Raheem Sterling,raheem-sterling-34676,30,England,Chelsea,2022-07-13,2027-06-30,325000.0,16900000.0,4225000.0,0.0
+5,Bruno Fernandes,bruno-fernandes-34585,30,Portugal,Manchester United,2024-08-14,2027-06-30,300000.0,15600000.0,3900000.0,0.0
+6,Bernardo Silva,bernardo-silva-34556,31,Portugal,Manchester City,2023-08-23,2026-06-30,300000.0,15600000.0,3900000.0,50000000.0
+7,Omar Marmoush,omar-marmoush-36198,26,Egypt,Manchester City,2025-01-23,2029-06-30,295000.0,15340000.0,3835000.0,0.0
+8,Kai Havertz,kai-havertz-36322,26,Germany,Arsenal,2023-07-01,2028-06-30,280000.0,14560000.0,2600000.0,0.0
+9,Alexander Isak,alexander-isak-36424,25,Sweden,Liverpool,2025-09-01,2031-06-30,280000.0,14560000.0,1040000.0,0.0
+10,Gabriel Jesus,gabriel-jesus-35523,28,Brazil,Arsenal,2022-07-04,2027-06-30,265000.0,13780000.0,3445000.0,0.0
+11,Reece James,reece-james-36502,25,England,Chelsea,2022-09-05,2028-06-30,250000.0,13000000.0,3250000.0,0.0
+12,Rúben Dias,ruben-dias-35564,28,Portugal,Manchester City,2025-08-22,2029-06-30,250000.0,13000000.0,3250000.0,0.0
+13,Gianluigi Donnarumma,gianluigi-donnarumma-36216,26,Italy,Manchester City,2025-09-01,2030-06-30,250000.0,13000000.0,3250000.0,0.0
+14,William Saliba,william-saliba-36974,24,France,Arsenal,2025-09-30,2030-06-30,250000.0,13000000.0,1950000.0,0.0
+15,Cody Gakpo,cody-gakpo-36287,26,Netherlands,Liverpool,2025-08-30,2026-06-30,250000.0,13000000.0,3250000.0,0.0
+16,John Stones,john-stones-34482,31,England,Manchester City,2021-08-10,2026-06-30,250000.0,13000000.0,3250000.0,0.0
+17,Declan Rice,declan-rice-36174,26,England,Arsenal,2023-07-15,2028-06-30,240000.0,12480000.0,3120000.0,0.0
+18,Martin Ødegaard,martin-odegaard-36146,26,Norway,Arsenal,2023-09-22,2028-06-30,240000.0,12480000.0,3120000.0,0.0
+19,Tijjani Reijnders,tijjani-reijnders-36005,27,Netherlands,Manchester City,2025-06-10,2030-06-30,230000.0,11960000.0,2990000.0,0.0
+20,Phil Foden,phil-foden-36674,25,England,Manchester City,2022-10-14,2027-06-30,225000.0,11700000.0,2925000.0,0.0
+21,Jack Grealish,jack-grealish-34952,29,England,Everton,2025-08-12,2026-06-30,225000.0,11700000.0,2925000.0,0.0
+22,Rodri,rodri-35238,29,Spain,Manchester City,2022-07-12,2027-06-30,220000.0,11440000.0,2860000.0,0.0
+23,Florian Wirtz,florian-wirtz-37744,22,Germany,Liverpool,2025-07-01,2030-06-30,200000.0,10400000.0,2600000.0,0.0
+24,Viktor Gyökeres,viktor-gyokeres-35950,27,Sweden,Arsenal,2025-07-26,2030-06-30,200000.0,10400000.0,2600000.0,0.0
+25,Hugo Ekitiké,hugo-ekitike-37427,23,France,Liverpool,2025-07-23,2031-06-30,200000.0,10400000.0,2600000.0,0.0
+26,Jadon Sancho,jadon-sancho-36610,25,England,Aston Villa,2025-09-01,2026-06-30,200000.0,10400000.0,2600000.0,0.0
+27,Wesley Fofana,wesley-fofana-36877,24,France,Chelsea,2022-08-31,2029-06-30,200000.0,10400000.0,2600000.0,0.0
+28,Josko Gvardiol,josko-gvardiol-37279,23,Croatia,Manchester City,2023-08-05,2028-06-30,200000.0,10400000.0,2600000.0,0.0
+29,Xavi Simons,xavi-simons-37732,22,Netherlands,Tottenham,2025-08-29,2030-06-30,195000.0,10140000.0,2535000.0,0.0
+30,Cristian Romero,cristian-romero-35912,27,Argentina,Tottenham,2025-08-18,2029-06-30,195000.0,10140000.0,2535000.0,0.0
+31,Bukayo Saka,bukayo-saka-37139,23,England,Arsenal,2023-05-23,2027-06-30,195000.0,10140000.0,5200000.0,0.0
+32,Matthijs de Ligt,matthijs-de-ligt-36384,26,Netherlands,Manchester United,2024-08-13,2029-06-30,195000.0,10140000.0,2535000.0,0.0
+33,Harry Maguire,harry-maguire-34033,32,England,Manchester United,2025-01-03,2026-06-30,190000.0,9880000.0,2470000.0,0.0
+34,Enzo Fernández,enzo-fernandez-36908,24,Argentina,Chelsea,2023-01-31,2032-06-30,180000.0,9360000.0,2340000.0,0.0
+35,Matheus Cunha,matheus-cunha-36307,26,Brazil,Manchester United,2025-07-01,2030-06-30,180000.0,9360000.0,1040000.0,0.0
+36,Eberechi Eze,eberechi-eze-35975,27,England,Arsenal,2025-08-23,2029-06-30,180000.0,9360000.0,2340000.0,0.0
+37,Gabriel Martinelli,gabriel-martinelli-37060,24,Brazil,Arsenal,2023-02-03,2027-06-30,180000.0,9360000.0,2340000.0,0.0
+38,Rayan Cherki,rayan-cherki-37850,22,France,Manchester City,2025-06-10,2030-06-30,180000.0,9360000.0,2340000.0,0.0
+39,Marc Cucurella,marc-cucurella-35998,27,Spain,Chelsea,2022-08-05,2028-06-30,175000.0,9100000.0,2275000.0,0.0
+40,James Maddison,james-maddison-35392,28,England,Tottenham,2023-07-01,2028-06-30,170000.0,8840000.0,2210000.0,0.0
+41,Pedro Neto,pedro-neto-36594,25,Portugal,Chelsea,2024-08-11,2031-06-30,160000.0,8320000.0,2080000.0,0.0
+42,Andrew Robertson,andrew-robertson-34404,31,Scotland,Liverpool,2021-08-24,2026-06-30,160000.0,8320000.0,2080000.0,0.0
+43,Nathan Aké,nathan-ake-34748,30,Netherlands,Manchester City,2023-07-29,2027-06-30,160000.0,8320000.0,2080000.0,0.0
+44,Benjamin Sesko,benjamin-sesko-37772,22,Slovenia,Manchester United,2025-08-09,2030-06-30,160000.0,8320000.0,2080000.0,0.0
+45,Bruno Guimarães,bruno-guimaraes-35750,27,Brazil,Newcastle,2023-10-07,2028-06-30,160000.0,8320000.0,2080000.0,100000000.0
+46,Youri Tielemans,youri-tielemans-35557,28,Belgium,Aston Villa,2023-07-01,2027-06-30,150000.0,7800000.0,1950000.0,0.0
+47,Joelinton,joelinton-35291,29,Brazil,Newcastle,2024-04-11,2028-06-30,150000.0,7800000.0,1950000.0,0.0
+48,Mason Mount,mason-mount-36170,26,England,Manchester United,2023-07-05,2028-06-30,150000.0,7800000.0,2600000.0,0.0
+49,Emiliano Martínez,emiliano-martinez-33849,33,Argentina,Aston Villa,2024-08-21,2029-06-30,150000.0,7800000.0,1950000.0,0.0
+50,Noni Madueke,noni-madueke-37325,23,England,Arsenal,2025-07-18,2030-06-30,150000.0,7800000.0,1950000.0,0.0
+51,Ben White,ben-white-35711,27,England,Arsenal,2024-03-14,2028-06-30,150000.0,7800000.0,1950000.0,0.0
+52,Alisson,alisson-33879,32,Brazil,Liverpool,2021-08-04,2027-06-30,150000.0,7800000.0,1950000.0,0.0
+53,Alexis Mac Allister,alexis-mac-allister-36153,26,Argentina,Liverpool,2023-07-01,2028-06-30,150000.0,7800000.0,1560000.0,0.0
+54,Sandro Tonali,sandro-tonali-36654,25,Italy,Newcastle,2023-07-03,2028-06-30,150000.0,7800000.0,2080000.0,0.0
+55,Boubacar Kamara,boubacar-kamara-36487,25,France,Aston Villa,2025-07-24,2030-06-30,150000.0,7800000.0,1950000.0,0.0
+56,Jarrod Bowen,jarrod-bowen-35419,28,England,West Ham,2023-10-08,2030-06-30,150000.0,7800000.0,1950000.0,0.0
+57,Lucas Paquetá,lucas-paqueta-35669,28,Brazil,West Ham,2022-08-29,2027-06-30,150000.0,7800000.0,1950000.0,85000000.0
+58,Kalvin Phillips,kalvin-phillips-35035,29,England,Manchester City,2022-07-04,2028-06-30,150000.0,7800000.0,1950000.0,0.0
+59,Randal Kolo Muani,randal-kolo-muani-36134,26,France,Tottenham,2025-09-01,2026-06-30,150000.0,7800000.0,3120000.0,0.0
+60,Luke Shaw,luke-shaw-34892,30,England,Manchester United,2023-04-04,2027-06-30,150000.0,7800000.0,2600000.0,0.0
+61,Ryan Gravenberch,ryan-gravenberch-37392,23,Netherlands,Liverpool,2023-09-01,2028-06-30,150000.0,7800000.0,1950000.0,0.0
+62,Anthony Gordon,anthony-gordon-36946,24,England,Newcastle,2024-10-22,2030-06-30,150000.0,7800000.0,1040000.0,0.0
+63,Gabriel Magalhães,gabriel-magalhaes-35783,27,Brazil,Arsenal,2025-06-06,2029-06-30,150000.0,7800000.0,2600000.0,0.0
+64,Mohammed Kudus,mohammed-kudus-36740,25,Ghana,Tottenham,2025-07-10,2031-06-30,150000.0,7800000.0,1950000.0,0.0
+65,Moisés Caicedo,moises-caicedo-37197,23,Ecuador,Chelsea,2023-08-14,2031-06-30,150000.0,7800000.0,1300000.0,0.0
+66,Federico Chiesa,federico-chiesa-35728,27,Italy,Liverpool,2024-08-29,2028-06-30,150000.0,7800000.0,1560000.0,0.0
+67,Bryan Mbeumo,bryan-mbeumo-36379,26,Cameroon,Manchester United,2025-07-21,2030-06-30,150000.0,7800000.0,2600000.0,0.0
+68,Mateo Kovacic,mateo-kovacic-34460,31,Croatia,Manchester City,2023-07-01,2027-06-30,150000.0,7800000.0,1950000.0,0.0
+69,Dominic Solanke,dominic-solanke-35687,27,England,Tottenham,2024-08-10,2030-06-30,140000.0,7280000.0,1820000.0,0.0
+70,Donyell Malen,donyell-malen-36179,26,Netherlands,Aston Villa,2025-01-14,2026-06-30,140000.0,7280000.0,1820000.0,0.0
+71,Yoane Wissa,yoane-wissa-35311,28,Democratic Republic of the Congo,Newcastle,2025-09-01,2026-06-30,140000.0,7280000.0,1820000.0,0.0
+72,Amadou Onana,amadou-onana-37119,24,Belgium,Aston Villa,2024-07-22,2029-06-30,140000.0,7280000.0,1820000.0,0.0
+73,Douglas Luiz,douglas-luiz-35924,27,Brazil,Nottingham Forest,2025-08-22,2026-06-30,135000.0,7020000.0,780000.0,0.0
+74,João Palhinha,joao-palhinha-34889,30,Portugal,Tottenham,2025-08-03,2026-06-30,135000.0,7020000.0,1651000.0,0.0
+75,Lucas Digne,lucas-digne-34170,32,France,Aston Villa,2025-08-07,2028-06-30,135000.0,7020000.0,1755000.0,0.0
+76,Noussair Mazraoui,noussair-mazraoui-35748,27,Morocco,Manchester United,2024-08-13,2028-06-30,135000.0,7020000.0,1755000.0,0.0
+77,Nick Woltemade,nick-woltemade-37301,23,Germany,Newcastle,2025-08-30,2026-06-30,132500.0,6890000.0,1722500.0,0.0
+78,Bernd Leno,bernd-leno-33667,33,Germany,Fulham,2023-12-13,2027-06-30,130000.0,6760000.0,1690000.0,0.0
+79,Matheus Nunes,matheus-nunes-36034,27,Portugal,Manchester City,2023-09-01,2028-06-30,130000.0,6760000.0,1690000.0,0.0
+80,Mikel Merino,mikel-merino-35238,29,Spain,Arsenal,2024-08-27,2028-06-30,130000.0,6760000.0,1690000.0,0.0
+81,Cole Palmer,cole-palmer-37382,23,England,Chelsea,2024-08-13,2033-06-30,130000.0,6760000.0,1690000.0,0.0
+82,Ollie Watkins,ollie-watkins-35063,29,England,Aston Villa,2023-10-06,2028-06-30,130000.0,6760000.0,1690000.0,0.0
+83,João Pedro,joao-pedro-37160,23,Brazil,Chelsea,2025-07-02,2033-06-30,125000.0,6500000.0,1625000.0,0.0
+84,Jordan Pickford,jordan-pickford-34400,31,England,Everton,2023-02-24,2027-06-30,125000.0,6500000.0,1625000.0,0.0
+85,Kieran Trippier,kieran-trippier-33135,34,England,Newcastle,2023-01-27,2026-06-30,120000.0,6240000.0,1560000.0,0.0
+86,Alphonse Areola,alphonse-areola-34027,32,France,West Ham,2022-07-01,2027-06-30,120000.0,6240000.0,1560000.0,0.0
+87,Victor Lindelöf,victor-lindelof-34532,31,Sweden,Aston Villa,2025-09-01,2027-06-30,120000.0,6240000.0,1560000.0,0.0
+88,Amad Diallo,amad-diallo-37448,23,Cote d'Ivoire,Manchester United,2025-01-09,2030-06-30,120000.0,6240000.0,1560000.0,0.0
+89,Tosin Adarabioyo,tosin-adarabioyo-35697,27,England,Chelsea,2024-07-01,2028-06-30,120000.0,6240000.0,1560000.0,0.0
+90,Aaron Ramsdale,aaron-ramsdale-35929,27,England,Newcastle,2025-08-02,2026-06-30,120000.0,6240000.0,1560000.0,0.0
+91,Samuel Chukwueze,samuel-chukwueze-36302,26,Nigeria,Fulham,2025-09-01,2026-06-30,120000.0,6240000.0,1560000.0,0.0
+92,Riccardo Calafiori,riccardo-calafiori-37395,23,Italy,Arsenal,2024-07-29,2029-06-30,120000.0,6240000.0,1560000.0,0.0
+93,Rayan Aït-Nouri,rayan-ait-nouri-37048,24,Algeria,Manchester City,2025-06-09,2030-06-30,120000.0,6240000.0,1560000.0,0.0
+94,Dominik Szoboszlai,dominik-szoboszlai-36824,24,Hungary,Liverpool,2023-07-02,2028-06-30,120000.0,6240000.0,1560000.0,0.0
+95,Oleksandr Zinchenko,oleksandr-zinchenko-35414,28,Ukraine,Nottingham Forest,2025-09-01,2026-06-30,120000.0,6240000.0,1560000.0,0.0
+96,Idrissa Gueye,idrissa-gueye-32777,35,Senegal,Everton,2025-07-07,2026-06-30,120000.0,6240000.0,1560000.0,0.0
+97,Jacob Ramsey,jacob-ramsey-37039,24,England,Newcastle,2025-08-17,2026-06-30,120000.0,6240000.0,1560000.0,0.0
+98,James Tarkowski,james-tarkowski-33927,32,England,Everton,2025-10-08,2028-06-30,120000.0,6240000.0,1560000.0,0.0
+99,Jarrad Branthwaite,jarrad-branthwaite-37434,23,England,Everton,2025-07-02,2030-06-30,120000.0,6240000.0,1560000.0,0.0
+100,Manuel Ugarte,manuel-ugarte-36992,24,Uruguay,Manchester United,2024-08-30,2029-06-30,120000.0,6240000.0,1560000.0,0.0
+101,Lisandro Martínez,lisandro-martinez-35813,27,Argentina,Manchester United,2022-07-27,2027-06-30,120000.0,6240000.0,1560000.0,0.0
+102,John McGinn,john-mcginn-34625,30,Scotland,Aston Villa,2023-06-23,2027-06-30,120000.0,6240000.0,1560000.0,0.0
+103,Jorrel Hato,jorrel-hato-38783,19,Netherlands,Chelsea,2025-08-03,2032-06-30,120000.0,6240000.0,1560000.0,0.0
+104,James Ward-Prowse,james-ward-prowse-34639,30,England,West Ham,2023-08-14,2027-06-30,115000.0,5980000.0,1495000.0,0.0
+105,Leny Yoro,leny-yoro-38669,19,France,Manchester United,2024-07-18,2029-06-30,115000.0,5980000.0,1560000.0,0.0
+106,Dejan Kulusevski,dejan-kulusevski-36641,25,Sweden,Tottenham,2023-07-01,2028-06-30,110000.0,5720000.0,1430000.0,0.0
+107,Morgan Gibbs-White,morgan-gibbs-white-36552,25,England,Nottingham Forest,2025-07-26,2028-06-30,110000.0,5720000.0,1430000.0,0.0
+108,Granit Xhaka,granit-xhaka-33874,32,Switzerland,Sunderland,2025-07-30,2028-06-30,110000.0,5720000.0,1430000.0,0.0
+109,Tyrone Mings,tyrone-mings-34041,32,England,Aston Villa,2025-06-04,2027-06-30,110000.0,5720000.0,1430000.0,0.0
+110,Alejandro Garnacho,alejandro-garnacho-38169,21,Argentina,Chelsea,2025-08-30,2032-06-30,110000.0,5720000.0,1430000.0,0.0
+111,Jamie Bynoe-Gittens,jamie-bynoe-gittens-38207,21,England,Chelsea,2025-07-05,2032-06-30,108000.0,5616000.0,1404000.0,0.0
+112,Joshua Zirkzee,joshua-zirkzee-37033,24,Netherlands,Manchester United,2024-07-14,2029-06-30,105000.0,5460000.0,1365000.0,0.0
+113,Nikola Milenković,nikola-milenkovic-35715,27,Serbia,Nottingham Forest,2024-07-18,2029-06-30,105000.0,5460000.0,1365000.0,0.0
+114,João Gomes,joao-gomes-36934,24,Brazil,Wolverhampton,2025-04-01,2030-06-30,105000.0,5460000.0,1365000.0,0.0
+115,Daichi Kamada,daichi-kamada-35282,29,Japan,Crystal Palace,2024-07-01,2026-06-30,105000.0,5460000.0,2340000.0,0.0
+116,Max Kilman,max-kilman-35573,28,England,West Ham,2024-07-06,2031-06-30,100000.0,5200000.0,1300000.0,0.0
+117,Raúl Jiménez,raul-jimenez-33363,34,Mexico,Fulham,2025-05-15,2026-06-30,100000.0,5200000.0,1040000.0,0.0
+118,Pau Torres,pau-torres-35446,28,Spain,Aston Villa,2023-07-12,2028-06-30,100000.0,5200000.0,1300000.0,0.0
+119,Jeremie Frimpong,jeremie-frimpong-36870,24,Netherlands,Liverpool,2025-07-01,2030-06-30,100000.0,5200000.0,1300000.0,0.0
+120,Liam Delap,liam-delap-37660,22,England,Chelsea,2025-06-04,2031-06-30,100000.0,5200000.0,1300000.0,0.0
+121,Anthony Elanga,anthony-elanga-37373,23,Sweden,Newcastle,2025-07-11,2026-06-30,100000.0,5200000.0,1300000.0,0.0
+122,Ian Maatsen,ian-maatsen-37325,23,Netherlands,Aston Villa,2024-07-01,2030-06-30,100000.0,5200000.0,1300000.0,0.0
+123,Levi Colwill,levi-colwill-37678,22,England,Chelsea,2023-08-02,2029-06-30,100000.0,5200000.0,1300000.0,0.0
+124,Dominic Calvert-Lewin,dominic-calvert-lewin-35505,28,England,Leeds,2025-08-15,2028-06-30,100000.0,5200000.0,1300000.0,0.0
+125,Brennan Johnson,brennan-johnson-37034,24,Wales,Tottenham,2023-09-01,2028-06-30,100000.0,5200000.0,1300000.0,0.0
+126,Nordi Mukiele,nordi-mukiele-35735,27,France,Sunderland,2025-08-17,2029-06-30,100000.0,5200000.0,1300000.0,0.0
+127,David Raya,david-raya-34957,29,Spain,Arsenal,2024-07-04,2028-06-30,100000.0,5200000.0,1300000.0,0.0
+128,Dean Henderson,dean-henderson-35501,28,England,Crystal Palace,2023-08-31,2028-06-30,100000.0,5200000.0,1300000.0,0.0
+129,Mykhailo Mudryk,mykhailo-mudryk-36896,24,Ukraine,Chelsea,2023-01-15,2031-06-30,100000.0,5200000.0,1560000.0,0.0
+130,Jørgen Strand Larsen,jorgen-strand-larsen-36562,25,Norway,Wolverhampton,2025-07-01,2029-06-30,95000.0,4940000.0,1235000.0,0.0
+131,Tomáš Souček,tomas-soucek-34757,30,Czech Republic,West Ham,2024-01-01,2027-06-30,90000.0,4680000.0,1170000.0,0.0
+132,Benoît Badiashile,benoit-badiashile-36976,24,France,Chelsea,2023-01-05,2030-06-30,90000.0,4680000.0,1170000.0,0.0
+133,Jack Harrison,jack-harrison-35389,28,England,Leeds,2023-04-06,2028-06-30,90000.0,4680000.0,1170000.0,0.0
+134,Eddie Nketiah,eddie-nketiah-36310,26,England,Crystal Palace,2024-08-30,2029-06-30,90000.0,4680000.0,1170000.0,0.0
+135,Jurriën Timber,jurrien-timber-37059,24,Netherlands,Arsenal,2023-07-14,2028-06-30,90000.0,4680000.0,1560000.0,0.0
+136,Sven Botman,sven-botman-36537,25,Netherlands,Newcastle,2022-07-01,2027-06-30,90000.0,4680000.0,1170000.0,0.0
+137,Aaron Wan-Bissaka,aaron-wan-bissaka-35760,27,Democratic Republic of the Congo,West Ham,2024-08-13,2031-06-30,90000.0,4680000.0,1170000.0,0.0
+138,Kiernan Dewsbury-Hall,kiernan-dewsbury-hall-36044,26,England,Everton,2025-08-06,2030-06-30,90000.0,4680000.0,1170000.0,0.0
+139,Chris Wood,chris-wood-33579,33,New Zealand,Nottingham Forest,2025-01-23,2027-06-30,90000.0,4680000.0,1170000.0,0.0
+140,Callum Hudson-Odoi,callum-hudson-odoi-36837,24,England,Nottingham Forest,2025-08-30,2028-06-30,90000.0,4680000.0,1170000.0,0.0
+141,Stefan Ortega Moreno,stefan-ortega-moreno-33914,32,Germany,Manchester City,2024-06-08,2026-06-30,90000.0,4680000.0,1170000.0,0.0
+142,Micky van de Ven,micky-van-de-ven-37000,24,Netherlands,Tottenham,2023-08-08,2029-06-30,90000.0,4680000.0,1170000.0,0.0
+143,Niclas Füllkrug,niclas-fullkrug-34009,32,Germany,West Ham,2024-08-05,2028-06-30,90000.0,4680000.0,1170000.0,0.0
+144,Richarlison,richarlison-35560,28,Brazil,Tottenham,2022-07-01,2027-06-30,90000.0,4680000.0,2080000.0,0.0
+145,Leandro Trossard,leandro-trossard-34672,30,Belgium,Arsenal,2023-01-20,2026-06-30,90000.0,4680000.0,1170000.0,0.0
+146,Joachim Andersen,joachim-andersen-35216,29,Denmark,Fulham,2024-08-23,2029-06-30,90000.0,4680000.0,1170000.0,0.0
+147,Ferdi Kadıoğlu,ferdi-kadioglu-36440,25,Turkey,Brighton,2024-08-27,2028-06-30,87500.0,4550000.0,1137500.0,0.0
+148,Lutsharel Geertruida,lutsharel-geertruida-36725,25,Netherlands,Sunderland,2025-09-01,2026-06-30,85000.0,4420000.0,1105000.0,0.0
+149,Giorgi Mamardashvili,giorgi-mamardashvili-36798,24,Georgia,Liverpool,2024-08-27,2031-06-30,85000.0,4420000.0,1105000.0,0.0
+150,Joe Gomez,joe-gomez-35573,28,England,Liverpool,2022-07-07,2027-06-30,85000.0,4420000.0,1105000.0,0.0
+151,Pedro Porro,pedro-porro-36416,25,Spain,Tottenham,2023-07-01,2028-06-30,85000.0,4420000.0,1105000.0,0.0
+152,Dan Ndoye,dan-ndoye-36824,24,Switzerland,Nottingham Forest,2025-07-31,2030-06-30,85000.0,4420000.0,1105000.0,0.0
+153,Diogo Dalot,diogo-dalot-36237,26,Portugal,Manchester United,2023-05-31,2028-06-30,85000.0,4420000.0,780000.0,0.0
+154,Radu Drăgușin,radu-dragusin-37290,23,Romania,Tottenham,2024-01-11,2030-06-30,85000.0,4420000.0,1105000.0,0.0
+155,Emmanuel Agbadou,emmanuel-agbadou-35598,28,Cote d'Ivoire,Wolverhampton,2025-01-09,2029-06-30,85000.0,4420000.0,1105000.0,0.0
+156,Evanilson,evanilson-36439,25,Brazil,Bournemouth,2024-08-16,2026-06-30,85000.0,4420000.0,1105000.0,0.0
+157,Matty Cash,matty-cash-35649,28,Poland,Aston Villa,2022-04-04,2027-06-30,80000.0,4160000.0,1040000.0,0.0
+158,Axel Disasi,axel-disasi-35865,27,France,Chelsea,2023-08-04,2029-06-30,80000.0,4160000.0,1040000.0,0.0
+159,Ben Davies,ben-davies-34083,32,Wales,Tottenham,2025-06-08,2026-06-30,80000.0,4160000.0,1040000.0,0.0
+160,Ethan Nwaneri,ethan-nwaneri-39162,18,England,Arsenal,2025-08-08,2030-06-30,80000.0,4160000.0,1040000.0,0.0
+161,Harvey Barnes,harvey-barnes-35773,27,England,Newcastle,2023-07-23,2028-06-30,80000.0,4160000.0,1040000.0,0.0
+162,Toti Gomes,toti-gomes-36176,26,Portugal,Wolverhampton,2024-02-08,2029-06-30,80000.0,4160000.0,1040000.0,0.0
+163,Michael Keane,michael-keane-33980,32,England,Everton,2025-07-04,2026-06-30,80000.0,4160000.0,1040000.0,0.0
+164,Joe Willock,joe-willock-36392,26,England,Newcastle,2021-08-13,2027-06-30,80000.0,4160000.0,1040000.0,0.0
+165,Lewis Dunk,lewis-dunk-33563,33,England,Brighton,2023-07-12,2026-06-30,80000.0,4160000.0,1040000.0,0.0
+166,Justin Kluivert,justin-kluivert-36285,26,Netherlands,Bournemouth,2023-07-01,2028-06-30,80000.0,4160000.0,1040000.0,0.0
+167,Jean-Clair Todibo,jean-clair-todibo-36524,25,France,West Ham,2025-07-01,2026-06-30,80000.0,4160000.0,1040000.0,0.0
+168,Alex Iwobi,alex-iwobi-35188,29,Nigeria,Fulham,2023-09-01,2028-06-30,80000.0,4160000.0,1040000.0,0.0
+169,Kaoru Mitoma,kaoru-mitoma-35570,28,Japan,Brighton,2023-10-20,2027-06-30,80000.0,4160000.0,1040000.0,0.0
+170,Sean Longstaff,sean-longstaff-35733,27,England,Leeds,2025-07-18,2029-06-30,80000.0,4160000.0,1040000.0,0.0
+171,Sávio,savio-38087,21,Brazil,Manchester City,2025-10-03,2031-06-30,80000.0,4160000.0,1040000.0,0.0
+172,Ezri Konsa,ezri-konsa-35726,27,England,Aston Villa,2023-09-20,2028-06-30,75000.0,3900000.0,975000.0,0.0
+173,Malick Thiaw,malick-thiaw-37111,24,Germany,Newcastle,2025-08-12,2026-06-30,75000.0,3900000.0,975000.0,0.0
+174,Destiny Udogie,destiny-udogie-37588,22,Italy,Tottenham,2023-12-12,2030-06-30,75000.0,3900000.0,975000.0,0.0
+175,Murillo,murillo-37441,23,Brazil,Nottingham Forest,2025-01-21,2029-06-30,75000.0,3900000.0,975000.0,0.0
+176,Morgan Rogers,morgan-rogers-37463,23,England,Aston Villa,2024-11-19,2030-06-30,75000.0,3900000.0,975000.0,0.0
+177,Guido Rodríguez,guido-rodriguez-34436,31,Argentina,West Ham,2024-08-06,2027-06-30,75000.0,3900000.0,975000.0,0.0
+178,Guglielmo Vicario,guglielmo-vicario-35345,28,Italy,Tottenham,2023-07-01,2028-06-30,75000.0,3900000.0,975000.0,0.0
+179,Tolu Arokodare,tolu-arokodare-36853,24,Nigeria,Wolverhampton,2025-09-01,2029-06-30,75000.0,3900000.0,975000.0,0.0
+180,Antoine Semenyo,antoine-semenyo-36532,25,Ghana,Bournemouth,2025-07-01,2030-06-30,75000.0,3900000.0,975000.0,65000000.0
+181,Milos Kerkez,milos-kerkez-37932,21,Hungary,Liverpool,2025-07-01,2030-06-30,75000.0,3900000.0,975000.0,0.0
+182,Mikkel Damsgaard,mikkel-damsgaard-36710,25,Denmark,Brentford,2025-01-22,2030-06-30,75000.0,3900000.0,975000.0,0.0
+183,Jack Grealish,jack-grealish-34952,29,England,Manchester City,2021-08-05,2027-06-30,75000.0,3900000.0,975000.0,0.0
+184,Daniel James,daniel-james-35744,27,Wales,Leeds,2025-07-14,2029-06-30,75000.0,3900000.0,975000.0,0.0
+185,Archie Gray,archie-gray-38788,19,England,Tottenham,2024-07-02,2030-06-30,75000.0,3900000.0,975000.0,0.0
+186,Jordan Henderson,jordan-henderson-33041,35,England,Brentford,2025-07-15,2027-06-30,75000.0,3900000.0,975000.0,0.0
+187,Emiliano Buendía,emiliano-buendia-35424,28,Argentina,Aston Villa,2025-01-29,2027-06-30,75000.0,3900000.0,975000.0,0.0
+188,Tyrell Malacia,tyrell-malacia-36389,26,Netherlands,Manchester United,2022-07-05,2026-06-30,75000.0,3900000.0,975000.0,0.0
+189,Martín Zubimendi,martin-zubimendi-36193,26,Spain,Arsenal,2025-07-06,2030-06-30,75000.0,3900000.0,975000.0,0.0
+190,Nico González,nico-gonzalez-37259,23,Spain,Manchester City,2025-02-03,2029-06-30,75000.0,3900000.0,975000.0,0.0
+191,Jean-Ricner Bellegarde,jean-ricner-bellegarde-35973,27,Haiti,Wolverhampton,2023-09-01,2028-06-30,75000.0,3900000.0,975000.0,0.0
+192,Conor Bradley,conor-bradley-37811,22,Northern Ireland,Liverpool,2025-05-17,2029-06-30,75000.0,3900000.0,975000.0,0.0
+193,Enzo Le Fée,enzo-le-fee-36559,25,France,Sunderland,2025-07-01,2029-06-30,75000.0,3900000.0,975000.0,0.0
+194,Kyle Walker,kyle-walker-33021,35,England,Burnley,2025-07-05,2027-06-30,75000.0,3900000.0,975000.0,0.0
+195,Rodrigo Bentancur,rodrigo-bentancur-35606,28,Uruguay,Tottenham,2022-01-31,2026-06-30,75000.0,3900000.0,975000.0,0.0
+196,Ibrahim Sangaré,ibrahim-sangare-35766,27,Cote d'Ivoire,Nottingham Forest,2023-09-01,2028-06-30,75000.0,3900000.0,975000.0,0.0
+197,Georginio Rutter,georginio-rutter-37366,23,France,Brighton,2024-08-19,2028-06-30,75000.0,3900000.0,975000.0,0.0
+198,Evann Guessand,evann-guessand-37073,24,Cote d'Ivoire,Aston Villa,2025-08-08,2026-06-30,75000.0,3900000.0,975000.0,0.0
+199,Noah Okafor,noah-okafor-36670,25,Switzerland,Leeds,2025-08-21,2029-06-30,72500.0,3770000.0,942500.0,0.0
+200,Marshall Munetsi,marshall-munetsi-35238,29,Zimbabwe,Wolverhampton,2025-02-03,2028-06-30,70000.0,3640000.0,910000.0,0.0
+201,Pape Sarr,pape-sarr-37513,22,Senegal,Tottenham,2024-01-02,2030-06-30,70000.0,3640000.0,910000.0,0.0
+202,Cheick Doucouré,cheick-doucoure-36533,25,Mali,Crystal Palace,2024-02-28,2029-06-30,70000.0,3640000.0,910000.0,0.0
+203,Reiss Nelson,reiss-nelson-36504,25,England,Brentford,2025-09-01,2026-06-30,70000.0,3640000.0,910000.0,0.0
+204,Dilane Bakwa,dilane-bakwa-37494,23,France,Nottingham Forest,2025-09-01,2030-06-30,70000.0,3640000.0,910000.0,0.0
+205,Emile Smith Rowe,emile-smith-rowe-36735,25,England,Fulham,2024-08-02,2029-06-30,70000.0,3640000.0,910000.0,0.0
+206,Simon Adingra,simon-adingra-37257,23,Cote d'Ivoire,Sunderland,2025-07-10,2030-06-30,70000.0,3640000.0,910000.0,0.0
+207,Bafodé Diakité,bafode-diakite-36897,24,France,Bournemouth,2025-08-13,2026-06-30,70000.0,3640000.0,910000.0,0.0
+208,Fabian Schär,fabian-schar-33592,33,Switzerland,Newcastle,2025-04-03,2026-06-30,70000.0,3640000.0,910000.0,0.0
+209,Adama Traoré,adama-traore-35089,29,Spain,Fulham,2025-05-15,2026-06-30,70000.0,3640000.0,910000.0,0.0
+210,Aaron Hickey,aaron-hickey-37417,23,Scotland,Brentford,2025-01-11,2028-06-30,70000.0,3640000.0,910000.0,0.0
+211,Dan Burn,dan-burn-33733,33,England,Newcastle,2025-05-24,2027-06-30,70000.0,3640000.0,910000.0,0.0
+212,Hee-chan Hwang,hee-chan-hwang-35090,29,South Korea,Wolverhampton,2023-12-21,2028-06-30,70000.0,3640000.0,910000.0,0.0
+213,Ibrahima Konaté,ibrahima-konate-36305,26,France,Liverpool,2021-07-01,2026-06-30,70000.0,3640000.0,910000.0,0.0
+214,Ismaïla Sarr,ismaila-sarr-35851,27,Senegal,Crystal Palace,2024-08-01,2029-06-30,70000.0,3640000.0,910000.0,0.0
+215,Issa Diop,issa-diop-35439,28,France,Fulham,2022-08-10,2027-06-30,70000.0,3640000.0,910000.0,0.0
+216,Jefferson Lerma,jefferson-lerma-34632,30,Colombia,Crystal Palace,2023-07-01,2026-06-30,70000.0,3640000.0,910000.0,0.0
+217,Ryan Christie,ryan-christie-34752,30,Scotland,Bournemouth,2023-11-10,2027-06-30,70000.0,3640000.0,910000.0,0.0
+218,Dango Ouattara,dango-ouattara-37298,23,Burkina Faso,Brentford,2025-08-16,2030-06-30,65000.0,3380000.0,845000.0,0.0
+219,Omar Alderete,omar-alderete-35425,28,Paraguay,Sunderland,2025-08-12,2029-06-30,65000.0,3380000.0,845000.0,0.0
+220,Piero Hincapié,piero-hincapie-37265,23,Ecuador,Arsenal,2025-09-01,2026-06-30,65000.0,3380000.0,845000.0,0.0
+221,Marcus Tavernier,marcus-tavernier-36241,26,England,Bournemouth,2023-06-16,2028-06-30,65000.0,3380000.0,845000.0,0.0
+222,Kevin Danso,kevin-danso-36057,26,Austria,Tottenham,2025-07-01,2030-06-30,65000.0,3380000.0,845000.0,0.0
+223,Neco Williams,neco-williams-36994,24,Wales,Nottingham Forest,2025-07-01,2029-06-30,65000.0,3380000.0,845000.0,0.0
+224,Kenny Tete,kenny-tete-34981,29,Netherlands,Fulham,2025-07-01,2028-06-30,65000.0,3380000.0,845000.0,0.0
+225,Christian Nørgaard,christian-norgaard-34403,31,Denmark,Arsenal,2025-07-10,2027-06-30,65000.0,3380000.0,845000.0,0.0
+226,Jhon Arias,jhon-arias-35694,27,Colombia,Wolverhampton,2025-07-24,2029-06-30,65000.0,3380000.0,845000.0,0.0
+227,Harvey Elliott,harvey-elliott-37715,22,England,Aston Villa,2025-09-01,2026-06-30,65000.0,3380000.0,845000.0,0.0
+228,Timothy Castagne,timothy-castagne-35038,29,Belgium,Fulham,2023-08-29,2027-06-30,65000.0,3380000.0,845000.0,0.0
+229,Jackson Tchatchoua,jackson-tchatchoua-37065,23,Cameroon,Wolverhampton,2025-08-19,2030-06-30,65000.0,3380000.0,845000.0,0.0
+230,Bertrand Traoré,bertrand-traore-34948,29,Burkina Faso,Sunderland,2025-09-01,2026-06-30,65000.0,3380000.0,845000.0,0.0
+231,Saša Lukić,sasa-lukic-35290,29,Serbia,Fulham,2023-01-31,2027-06-30,63000.0,3276000.0,819000.0,0.0
+232,Rodrigo Muniz,rodrigo-muniz-37015,24,Brazil,Fulham,2025-10-01,2030-06-30,60000.0,3120000.0,780000.0,0.0
+233,Brian Brobbey,brian-brobbey-37288,23,Netherlands,Sunderland,2025-09-01,2029-06-30,60000.0,3120000.0,780000.0,0.0
+234,Kepa Arrizabalaga,kepa-34610,30,Spain,Arsenal,2025-07-01,2028-06-30,60000.0,3120000.0,780000.0,0.0
+235,Mats Wieffer,mats-wieffer-36480,25,Netherlands,Brighton,2024-07-05,2029-06-30,60000.0,3120000.0,780000.0,0.0
+236,Lucas Bergvall,lucas-bergvall-38750,19,Sweden,Tottenham,2025-04-29,2031-06-30,60000.0,3120000.0,780000.0,0.0
+237,Nick Pope,nick-pope-33713,33,England,Newcastle,2022-07-01,2026-06-30,60000.0,3120000.0,780000.0,0.0
+238,Estêvão,estevao-39196,18,Brazil,Chelsea,2025-07-14,2033-06-30,60000.0,3120000.0,780000.0,0.0
+239,Senne Lammens,senne-lammens-37444,23,Belgium,Manchester United,2025-09-01,2030-06-30,60000.0,3120000.0,780000.0,0.0
+240,Ola Aina,ola-aina-35346,28,Nigeria,Nottingham Forest,2025-07-07,2028-06-30,60000.0,3120000.0,780000.0,0.0
+241,André Trindade,andre-trindade-37088,24,Brazil,Wolverhampton,2024-08-30,2029-06-30,60000.0,3120000.0,780000.0,0.0
+242,Mateus Fernandes,mateus-fernandes-38178,21,Portugal,West Ham,2025-08-29,2026-06-30,60000.0,3120000.0,780000.0,0.0
+243,Tyler Adams,tyler-adams-36205,26,United States,Bournemouth,2023-08-20,2028-06-30,60000.0,3120000.0,780000.0,0.0
+244,Olivier Boscagli,olivier-boscagli-35752,27,France,Brighton,2025-07-02,2030-06-30,60000.0,3120000.0,780000.0,0.0
+245,Amine Adli,amine-adli-36656,25,Morocco,Bournemouth,2025-08-21,2030-06-30,60000.0,3120000.0,780000.0,0.0
+246,Djordje Petrovic,djordje-petrovic-36441,25,Serbia,Bournemouth,2025-07-16,2030-06-30,60000.0,3120000.0,780000.0,0.0
+247,Daniel Muñoz,daniel-munoz-35210,29,Colombia,Crystal Palace,2025-04-18,2028-06-30,60000.0,3120000.0,780000.0,0.0
+248,Yeremi Pino,yeremi-pino-37549,22,Spain,Crystal Palace,2025-08-29,2030-06-30,60000.0,3120000.0,780000.0,0.0
+249,Robert Sánchez,robert-sanchez-35752,27,Spain,Chelsea,2023-08-05,2030-06-30,60000.0,3120000.0,780000.0,0.0
+250,Danny Welbeck,danny-welbeck-33203,34,England,Brighton,2024-05-14,2026-06-30,60000.0,3120000.0,780000.0,0.0
+251,Beto,beto-35826,27,Guinea-Bissau,Everton,2023-08-29,2027-06-30,60000.0,3120000.0,780000.0,0.0
+252,James Milner,james-milner-31416,39,England,Brighton,2025-06-13,2026-06-30,60000.0,3120000.0,780000.0,0.0
+253,Ross Barkley,ross-barkley-34308,31,England,Aston Villa,2024-07-01,2026-06-30,60000.0,3120000.0,780000.0,0.0
+254,José Sá,jose-sa-33986,32,Portugal,Wolverhampton,2023-09-29,2027-06-30,60000.0,3120000.0,780000.0,0.0
+255,Lewis Cook,lewis-cook-35464,28,England,Bournemouth,2024-07-04,2028-06-30,60000.0,3120000.0,780000.0,0.0
+256,Antonee Robinson,antonee-robinson-35650,28,United States,Fulham,2023-07-07,2028-06-30,60000.0,3120000.0,780000.0,0.0
+257,Will Hughes,will-hughes-34806,30,England,Crystal Palace,2025-04-15,2027-06-30,60000.0,3120000.0,780000.0,0.0
+258,Arnaud Kalimuendo,arnaud-kalimuendo-37276,23,France,Nottingham Forest,2025-08-18,2030-06-30,60000.0,3120000.0,780000.0,0.0
+259,Vitaliy Mykolenko,vitaliy-mykolenko-36309,26,Ukraine,Everton,2022-01-01,2026-06-30,58000.0,3016000.0,754000.0,0.0
+260,Josh Cullen,josh-cullen-35162,29,Ireland,Burnley,2024-09-09,2027-06-30,55000.0,2860000.0,715000.0,0.0
+261,Giovanni Leoni,giovanni-leoni-39072,18,Italy,Liverpool,2025-08-15,2031-06-30,55000.0,2860000.0,715000.0,0.0
+262,Arthur Masuaku,arthur-masuaku-34280,31,Democratic Republic of the Congo,Sunderland,2025-08-10,2027-06-30,55000.0,2860000.0,715000.0,0.0
+263,Séamus Coleman,seamus-coleman-32427,36,Ireland,Everton,2025-06-27,2026-06-30,55000.0,2860000.0,715000.0,0.0
+264,Adam Webster,adam-webster-34703,30,England,Brighton,2021-08-02,2026-06-30,55000.0,2860000.0,715000.0,0.0
+265,Kyle Walker-Peters,kyle-walker-peters-35533,28,England,West Ham,2025-07-20,2028-06-30,55000.0,2860000.0,715000.0,0.0
+266,Caoimhín Kelleher,caoimhin-kelleher-36122,26,Ireland,Brentford,2025-07-01,2030-06-30,55000.0,2860000.0,715000.0,0.0
+267,Emil Krafth,emil-krafth-34548,31,Sweden,Newcastle,2025-02-20,2026-06-30,55000.0,2860000.0,715000.0,0.0
+268,Lesley Ugochukwu,lesley-ugochukwu-38072,21,France,Burnley,2025-08-06,2030-06-30,55000.0,2860000.0,715000.0,0.0
+269,Sander Berge,sander-berge-35840,27,Norway,Fulham,2024-08-22,2029-06-30,55000.0,2860000.0,715000.0,0.0
+270,Chris Richards,chris-richards-36613,25,United States,Crystal Palace,2022-07-27,2027-06-30,55000.0,2860000.0,715000.0,0.0
+271,Maxim De Cuyper,maxim-de-cuyper-36882,24,Belgium,Brighton,2025-07-05,2030-06-30,55000.0,2860000.0,715000.0,0.0
+272,Yves Bissouma,yves-bissouma-35307,29,Mali,Tottenham,2022-07-01,2026-06-30,55000.0,2860000.0,715000.0,0.0
+273,Cristhian Mosquera,cristhian-mosquera-38165,21,Spain,Arsenal,2025-07-24,2030-06-30,55000.0,2860000.0,715000.0,0.0
+274,Mathys Tel,mathys-tel-38469,20,France,Tottenham,2025-07-01,2031-06-30,55000.0,2860000.0,715000.0,0.0
+275,Omari Hutchinson,omari-hutchinson-37924,21,England,Nottingham Forest,2025-08-16,2030-06-30,55000.0,2860000.0,715000.0,0.0
+276,Harry Wilson,harry-wilson-35511,28,Wales,Fulham,2025-05-15,2026-06-30,55000.0,2860000.0,715000.0,0.0
+277,Trevoh Chalobah,trevoh-chalobah-36346,26,England,Chelsea,2022-11-25,2028-06-30,50000.0,2600000.0,650000.0,0.0
+278,Ryan Yates,ryan-yates-35755,27,England,Nottingham Forest,2024-07-25,2028-06-30,50000.0,2600000.0,650000.0,0.0
+279,Sam Johnstone,sam-johnstone-34053,32,England,Wolverhampton,2024-08-30,2028-06-30,50000.0,2600000.0,650000.0,0.0
+280,Brajan Gruda,brajan-gruda-38138,21,Germany,Brighton,2024-08-14,2028-06-30,50000.0,2600000.0,650000.0,0.0
+281,David Brooks,david-brooks-35619,28,Wales,Bournemouth,2022-08-22,2026-06-30,50000.0,2600000.0,650000.0,0.0
+282,Pascal Struijk,pascal-struijk-36383,26,Netherlands,Leeds,2022-12-21,2027-06-30,50000.0,2600000.0,650000.0,0.0
+283,Oscar Bobb,oscar-bobb-37814,22,Norway,Manchester City,2024-02-26,2029-06-30,50000.0,2600000.0,650000.0,0.0
+284,Solly March,solly-march-34535,31,England,Brighton,2023-03-17,2026-06-30,50000.0,2600000.0,650000.0,0.0
+285,Nathaniel Clyne,nathaniel-clyne-33333,34,England,Crystal Palace,2025-06-05,2026-06-30,50000.0,2600000.0,650000.0,0.0
+286,Filip Jørgensen,filip-jorgensen-37362,23,Denmark,Chelsea,2024-07-30,2031-06-30,50000.0,2600000.0,650000.0,0.0
+287,Taiwo Awoniyi,taiwo-awoniyi-35654,28,Nigeria,Nottingham Forest,2022-07-01,2027-06-30,50000.0,2600000.0,650000.0,0.0
+288,Tino Livramento,tino-livramento-37572,22,England,Newcastle,2023-08-08,2028-06-30,50000.0,2600000.0,650000.0,0.0
+289,Habib Diarra,habib-diarra-37989,21,Senegal,Sunderland,2025-07-01,2030-06-30,50000.0,2600000.0,650000.0,0.0
+290,Maxime Estève,maxime-esteve-37402,23,France,Burnley,2025-07-30,2030-06-30,50000.0,2600000.0,650000.0,0.0
+291,Maxence Lacroix,maxence-lacroix-36622,25,France,Crystal Palace,2024-08-30,2029-06-30,50000.0,2600000.0,650000.0,0.0
+292,Harrison Reed,harrison-reed-34726,30,England,Fulham,2023-09-14,2027-06-30,50000.0,2600000.0,650000.0,0.0
+293,Matt Doherty,matt-doherty-33619,33,Ireland,Wolverhampton,2023-07-20,2026-06-30,50000.0,2600000.0,650000.0,0.0
+294,Mathias Jensen,mathias-jensen-35065,29,Denmark,Brentford,2023-01-18,2026-06-30,50000.0,2600000.0,650000.0,0.0
+295,Igor Jesus,igor-jesus-36947,24,Brazil,Nottingham Forest,2025-07-05,2029-06-30,50000.0,2600000.0,650000.0,0.0
+296,Igor Thiago,igor-thiago-37068,24,Brazil,Brentford,2024-07-01,2029-06-30,50000.0,2600000.0,650000.0,0.0
+297,Reinildo Mandava,reinildo-mandava-34355,31,Mozambique,Sunderland,2025-07-08,2027-06-30,50000.0,2600000.0,650000.0,0.0
+298,Jadon Sancho,jadon-sancho-36610,25,England,Manchester United,2021-07-23,2026-06-30,50000.0,2600000.0,5200000.0,0.0
+299,Wataru Endo,wataru-endo-34009,32,Japan,Liverpool,2023-08-18,2027-06-30,50000.0,2600000.0,650000.0,0.0
+300,Marcus Edwards,marcus-edwards-36132,26,England,Burnley,2025-07-01,2029-06-30,50000.0,2600000.0,650000.0,0.0
+301,Marcos Senesi,marcos-senesi-35560,28,Argentina,Bournemouth,2022-08-08,2026-06-30,50000.0,2600000.0,650000.0,0.0
+302,Marc Guiu,marc-guiu-38721,19,Spain,Chelsea,2024-07-01,2029-06-30,50000.0,2600000.0,650000.0,0.0
+303,James Trafford,james-trafford-37539,22,England,Manchester City,2025-07-29,2030-06-30,50000.0,2600000.0,650000.0,0.0
+304,Jan Paul van Hecke,jan-paul-van-hecke-36685,25,Netherlands,Brighton,2023-12-15,2027-06-30,50000.0,2600000.0,650000.0,0.0
+305,Marc Guéhi,marc-guehi-36720,25,England,Crystal Palace,2021-07-18,2026-06-30,50000.0,2600000.0,650000.0,0.0
+306,Konstantinos Mavropanos,konstantinos-mavropanos-35775,27,Greece,West Ham,2023-08-22,2028-06-30,50000.0,2600000.0,650000.0,0.0
+307,Jean-Philippe Mateta,jean-philippe-mateta-35609,28,France,Crystal Palace,2024-12-23,2027-06-30,50000.0,2600000.0,650000.0,0.0
+308,Jérémy Doku,jeremy-doku-37403,23,Belgium,Manchester City,2023-08-24,2028-06-30,50000.0,2600000.0,650000.0,0.0
+309,Lukasz Fabianski,lukasz-fabianski-31155,40,Poland,West Ham,2025-09-10,2026-06-30,50000.0,2600000.0,650000.0,0.0
+310,Lucas Perri,lucas-perri-35774,27,Brazil,Leeds,2025-07-26,2029-06-30,50000.0,2600000.0,650000.0,0.0
+311,Keane Lewis-Potter,keane-lewis-potter-36944,24,England,Brentford,2025-01-08,2031-06-30,50000.0,2600000.0,650000.0,0.0
+312,Joël Veltman,joel-veltman-33618,33,Netherlands,Brighton,2025-01-01,2026-06-30,50000.0,2600000.0,650000.0,0.0
+313,Kevin,kevin-37625,22,Brazil,Fulham,2025-09-01,2030-06-30,50000.0,2600000.0,650000.0,0.0
+314,Abdukodir Khusanov,abdukodir-khusanov-38046,21,Uzbekistan,Manchester City,2025-01-20,2029-06-30,50000.0,2600000.0,650000.0,0.0
+315,Callum Wilson,callum-wilson-33661,33,England,West Ham,2025-08-02,2026-06-30,50000.0,2600000.0,650000.0,0.0
+316,Sebastiaan Bornauw,sebastiaan-bornauw-36241,26,Belgium,Leeds,2025-07-01,2029-06-30,45000.0,2340000.0,585000.0,0.0
+317,Anton Stach,anton-stach-36114,26,Germany,Leeds,2025-07-22,2029-06-30,45000.0,2340000.0,585000.0,0.0
+318,Armando Broja,armando-broja-37144,23,Albania,Burnley,2025-08-08,2030-06-30,45000.0,2340000.0,585000.0,0.0
+319,Axel Tuanzebe,axel-tuanzebe-35748,27,Democratic Republic of the Congo,Burnley,2025-07-01,2026-06-30,45000.0,2340000.0,585000.0,0.0
+320,Brenden Aaronson,brenden-aaronson-36821,24,United States,Leeds,2022-07-01,2027-06-30,45000.0,2340000.0,585000.0,0.0
+321,Calvin Bassey,calvin-bassey-36525,25,Nigeria,Fulham,2023-07-28,2027-06-30,45000.0,2340000.0,585000.0,0.0
+322,Crysencio Summerville,crysencio-summerville-37194,23,Netherlands,West Ham,2024-08-03,2029-06-30,45000.0,2340000.0,585000.0,0.0
+323,Igor,igor-35833,27,Brazil,West Ham,2025-09-01,2026-06-30,45000.0,2340000.0,585000.0,0.0
+324,Iliman Ndiaye,iliman-ndiaye-36591,25,Senegal,Everton,2024-07-03,2029-06-30,45000.0,2340000.0,585000.0,0.0
+325,Jacob Bruun Larsen,jacob-bruun-larsen-36057,26,Denmark,Burnley,2025-07-11,2029-06-30,45000.0,2340000.0,585000.0,0.0
+326,Jaidon Anthony,jaidon-anthony-36495,25,England,Burnley,2025-07-01,2029-06-30,45000.0,2340000.0,585000.0,0.0
+327,Jaka Bijol,jaka-bijol-36196,26,Slovenia,Leeds,2025-07-01,2030-06-30,45000.0,2340000.0,585000.0,0.0
+328,Ladislav Krejci,ladislav-krejci-36270,26,Czech Republic,Wolverhampton,2025-08-28,2026-06-30,45000.0,2340000.0,585000.0,0.0
+329,Lewis Hall,lewis-hall-38238,20,England,Newcastle,2024-07-01,2026-06-30,45000.0,2340000.0,585000.0,0.0
+330,Loum Tchaouna,loum-tchaouna-37872,21,France,Burnley,2025-07-02,2030-06-30,45000.0,2340000.0,585000.0,0.0
+331,Mads Hermansen,mads-hermansen-36718,25,Denmark,West Ham,2025-08-09,2030-06-30,45000.0,2340000.0,585000.0,0.0
+332,Malo Gusto,malo-gusto-37760,22,France,Chelsea,2023-01-29,2030-06-30,45000.0,2340000.0,585000.0,0.0
+333,Marco Bizot,marco-bizot-33307,34,Netherlands,Aston Villa,2025-07-15,2027-06-30,45000.0,2340000.0,585000.0,0.0
+334,Myles Lewis-Skelly,myles-lewis-skelly-38986,18,England,Arsenal,2025-06-26,2030-06-30,45000.0,2340000.0,585000.0,0.0
+335,Nicolò Savona,nicolo-savona-37699,22,Italy,Nottingham Forest,2025-08-30,2030-06-30,45000.0,2340000.0,780000.0,0.0
+336,Quilindschy Hartman,quilindschy-hartman-37209,23,Netherlands,Burnley,2025-07-01,2029-06-30,45000.0,2340000.0,585000.0,0.0
+337,Roméo Lavia,romeo-lavia-37992,21,Belgium,Chelsea,2023-08-18,2030-06-30,45000.0,2340000.0,585000.0,0.0
+338,Ryan Sessegnon,ryan-sessegnon-36664,25,England,Fulham,2024-07-26,2026-06-30,45000.0,2340000.0,585000.0,0.0
+339,Thierno Barry,thierno-barry-37550,22,France,Everton,2025-07-09,2029-06-30,45000.0,2340000.0,585000.0,0.0
+340,Tom Heaton,tom-heaton-31517,39,England,Manchester United,2025-06-27,2026-06-30,45000.0,2340000.0,585000.0,0.0
+341,Trai Hume,trai-hume-37333,23,Northern Ireland,Sunderland,2025-08-13,2030-06-30,45000.0,2340000.0,585000.0,0.0
+342,Kristoffer Ajer,kristoffer-ajer-35902,27,Norway,Brentford,2023-11-21,2028-06-30,40000.0,2080000.0,520000.0,0.0
+343,Santiago Bueno,santiago-bueno-36108,26,Uruguay,Wolverhampton,2023-08-31,2028-06-30,40000.0,2080000.0,520000.0,0.0
+344,Joe Worrall,joe-worrall-35440,28,England,Burnley,2024-08-22,2028-06-30,40000.0,2080000.0,520000.0,0.0
+345,Fábio Carvalho,fabio-carvalho-37498,23,Portugal,Brentford,2024-08-12,2029-06-30,40000.0,2080000.0,520000.0,0.0
+346,Elliot Anderson,elliot-anderson-37566,22,England,Nottingham Forest,2024-07-01,2029-06-30,40000.0,2080000.0,520000.0,0.0
+347,Djed Spence,djed-spence-36747,25,England,Tottenham,2024-10-17,2029-06-30,40000.0,2080000.0,520000.0,0.0
+348,Wilfried Gnonto,wilfried-gnonto-37930,21,Italy,Leeds,2024-08-31,2028-06-30,40000.0,2080000.0,520000.0,0.0
+349,Stefan Bajcetic,stefan-bajcetic-38282,20,Spain,Liverpool,2023-01-26,2027-06-30,40000.0,2080000.0,520000.0,0.0
+350,Bashir Humphreys,bashir-humphreys-37695,22,England,Burnley,2025-07-01,2026-06-30,40000.0,2080000.0,520000.0,0.0
+351,Adam Smith,adam-smith-33357,34,England,Bournemouth,2024-09-12,2026-06-30,40000.0,2080000.0,520000.0,0.0
+352,Patrick Dorgu,patrick-dorgu-38286,20,Denmark,Manchester United,2025-02-02,2030-06-30,40000.0,2080000.0,520000.0,0.0
+353,James McAtee,james-mcatee-37547,22,England,Nottingham Forest,2025-08-16,2030-06-30,40000.0,2080000.0,520000.0,0.0
+354,Yankuba Minteh,yankuba-minteh-38190,21,The Gambia,Brighton,2024-07-01,2029-06-30,40000.0,2080000.0,520000.0,0.0
+355,Dário Essugo,dario-essugo-38425,20,Portugal,Chelsea,2025-06-10,2033-06-30,40000.0,2080000.0,520000.0,0.0
+356,Joe Rodon,joe-rodon-35725,27,Wales,Leeds,2024-07-02,2028-06-30,40000.0,2080000.0,520000.0,0.0
+357,Florentino,florentino-36391,26,Portugal,Burnley,2025-09-01,2026-06-30,40000.0,2080000.0,520000.0,0.0
+358,Joël Piroe,joel-piroe-36374,26,Netherlands,Leeds,2023-08-24,2027-06-30,40000.0,2080000.0,520000.0,0.0
+359,Wilson Odobert,wilson-odobert-38319,20,France,Tottenham,2024-08-16,2029-06-30,40000.0,2080000.0,520000.0,0.0
+360,Charalampos Kostoulas,charalampos-kostoulas-39232,18,Greece,Brighton,2025-07-01,2030-06-30,40000.0,2080000.0,520000.0,0.0
+361,Frank Onyeka,frank-onyeka-35796,27,Nigeria,Brentford,2023-08-07,2027-06-30,40000.0,2080000.0,520000.0,0.0
+362,Jamaal Lascelles,jamaal-lascelles-34284,31,England,Newcastle,2023-03-08,2026-06-30,40000.0,2080000.0,520000.0,0.0
+363,Martin Dubravka,martin-dubravka-32523,36,Slovakia,Burnley,2025-08-07,2026-06-30,40000.0,2080000.0,520000.0,0.0
+364,Alex Scott,alex-scott-37854,22,England,Bournemouth,2023-08-10,2028-06-30,40000.0,2080000.0,520000.0,0.0
+365,Willy Boly,willy-boly-33272,34,Cote d'Ivoire,Nottingham Forest,2025-06-19,2026-06-30,40000.0,2080000.0,520000.0,0.0
+366,Ethan Ampadu,ethan-ampadu-36783,24,Wales,Leeds,2023-07-19,2027-06-30,40000.0,2080000.0,520000.0,0.0
+367,Gabriel Gudmundsson,gabriel-gudmundsson-36279,26,Sweden,Leeds,2025-07-08,2029-06-30,40000.0,2080000.0,520000.0,0.0
+368,Gabriel Slonina,gabriel-slonina-38122,21,United States,Chelsea,2022-08-02,2028-06-30,40000.0,2080000.0,520000.0,0.0
+369,Tyrick Mitchell,tyrick-mitchell-36404,26,England,Crystal Palace,2021-04-13,2027-06-30,40000.0,2080000.0,520000.0,0.0
+370,Michael Kayode,michael-kayode-38178,21,Italy,Brentford,2025-07-01,2030-06-30,40000.0,2080000.0,520000.0,0.0
+371,Ki-Jana Hoever,ki-jana-hoever-37274,23,Netherlands,Wolverhampton,2023-07-21,2026-06-30,40000.0,2080000.0,520000.0,0.0
+372,Noah Sadiki,noah-sadiki-38338,20,Democratic Republic of the Congo,Sunderland,2025-07-04,2030-06-30,40000.0,2080000.0,520000.0,0.0
+373,Matt Targett,matt-targett-34960,29,England,Newcastle,2022-07-01,2026-06-30,40000.0,2080000.0,520000.0,0.0
+374,John,john-35108,29,Brazil,Nottingham Forest,2025-08-31,2028-06-30,40000.0,2080000.0,520000.0,0.0
+375,Tyler Dibling,tyler-dibling-38765,19,England,Everton,2025-08-25,2029-06-30,40000.0,2080000.0,520000.0,0.0
+376,Chemsdine Talbi,chemsdine-talbi-38481,20,Morocco,Sunderland,2025-07-09,2030-06-30,40000.0,2080000.0,520000.0,0.0
+377,Matz Sels,matz-sels-33660,33,Belgium,Nottingham Forest,2025-07-18,2027-06-30,40000.0,2080000.0,520000.0,0.0
+378,Tom Cairney,tom-cairney-33258,34,Scotland,Fulham,2025-07-14,2026-06-30,35000.0,1820000.0,455000.0,0.0
+379,Nicolás Domínguez,nicolas-dominguez-35974,27,Argentina,Nottingham Forest,2023-09-01,2028-06-30,35000.0,1820000.0,455000.0,0.0
+380,Soungoutou Magassa,soungoutou-magassa-37902,21,France,West Ham,2025-08-29,2031-06-30,35000.0,1820000.0,455000.0,0.0
+381,Bart Verbruggen,bart-verbruggen-37486,23,Netherlands,Brighton,2023-07-03,2028-06-30,35000.0,1820000.0,455000.0,0.0
+382,Borna Sosa,borna-sosa-35816,27,Croatia,Crystal Palace,2025-07-11,2028-06-30,35000.0,1820000.0,455000.0,0.0
+383,Connor Roberts,connor-roberts-34965,29,Wales,Burnley,2021-08-31,2027-06-30,35000.0,1820000.0,455000.0,0.0
+384,Max Dowman,max-dowman-40178,15,England,Arsenal,2025-07-01,2026-06-30,35000.0,1820000.0,455000.0,0.0
+385,Walter Benítez,walter-benitez-33988,32,Argentina,Crystal Palace,2025-07-01,2026-06-30,35000.0,1820000.0,455000.0,0.0
+386,El Hadji Malick Diouf,el-hadji-malick-diouf-38349,20,Senegal,West Ham,2025-07-15,2030-06-30,35000.0,1820000.0,455000.0,0.0
+387,Altay Bayındır,altay-bayindir-35899,27,Turkey,Manchester United,2023-09-01,2027-06-30,35000.0,1820000.0,455000.0,0.0
+388,Chris Rigg,chris-rigg-39251,18,England,Sunderland,2025-08-28,2030-06-30,35000.0,1820000.0,455000.0,0.0
+389,Luis Sinisterra,luis-sinisterra-36328,26,Colombia,Bournemouth,2024-07-01,2026-06-30,35000.0,1820000.0,455000.0,0.0
+390,Lukas Nmecha,lukas-nmecha-36143,26,Germany,Leeds,2025-07-01,2027-06-30,35000.0,1820000.0,455000.0,0.0
+391,Rico Henry,rico-henry-35619,28,England,Brentford,2022-03-22,2026-06-30,35000.0,1820000.0,455000.0,0.0
+392,Andrey Santos,andrey-santos-38110,21,Brazil,Chelsea,2023-01-01,2030-06-30,35000.0,1820000.0,455000.0,0.0
+393,Zeki Amdouni,zeki-amdouni-36864,24,Switzerland,Burnley,2023-07-19,2028-06-30,35000.0,1820000.0,455000.0,0.0
+394,Romain Faivre,romain-faivre-35990,27,France,Bournemouth,2023-07-13,2028-06-30,35000.0,1820000.0,455000.0,0.0
+395,Daniel Ballard,daniel-ballard-36425,25,Northern Ireland,Sunderland,2024-07-24,2028-06-30,35000.0,1820000.0,455000.0,0.0
+396,Adam Wharton,adam-wharton-38023,21,England,Crystal Palace,2024-02-01,2029-06-30,35000.0,1820000.0,455000.0,0.0
+397,Adrien Truffert,adrien-truffert-37215,23,France,Bournemouth,2025-07-01,2030-06-30,35000.0,1820000.0,455000.0,0.0
+398,Cuiabano,cuiabano-37668,22,Brazil,Nottingham Forest,2025-09-01,2029-06-30,35000.0,1820000.0,455000.0,0.0
+399,James Justin,james-justin-35849,27,England,Leeds,2025-08-25,2029-06-30,35000.0,1820000.0,455000.0,0.0
+400,Marcus Bettinelli,marcus-bettinelli-33748,33,England,Manchester City,2025-06-10,2026-06-30,35000.0,1820000.0,455000.0,0.0
+401,Morato,morato-37072,24,Brazil,Nottingham Forest,2024-08-30,2029-06-30,35000.0,1820000.0,455000.0,0.0
+402,Jake O'Brien,jake-o-brien-37026,24,Ireland,Everton,2024-07-30,2028-06-30,35000.0,1820000.0,455000.0,0.0
+403,Jair Cunha,jair-cunha-38418,20,Brazil,Nottingham Forest,2025-07-11,2030-06-30,35000.0,1820000.0,455000.0,0.0
+404,Jacob Murphy,jacob-murphy-34754,30,England,Newcastle,2021-07-07,2027-06-30,35000.0,1820000.0,455000.0,0.0
+405,David Møller Wolfe,david-moller-wolfe-37369,23,Norway,Wolverhampton,2025-08-02,2030-06-30,30000.0,1560000.0,390000.0,0.0
+406,Lamare Bogarde,lamare-bogarde-37991,21,Netherlands,Aston Villa,2025-04-07,2026-06-30,30000.0,1560000.0,390000.0,0.0
+407,Vitaly Janelt,vitaly-janelt-35925,27,Germany,Brentford,2022-04-01,2026-06-30,30000.0,1560000.0,390000.0,0.0
+408,Lewis Miley,lewis-miley-38838,19,England,Newcastle,2024-01-29,2029-06-30,30000.0,1560000.0,390000.0,0.0
+409,Luis Guilherme,luis-guilherme-38757,19,Brazil,West Ham,2024-07-01,2029-06-30,30000.0,1560000.0,390000.0,0.0
+410,Angus Gunn,angus-gunn-35086,29,Scotland,Nottingham Forest,2025-08-06,2026-06-30,30000.0,1560000.0,390000.0,0.0
+411,Antoni Milambo,antoni-milambo-38445,20,Netherlands,Brentford,2025-07-03,2030-06-30,30000.0,1560000.0,390000.0,0.0
+412,Antonín Kinský,antonin-kinsky-37693,22,Czech Republic,Tottenham,2025-01-05,2031-06-30,30000.0,1560000.0,390000.0,0.0
+413,Jayden Bogle,jayden-bogle-36734,25,England,Leeds,2024-07-20,2028-06-30,30000.0,1560000.0,390000.0,0.0
+414,Karl Darlow,karl-darlow-33154,34,Wales,Leeds,2023-07-29,2026-06-30,30000.0,1560000.0,390000.0,0.0
+415,Yerson Mosquera,yerson-mosquera-37013,24,Colombia,Wolverhampton,2025-03-31,2030-06-30,30000.0,1560000.0,390000.0,0.0
+416,James Garner,james-garner-36963,24,England,Everton,2022-09-01,2026-06-30,30000.0,1560000.0,390000.0,0.0
+417,Illan Meslier,illan-meslier-36587,25,France,Leeds,2021-08-13,2026-06-30,30000.0,1560000.0,390000.0,0.0
+418,Ben Doak,ben-doak-38667,19,Scotland,Bournemouth,2025-08-18,2030-06-30,30000.0,1560000.0,390000.0,0.0
+419,Benjamin Lecomte,benjamin-lecomte-33354,34,France,Fulham,2025-07-26,2027-06-30,30000.0,1560000.0,390000.0,0.0
+420,Benson Manuel,benson-manuel-35517,28,Angola,Burnley,2023-08-09,2027-06-30,30000.0,1560000.0,390000.0,0.0
+421,Mike Tresor,mike-tresor-36308,26,Belgium,Burnley,2024-07-01,2028-06-30,30000.0,1560000.0,390000.0,0.0
+422,Chadi Riad,chadi-riad-37789,22,Morocco,Crystal Palace,2024-07-02,2029-06-30,30000.0,1560000.0,390000.0,0.0
+423,Robin Roefs,robin-roefs-37638,22,Netherlands,Sunderland,2025-08-01,2030-06-30,30000.0,1560000.0,390000.0,0.0
+424,Naouirou Ahamada,naouirou-ahamada-37344,23,France,Crystal Palace,2023-01-31,2026-06-30,30000.0,1560000.0,390000.0,0.0
+425,Nathan Collins,nathan-collins-37011,24,Ireland,Brentford,2023-07-04,2029-06-30,30000.0,1560000.0,390000.0,0.0
+426,Reiss Nelson,reiss-nelson-36504,25,England,Arsenal,2023-06-06,2027-06-30,30000.0,1560000.0,390000.0,0.0
+427,Ethan Pinnock,ethan-pinnock-34118,32,Jamaica,Brentford,2023-05-28,2027-06-30,30000.0,1560000.0,390000.0,0.0
+428,Christantus Uche,christantus-uche-37760,22,Nigeria,Crystal Palace,2025-09-01,2026-06-30,30000.0,1560000.0,390000.0,0.0
+429,Nico O'Reilly,nico-o-reilly-38432,20,England,Manchester City,2025-09-26,2030-06-30,30000.0,1560000.0,390000.0,0.0
+430,Eliezer Mayenda,eliezer-mayenda-38480,20,Spain,Sunderland,2025-08-07,2030-06-30,30000.0,1560000.0,390000.0,0.0
+431,Oleksandr Zinchenko,oleksandr-zinchenko-35414,28,Ukraine,Arsenal,2022-07-22,2026-06-30,30000.0,1560000.0,2600000.0,0.0
+432,Nathan Patterson,nathan-patterson-37180,23,Scotland,Everton,2022-01-04,2027-06-30,28000.0,1456000.0,364000.0,0.0
+433,Boubacar Traoré,boubacar-traore-37123,24,Mali,Wolverhampton,2023-07-01,2027-06-30,27500.0,1430000.0,357500.0,0.0
+434,Jordan Beyer,jordan-beyer-36665,25,Germany,Burnley,2023-07-01,2027-06-30,25000.0,1300000.0,325000.0,0.0
+435,Jonah Kusi-Asare,jonah-kusi-asare-39267,18,Sweden,Fulham,2025-09-01,2026-06-30,25000.0,1300000.0,325000.0,0.0
+436,Mark Travers,mark-travers-36298,26,Ireland,Everton,2025-07-15,2029-06-30,25000.0,1300000.0,325000.0,0.0
+437,Ashley Barnes,ashley-barnes-32811,35,England,Burnley,2025-06-27,2026-06-30,25000.0,1300000.0,325000.0,0.0
+438,Ao Tanaka,ao-tanaka-36048,26,Japan,Leeds,2024-08-30,2028-06-30,25000.0,1300000.0,325000.0,0.0
+439,James Hill,james-hill-37266,23,England,Bournemouth,2022-01-05,2026-06-30,25000.0,1300000.0,325000.0,0.0
+440,Rio Ngumoha,rio-ngumoha-39689,17,England,Liverpool,2025-09-25,2028-06-30,25000.0,1300000.0,325000.0,0.0
+441,Fer López,fer-lopez-38131,21,Spain,Wolverhampton,2025-07-01,2030-06-30,25000.0,1300000.0,325000.0,0.0
+442,Facundo Buonanotte,facundo-buonanotte-38344,20,Argentina,Chelsea,2025-09-01,2026-06-30,25000.0,1300000.0,325000.0,0.0
+443,Jaydee Canvot,jaydee-canvot-38927,19,France,Crystal Palace,2025-09-01,2029-06-30,25000.0,1300000.0,325000.0,0.0
+444,Rico Lewis,rico-lewis-38312,20,England,Manchester City,2023-08-15,2028-06-30,25000.0,1300000.0,325000.0,0.0
+445,Diego León,diego-leon-39175,18,Paraguay,Manchester United,2025-07-05,2026-06-30,25000.0,1300000.0,325000.0,0.0
+446,Yegor Yarmolyuk,yegor-yarmolyuk-38047,21,Ukraine,Brentford,2025-05-29,2031-06-30,25000.0,1300000.0,325000.0,0.0
+447,Dwight McNeil,dwight-mcneil-36486,25,England,Everton,2022-07-28,2027-06-30,25000.0,1300000.0,325000.0,0.0
+448,Julián Araujo,julian-araujo-37116,24,Mexico,Bournemouth,2024-08-13,2029-06-30,25000.0,1300000.0,325000.0,0.0
+449,Trey Nyoni,trey-nyoni-39263,18,England,Liverpool,2025-06-30,2026-06-30,25000.0,1300000.0,325000.0,0.0
+450,Diego Gómez,diego-gomez-37707,22,Paraguay,Brighton,2025-01-01,2026-06-30,25000.0,1300000.0,325000.0,0.0
+451,Tyler Fredricson,tyler-fredricson-38406,20,England,Manchester United,2025-07-01,2026-06-30,25000.0,1300000.0,325000.0,0.0
+452,Diego Coppola,diego-coppola-37983,21,Italy,Brighton,2025-07-01,2030-06-30,25000.0,1300000.0,325000.0,0.0
+453,Veljko Milosavljevic,veljko-milosavljevic-39261,18,Serbia,Bournemouth,2025-09-01,2030-06-30,25000.0,1300000.0,325000.0,0.0
+454,Jorge Cuenca,jorge-cuenca-36481,25,Spain,Fulham,2024-08-03,2028-06-30,25000.0,1300000.0,325000.0,0.0
+455,William Osula,william-osula-37837,22,Denmark,Newcastle,2024-08-08,2029-06-30,25000.0,1300000.0,325000.0,0.0
+456,Wilson Isidor,wilson-isidor-36765,25,France,Sunderland,2025-02-01,2028-06-30,25000.0,1300000.0,325000.0,0.0
+457,Hjalmar Ekdal,hjalmar-ekdal-36089,26,Sweden,Burnley,2023-01-21,2027-06-30,25000.0,1300000.0,325000.0,0.0
+458,Hugo Bueno,hugo-bueno-37517,22,Spain,Wolverhampton,2023-11-20,2028-06-30,25000.0,1300000.0,325000.0,0.0
+459,Max Weiß,max-weiss-38153,21,Germany,Burnley,2025-07-01,2029-06-30,25000.0,1300000.0,325000.0,0.0
+460,Sam Byram,sam-byram-34228,31,England,Leeds,2025-07-08,2026-06-30,25000.0,1300000.0,325000.0,0.0
+461,Kota Takai,kota-takai-38234,20,Japan,Tottenham,2025-07-08,2030-06-30,25000.0,1300000.0,325000.0,0.0
+462,Gustavo Nunes,gustavo-nunes-38676,19,Brazil,Brentford,2024-08-28,2030-06-30,25000.0,1300000.0,325000.0,0.0
+463,Ayden Heaven,ayden-heaven-38982,18,England,Manchester United,2025-02-01,2029-06-30,25000.0,1300000.0,325000.0,0.0
+464,Jack Hinshelwood,jack-hinshelwood-38453,20,England,Brighton,2024-04-09,2028-06-30,25000.0,1300000.0,325000.0,0.0
+465,Adam Aznou,adam-aznou-38870,19,Morocco,Everton,2025-07-29,2029-06-30,25000.0,1300000.0,325000.0,0.0
+466,Rodrigo Gomes,rodrigo-gomes-37809,22,Portugal,Wolverhampton,2024-07-01,2029-06-30,25000.0,1300000.0,325000.0,0.0
+467,Kobbie Mainoo,kobbie-mainoo-38461,20,England,Manchester United,2023-02-09,2027-06-30,25000.0,1300000.0,325000.0,0.0
+468,Freddie Woodman,freddie-woodman-35493,28,England,Liverpool,2025-07-01,2026-06-30,25000.0,1300000.0,325000.0,0.0
+469,Stefanos Tzimas,stefanos-tzimas-38723,19,Greece,Brighton,2025-02-03,2030-06-30,20000.0,1040000.0,260000.0,0.0
+470,Lucas Pires,lucas-pires-36974,24,Brazil,Burnley,2024-07-16,2028-06-30,20000.0,1040000.0,260000.0,0.0
+471,Luke O'Nien,luke-o-nien-34659,30,England,Sunderland,2025-08-14,2027-06-30,20000.0,1040000.0,260000.0,0.0
+472,Jason Steele,jason-steele-33103,35,England,Brighton,2023-11-02,2026-06-30,20000.0,1040000.0,260000.0,0.0
+473,Ian Poveda,ian-poveda-36565,25,Colombia,Sunderland,2024-07-24,2027-06-30,20000.0,1040000.0,260000.0,0.0
+474,Hannes Delcroix,hannes-delcroix-36219,26,Belgium,Burnley,2023-08-22,2026-06-30,20000.0,1040000.0,260000.0,0.0
+475,Eli Junior Kroupi,eli-junior-kroupi-38891,19,France,Bournemouth,2025-02-03,2030-06-30,20000.0,1040000.0,260000.0,0.0
+476,Oliver Scarles,oliver-scarles-38698,19,England,West Ham,2025-01-01,2028-06-30,20000.0,1040000.0,260000.0,0.0
+477,Dennis Cirkin,dennis-cirkin-37352,23,England,Sunderland,2023-06-17,2026-06-30,20000.0,1040000.0,260000.0,0.0
+478,Daniel Bentley,daniel-bentley-34163,32,England,Wolverhampton,2024-09-17,2027-06-30,20000.0,1040000.0,260000.0,0.0
+479,Carlos Alcaraz,carlos-alcaraz-37590,22,Argentina,Everton,2025-07-01,2027-06-30,20000.0,1040000.0,260000.0,0.0
+480,Sasa Kalajdzic,sasa-kalajdzic-35618,28,Austria,Wolverhampton,2022-08-31,2027-06-30,20000.0,1040000.0,260000.0,0.0
+481,Sepp van den Berg,sepp-van-den-berg-37245,23,Netherlands,Brentford,2024-08-22,2029-06-30,20000.0,1040000.0,260000.0,0.0
+482,Tim Iroegbunam,tim-iroegbunam-37802,22,England,Everton,2024-07-01,2027-06-30,20000.0,1040000.0,260000.0,0.0
+483,Anthony Patterson,anthony-patterson-36656,25,England,Sunderland,2023-09-22,2028-06-30,20000.0,1040000.0,260000.0,0.0
+484,Tom Watson,tom-watson-38815,19,England,Brighton,2025-07-01,2029-06-30,20000.0,1040000.0,260000.0,0.0
+485,Zian Flemming,zian-flemming-36008,27,Netherlands,Burnley,2025-07-01,2029-06-30,20000.0,1040000.0,260000.0,0.0
+486,Justin Devenny,justin-devenny-37905,21,Northern Ireland,Crystal Palace,2025-01-14,2027-06-30,20000.0,1040000.0,260000.0,0.0
+487,Julio Soler,julio-soler-38399,20,Argentina,Bournemouth,2025-01-07,2026-06-30,20000.0,1040000.0,260000.0,0.0
+488,Josh Laurent,josh-laurent-34825,30,England,Burnley,2024-08-30,2026-06-30,20000.0,1040000.0,260000.0,0.0
+489,Josh King,josh-king-39085,18,England,Fulham,2025-07-17,2029-06-30,20000.0,1040000.0,260000.0,0.0
+490,Álex Jiménez,alex-jimenez-38480,20,Spain,Bournemouth,2025-09-01,2026-06-30,18000.0,936000.0,312000.0,0.0
+491,Merlin Röhl,merlin-rohl-37442,23,Germany,Everton,2025-09-01,2026-06-30,15500.0,806000.0,201500.0,0.0
+492,Callum Marshall,callum-marshall-38319,20,Northern Ireland,West Ham,2025-07-01,2027-06-30,15000.0,780000.0,195000.0,0.0
+493,Mark Gillespie,mark-gillespie-33690,33,England,Newcastle,2025-06-06,2026-06-30,15000.0,780000.0,195000.0,0.0
+494,Ilia Gruev,ilia-gruev-36652,25,Bulgaria,Leeds,2023-08-31,2027-06-30,15000.0,780000.0,195000.0,0.0
+495,Tom King,tom-king-34767,30,Wales,Everton,2025-08-15,2027-06-30,15000.0,780000.0,195000.0,0.0
+496,Tom McGill,tom-mcgill-36610,25,Canada,Brighton,2025-05-08,2027-06-30,15000.0,780000.0,195000.0,0.0
+497,Andy Irving,andy-irving-36659,25,Scotland,West Ham,2023-08-31,2026-06-30,15000.0,780000.0,195000.0,0.0
+498,Simon Moore,simon-moore-33012,35,England,Sunderland,2024-07-01,2026-06-30,15000.0,780000.0,195000.0,0.0
+499,Enso González,enso-gonzalez-38372,20,Paraguay,Wolverhampton,2023-08-31,2029-06-30,15000.0,780000.0,195000.0,0.0
+500,Yunus Emre Konak,yunus-emre-konak-38727,19,Turkey,Brentford,2024-01-11,2029-06-30,15000.0,780000.0,195000.0,0.0
+501,David Datro Fofana,david-datro-fofana-37612,22,Cote d'Ivoire,Chelsea,2023-01-01,2029-06-30,15000.0,780000.0,195000.0,0.0
+502,Andrés García,andres-garcia-37659,22,Spain,Aston Villa,2025-01-21,2026-06-30,15000.0,780000.0,195000.0,0.0
+503,Curtis Jones,curtis-jones-36921,24,England,Liverpool,2022-11-17,2027-06-30,15000.0,780000.0,195000.0,0.0
+504,Chido Obi,chido-obi-39415,17,Denmark,Manchester United,2025-07-01,2026-06-30,15000.0,780000.0,195000.0,0.0
+505,Wes Foderingham,wes-foderingham-33252,34,England,West Ham,2024-07-01,2026-06-30,15000.0,780000.0,195000.0,0.0
+506,Blondy Nna Noukeu,blondy-nna-noukeu-37151,23,Cameroon,Sunderland,2024-08-02,2026-06-30,15000.0,780000.0,195000.0,0.0
+507,Dan Neil,dan-neil-37225,23,England,Sunderland,2023-03-21,2026-06-30,15000.0,780000.0,195000.0,0.0
+508,Enes Ünal,enes-unal-35560,28,Turkey,Bournemouth,2024-07-01,2028-06-30,15000.0,780000.0,195000.0,0.0
+509,Harrison Ashby,harrison-ashby-37209,23,Scotland,Newcastle,2023-01-31,2026-06-30,15000.0,780000.0,195000.0,0.0
+510,Aji Alese,aji-alese-36908,24,England,Sunderland,2024-03-22,2027-06-30,15000.0,780000.0,195000.0,0.0
+511,Freddie Potts,freddie-potts-37876,21,England,West Ham,2025-07-01,2029-06-30,15000.0,780000.0,195000.0,0.0
+512,Omar Richards,omar-richards-35841,27,England,Nottingham Forest,2022-07-10,2026-06-30,15000.0,780000.0,195000.0,0.0
+513,John Ruddy,john-ruddy-31709,38,England,Newcastle,2024-07-01,2026-06-30,15000.0,780000.0,195000.0,0.0
+514,Dane Scarlett,dane-scarlett-38070,21,England,Tottenham,2023-08-31,2027-06-30,15000.0,780000.0,195000.0,0.0
+515,Timothée Pembélé,timothee-pembele-37508,22,France,Sunderland,2023-09-01,2028-06-30,15000.0,780000.0,195000.0,0.0
+516,Samuel Iling-Junior,samuel-iling-junior-37898,21,England,Aston Villa,2024-07-01,2026-06-30,15000.0,780000.0,195000.0,0.0
+517,Romain Esse,romain-esse-38485,20,England,Crystal Palace,2025-01-18,2030-06-30,15000.0,780000.0,195000.0,0.0
+518,George Earthy,george-earthy-38235,20,England,West Ham,2025-07-01,2026-06-30,15000.0,780000.0,195000.0,0.0
+519,Romelle Donovan,romelle-donovan-39051,18,England,Brentford,2025-07-01,2030-06-30,15000.0,780000.0,195000.0,0.0
+520,Brandon Austin,brandon-austin-36168,26,England,Tottenham,2024-05-28,2029-06-30,15000.0,780000.0,195000.0,0.0
+521,Calvin Ramsay,calvin-ramsay-37833,22,Scotland,Liverpool,2022-07-01,2027-06-30,15000.0,780000.0,195000.0,0.0
+522,Zach Abbott,zach-abbott-38850,19,England,Nottingham Forest,2025-07-23,2029-06-30,12500.0,650000.0,162500.0,0.0
+523,Remi Matthews,remi-matthews-34375,31,England,Crystal Palace,2025-06-05,2027-06-30,12500.0,650000.0,162500.0,0.0
+524,Carlos Baleba,carlos-baleba-37989,21,Cameroon,Brighton,2023-08-29,2028-06-30,12500.0,650000.0,162500.0,0.0
+525,Caleb Kporha,caleb-kporha-38913,19,England,Crystal Palace,2025-04-09,2029-06-30,12500.0,650000.0,162500.0,0.0
+526,Václav Hladký,vaclav-hladky-33191,34,Czech Republic,Burnley,2024-07-19,2026-06-30,12000.0,624000.0,156000.0,0.0
+527,Callan McKenna,callan-mckenna-39073,18,Scotland,Bournemouth,2025-07-01,2026-06-30,12000.0,624000.0,156000.0,0.0
+528,Kevin Schade,kevin-schade-37222,23,Germany,Brentford,2023-07-01,2028-06-30,10000.0,520000.0,130000.0,0.0
+529,Jaydon Banel,jaydon-banel-38279,20,Netherlands,Burnley,2025-02-03,2029-06-30,10000.0,520000.0,130000.0,0.0
+530,Abdoullah Ba,abdoullah-ba-37833,22,France,Sunderland,2022-08-31,2027-06-30,10000.0,520000.0,130000.0,0.0
+531,Romaine Mundle,romaine-mundle-37735,22,England,Sunderland,2024-02-01,2028-06-30,10000.0,520000.0,130000.0,0.0
+532,Hákon Rafn Valdimarsson,hakon-rafn-valdimarsson-37177,23,Iceland,Brentford,2024-01-26,2028-06-30,10000.0,520000.0,130000.0,0.0
+533,Oliver Sonne,oliver-sonne-36840,24,Peru,Burnley,2025-01-01,2029-06-30,10000.0,520000.0,130000.0,0.0
+534,Remy Rees-Dottin,remy-rees-dottin-38782,19,England,Bournemouth,2025-07-07,2026-06-30,10000.0,520000.0,130000.0,0.0
+535,Leo Fuhr Hjelde,leo-fuhr-hjelde-37859,22,Norway,Sunderland,2024-01-30,2028-06-30,10000.0,520000.0,130000.0,0.0
+536,Nathan Fraser,nathan-fraser-38405,20,Ireland,Wolverhampton,2024-07-05,2028-06-30,10000.0,520000.0,130000.0,0.0
+537,Alex Cairns,alex-cairns-33973,32,England,Leeds,2024-07-08,2026-06-30,10000.0,520000.0,130000.0,0.0
+538,Rhys Williams,rhys-williams-36925,24,England,Liverpool,2021-08-31,2026-06-30,10000.0,520000.0,130000.0,0.0
+539,Ellery Balcombe,ellery-balcombe-36448,25,England,Brentford,2018-07-01,2027-06-30,10000.0,520000.0,130000.0,0.0
+540,Jay Matete,jay-matete-36933,24,England,Sunderland,2022-01-31,2026-06-30,10000.0,520000.0,130000.0,0.0
+541,Issa Kabore,issa-kabore-37023,24,Burkina Faso,Manchester City,2020-07-29,2027-06-30,10000.0,520000.0,130000.0,0.0
+542,Jesurun Rak-Sakyi,jesurun-rak-sakyi-37534,22,England,Crystal Palace,2022-08-11,2027-06-30,10000.0,520000.0,130000.0,0.0
+543,Tawanda Chirewa,tawanda-chirewa-37906,21,Zimbabwe,Wolverhampton,2024-08-26,2027-06-30,10000.0,520000.0,130000.0,0.0
+544,Luke Harris,luke-harris-38415,20,Wales,Fulham,2024-07-01,2026-06-30,10000.0,520000.0,130000.0,0.0
+545,Joe Anderson,joe-anderson-36928,24,England,Sunderland,2023-01-31,2026-06-30,8000.0,416000.0,104000.0,0.0
+546,Enock Agyei,enock-agyei-38365,20,Belgium,Burnley,2024-07-01,2027-06-30,8000.0,416000.0,104000.0,0.0
+547,Sam Chambers,sam-chambers-39312,18,Scotland,Leeds,2025-03-10,2028-06-30,8000.0,416000.0,104000.0,0.0
+548,Matheus França,matheus-franca-38078,21,Brazil,Crystal Palace,2023-08-05,2028-06-30,8000.0,416000.0,104000.0,0.0
+549,Mateus Mané,mateus-mane-39341,17,England,Wolverhampton,2025-07-01,2027-06-30,8000.0,416000.0,104000.0,0.0
+550,Julian Eyestone,julian-eyestone-38828,19,United States,Brentford,2025-07-04,2031-06-30,8000.0,416000.0,104000.0,0.0
+551,Alex Murphy,alex-murphy-38163,21,Ireland,Newcastle,2024-07-01,2028-06-30,8000.0,416000.0,104000.0,0.0
+552,Yasin Ayari,yasin-ayari-37900,21,Sweden,Brighton,2023-01-30,2027-06-30,8000.0,416000.0,104000.0,0.0
+553,Nigel Lonwijk,nigel-lonwijk-37556,22,Suriname,Wolverhampton,2020-01-24,2026-06-30,8000.0,416000.0,104000.0,0.0
+554,Owen Bevan,owen-bevan-37920,21,Wales,Bournemouth,2024-06-26,2028-06-30,8000.0,416000.0,104000.0,0.0
+555,Will Dennis,will-dennis-36717,25,England,Bournemouth,2025-02-05,2028-06-30,8000.0,416000.0,104000.0,0.0
+556,Ahmed Abdullahi,ahmed-abdullahi-38157,21,Nigeria,Sunderland,2024-08-30,2028-06-30,8000.0,416000.0,104000.0,0.0
+557,Dexter Lembikisa,dexter-lembikisa-37929,21,Jamaica,Wolverhampton,2020-07-01,2026-06-30,8000.0,416000.0,104000.0,0.0
+558,Benjamin Arthur,benjamin-arthur-38634,19,England,Brentford,2025-07-04,2031-06-30,8000.0,416000.0,104000.0,0.0
+559,Lewis Dobbin,lewis-dobbin-37624,22,England,Aston Villa,2024-07-01,2026-06-30,7500.0,390000.0,97500.0,0.0
+560,Tayo Adaramola,tayo-adaramola-37939,21,Ireland,Crystal Palace,2020-07-01,2026-06-30,7500.0,390000.0,97500.0,0.0
+561,Tyrique George,tyrique-george-38752,19,England,Chelsea,2024-12-18,2027-06-30,7500.0,390000.0,97500.0,0.0
+562,Matthew Cox,matthew-cox-37743,22,England,Brentford,2022-07-08,2028-06-30,7000.0,364000.0,91000.0,0.0
+563,Harrison Jones,harrison-jones-38346,20,England,Sunderland,2024-12-23,2026-06-30,5000.0,260000.0,65000.0,0.0
+564,Ethan Wheatley,ethan-wheatley-38737,19,England,Manchester United,2025-03-06,2028-06-30,5000.0,260000.0,65000.0,0.0
+565,Myles Peart-Harris,myles-peart-harris-37517,22,Jamaica,Brentford,2021-07-23,2026-06-30,5000.0,260000.0,65000.0,0.0
+566,Rio Cardines,rio-cardines-38899,19,Trinidad and Tobago,Crystal Palace,2025-07-01,2026-06-30,5000.0,260000.0,65000.0,0.0
+567,Milan Aleksic,milan-aleksic-38594,20,Serbia,Sunderland,2024-08-30,2028-06-30,5000.0,260000.0,65000.0,0.0
+568,Josh Acheampong,josh-acheampong-38842,19,England,Chelsea,2024-12-18,2029-06-30,5000.0,260000.0,65000.0,0.0
+569,Ashley Phillips,ashley-phillips-38529,20,England,Tottenham,2023-08-05,2028-06-30,5000.0,260000.0,65000.0,0.0
+570,Zak Johnson,zak-johnson-38497,20,England,Sunderland,2025-06-01,2026-06-30,5000.0,260000.0,65000.0,0.0
+571,Tyler Bindon,tyler-bindon-38379,20,New Zealand,Nottingham Forest,2025-02-02,2028-06-30,5000.0,260000.0,65000.0,0.0
+572,Joe Gauci,joe-gauci-36711,24,Australia,Aston Villa,2024-02-01,2028-06-30,5000.0,260000.0,65000.0,0.0
+573,Joe Hugill,joe-hugill-37913,21,England,Manchester United,2020-07-01,2026-06-30,5000.0,260000.0,65000.0,0.0
+574,Joe Whitworth,joe-whitworth-38046,21,England,Crystal Palace,2023-01-11,2027-06-30,5000.0,260000.0,65000.0,0.0
+575,Leo Castledine,leo-castledine-38584,20,England,Chelsea,2020-03-11,2027-06-30,5000.0,260000.0,65000.0,0.0
+576,Kaden Rodney,kaden-rodney-38267,20,England,Crystal Palace,2024-07-01,2026-06-30,5000.0,260000.0,65000.0,0.0
+577,Oliver Pimlott,oliver-pimlott-39179,18,England,Burnley,2025-07-01,2027-06-30,5000.0,260000.0,65000.0,0.0
+578,Nazarii Rusyn,nazarii-rusyn-36093,26,Ukraine,Sunderland,2023-09-01,2027-06-30,4500.0,234000.0,58500.0,0.0
+579,Matai Akinmboni,matai-akinmboni-39007,18,United States,Bournemouth,2025-01-03,2026-06-30,4000.0,208000.0,52000.0,0.0
+580,Mahamadou Susoho,mahamadou-susoho-38372,20,Spain,Manchester City,2023-07-01,2026-06-30,3500.0,182000.0,45500.0,0.0
+581,Paris Maghoma,paris-maghoma-37019,24,England,Brentford,2024-08-02,2027-06-30,3000.0,156000.0,39000.0,0.0
+582,Daniel Gore,daniel-gore-38256,20,England,Manchester United,2023-07-01,2026-06-30,3000.0,156000.0,39000.0,0.0
+583,Amario Cozier-Duberry,amario-cozier-duberry-38501,20,England,Brighton,2024-07-07,2028-06-30,3000.0,156000.0,39000.0,0.0
+584,Will Lankshear,will-lankshear-38462,20,England,Tottenham,2023-07-01,2029-06-30,2500.0,130000.0,32500.0,0.0
+585,Jimmy-Jay Morgan,jimmy-jay-morgan-38738,19,England,Chelsea,2023-02-10,2027-06-30,2500.0,130000.0,32500.0,0.0
+586,Min-hyeok Yang,min-hyeok-yang-38823,19,South Korea,Tottenham,2025-01-01,2026-06-30,2500.0,130000.0,32500.0,0.0
+587,Finley Burns,finley-burns-37789,22,England,Manchester City,2020-07-01,2027-06-30,2500.0,130000.0,32500.0,0.0
+588,Will Dickson,will-dickson-38316,20,England,Manchester City,2021-07-01,2027-06-30,1800.0,93600.0,23400.0,0.0
+589,Kamari Doyle,kamari-doyle-38565,20,England,Brighton,2024-01-26,2026-06-30,1500.0,78000.0,19500.0,0.0
+590,Joe White,joe-white-37530,22,England,Newcastle,2023-07-01,2026-06-30,1500.0,78000.0,19500.0,0.0
+591,Harry Tyrer,harry-tyrer-37231,23,England,Everton,2024-07-01,2026-06-30,1500.0,78000.0,19500.0,0.0
+592,Francis Okoronkwo,francis-okoronkwo-38248,20,England,Everton,2021-09-20,2026-06-30,1000.0,52000.0,13000.0,0.0
+593,Owen Goodman,owen-goodman-37952,21,England,Crystal Palace,2022-07-01,2026-06-30,1000.0,52000.0,13000.0,0.0
+594,Lyle Foster,lyle-foster-36772,24,South Africa,Burnley,2023-10-26,2028-06-30,769.0,40000.0,10000.0,0.0
+595,Hannibal,hannibal-37642,22,Tunisia,Burnley,2024-08-28,2028-06-30,577.0,30000.0,7500.0,0.0
+596,Edson Álvarez,edson-alvarez-35727,27,Mexico,West Ham,2023-08-10,2028-06-30,,,,0.0
+597,Evan Ferguson,evan-ferguson-38279,20,Ireland,Brighton,2023-11-10,2029-06-30,,,,0.0
+598,Jota Silva,jota-silva-36373,26,Portugal,Nottingham Forest,2024-08-01,2028-06-30,,,,0.0
+599,Tommy Doyle,tommy-doyle-37181,23,England,Wolverhampton,2024-07-01,2028-06-30,,,,0.0
+600,Josh Wilson-Esbrand,josh-wilson-esbrand-37616,22,England,Manchester City,2023-01-01,2027-06-30,,,,0.0
+601,Andrew Moran,andrew-moran-37909,21,Ireland,Brighton,2025-07-01,2028-06-30,,,,0.0
+602,Konstantinos Tsimikas,konstantinos-tsimikas-35197,29,Greece,Liverpool,2023-09-25,2027-06-30,,,,0.0
+603,Toby Collyer,toby-collyer-37989,21,England,Manchester United,2024-07-11,2027-06-30,,,,0.0
+604,André Onana,andre-onana-35157,29,Cameroon,Manchester United,2023-07-20,2028-06-30,,,,0.0
+605,Claudio Echeverri,claudio-echeverri-38719,19,Argentina,Manchester City,2024-01-25,2028-06-30,,,,0.0
+606,Malick Yalcouyé,malick-yalcouye-38674,19,Cote d'Ivoire,Brighton,2024-07-12,2029-06-30,,,,0.0
+607,Marcus Rashford,marcus-rashford-35734,27,England,Manchester United,2023-07-18,2028-06-30,,,,0.0
+608,Joe Gelhardt,joe-gelhardt-37380,23,England,Leeds,2022-08-02,2027-06-30,,,,0.0
+609,Alfie Devine,alfie-devine-38200,20,England,Tottenham,2024-07-01,2027-06-30,,,,0.0
+610,Steven Benda,steven-benda-36069,26,Germany,Fulham,2023-08-30,2026-06-30,,,,0.0
+611,Aarón Anselmino,aaron-anselmino-38471,20,Argentina,Chelsea,2024-08-08,2031-06-30,,,,0.0
+612,Harry Amass,harry-amass-39157,18,England,Manchester United,2024-07-01,2027-06-30,,,,0.0
+613,Eiran Cashin,eiran-cashin-37204,23,Ireland,Brighton,2025-01-31,2030-06-30,,,,0.0
+614,Kosta Nedeljkovic,kosta-nedeljkovic-38702,19,Serbia,Aston Villa,2024-01-22,2029-06-30,,,,0.0
+615,Leon Bailey,leon-bailey-35651,27,Jamaica,Aston Villa,2024-02-12,2027-06-30,,,,0.0
+616,Caleb Wiley,caleb-wiley-38343,20,United States,Chelsea,2024-07-22,2030-06-30,,,,0.0
+617,Ryan Trevitt,ryan-trevitt-37692,22,England,Brentford,2023-07-14,2026-06-30,,,,0.0
+618,Carl Rushworth,carl-rushworth-37074,23,England,Brighton,2023-07-31,2027-06-30,,,,0.0
+619,Kaelan Casey,kaelan-casey-38288,20,England,West Ham,2023-08-15,2026-06-30,,,,0.0

@@ -1,0 +1,621 @@
+playerName,playerLink,grosspw,grosspy,grosspybonus,signed,signedexp,signedrelease,age,country,club
+Erling Haaland,https://www.capology.com/player/erling-haaland-36728/,"£ 525,000","£ 27,300,000","£ 18,200,000","Jan 17, 2025","Jun 30, 2034",,25,Norway,Manchester City
+Mohamed Salah,https://www.capology.com/player/mohamed-salah-33770/,"£ 400,000","£ 20,800,000","£ 5,200,000","Apr 11, 2025","Jun 30, 2027",,33,Egypt,Liverpool
+Casemiro,https://www.capology.com/player/casemiro-33657/,"£ 350,000","£ 18,200,000","£ 5,200,000","Aug 22, 2022","Jun 30, 2026",,33,Brazil,Manchester United
+Virgil van Dijk,https://www.capology.com/player/virgil-van-dijk-33427/,"£ 350,000","£ 18,200,000","£ 2,600,000","Apr 17, 2025","Jun 30, 2027",,34,Netherlands,Liverpool
+Raheem Sterling,https://www.capology.com/player/raheem-sterling-34676/,"£ 325,000","£ 16,900,000","£ 4,225,000","Jul 13, 2022","Jun 30, 2027",,30,England,Chelsea
+Bruno Fernandes,https://www.capology.com/player/bruno-fernandes-34585/,"£ 300,000","£ 15,600,000","£ 3,900,000","Aug 14, 2024","Jun 30, 2027",,30,Portugal,Manchester United
+Bernardo Silva,https://www.capology.com/player/bernardo-silva-34556/,"£ 300,000","£ 15,600,000","£ 3,900,000","Aug 23, 2023","Jun 30, 2026","£ 50,000,000",31,Portugal,Manchester City
+Omar Marmoush,https://www.capology.com/player/omar-marmoush-36198/,"£ 295,000","£ 15,340,000","£ 3,835,000","Jan 23, 2025","Jun 30, 2029",,26,Egypt,Manchester City
+Kai Havertz,https://www.capology.com/player/kai-havertz-36322/,"£ 280,000","£ 14,560,000","£ 2,600,000","Jul 1, 2023","Jun 30, 2028",,26,Germany,Arsenal
+Alexander Isak,https://www.capology.com/player/alexander-isak-36424/,"£ 280,000","£ 14,560,000","£ 1,040,000","Sep 1, 2025","Jun 30, 2031",,25,Sweden,Liverpool
+Gabriel Jesus,https://www.capology.com/player/gabriel-jesus-35523/,"£ 265,000","£ 13,780,000","£ 3,445,000","Jul 4, 2022","Jun 30, 2027",,28,Brazil,Arsenal
+Reece James,https://www.capology.com/player/reece-james-36502/,"£ 250,000","£ 13,000,000","£ 3,250,000","Sep 5, 2022","Jun 30, 2028",,25,England,Chelsea
+Rúben Dias,https://www.capology.com/player/ruben-dias-35564/,"£ 250,000","£ 13,000,000","£ 3,250,000","Aug 22, 2025","Jun 30, 2029",,28,Portugal,Manchester City
+Gianluigi Donnarumma,https://www.capology.com/player/gianluigi-donnarumma-36216/,"£ 250,000","£ 13,000,000","£ 3,250,000","Sep 1, 2025","Jun 30, 2030",,26,Italy,Manchester City
+William Saliba,https://www.capology.com/player/william-saliba-36974/,"£ 250,000","£ 13,000,000","£ 1,950,000","Sep 30, 2025","Jun 30, 2030",,24,France,Arsenal
+Cody Gakpo,https://www.capology.com/player/cody-gakpo-36287/,"£ 250,000","£ 13,000,000","£ 3,250,000","Aug 30, 2025","Jun 30, 2026",,26,Netherlands,Liverpool
+John Stones,https://www.capology.com/player/john-stones-34482/,"£ 250,000","£ 13,000,000","£ 3,250,000","Aug 10, 2021","Jun 30, 2026",,31,England,Manchester City
+Declan Rice,https://www.capology.com/player/declan-rice-36174/,"£ 240,000","£ 12,480,000","£ 3,120,000","Jul 15, 2023","Jun 30, 2028",,26,England,Arsenal
+Martin Ødegaard,https://www.capology.com/player/martin-odegaard-36146/,"£ 240,000","£ 12,480,000","£ 3,120,000","Sep 22, 2023","Jun 30, 2028",,26,Norway,Arsenal
+Tijjani Reijnders,https://www.capology.com/player/tijjani-reijnders-36005/,"£ 230,000","£ 11,960,000","£ 2,990,000","Jun 10, 2025","Jun 30, 2030",,27,Netherlands,Manchester City
+Phil Foden,https://www.capology.com/player/phil-foden-36674/,"£ 225,000","£ 11,700,000","£ 2,925,000","Oct 14, 2022","Jun 30, 2027",,25,England,Manchester City
+Jack Grealish,https://www.capology.com/player/jack-grealish-34952/,"£ 225,000","£ 11,700,000","£ 2,925,000","Aug 12, 2025","Jun 30, 2026",,29,England,Everton
+Rodri,https://www.capology.com/player/rodri-35238/,"£ 220,000","£ 11,440,000","£ 2,860,000","Jul 12, 2022","Jun 30, 2027",,29,Spain,Manchester City
+Florian Wirtz,https://www.capology.com/player/florian-wirtz-37744/,"£ 200,000","£ 10,400,000","£ 2,600,000","Jul 1, 2025","Jun 30, 2030",,22,Germany,Liverpool
+Viktor Gyökeres,https://www.capology.com/player/viktor-gyokeres-35950/,"£ 200,000","£ 10,400,000","£ 2,600,000","Jul 26, 2025","Jun 30, 2030",,27,Sweden,Arsenal
+Hugo Ekitiké,https://www.capology.com/player/hugo-ekitike-37427/,"£ 200,000","£ 10,400,000","£ 2,600,000","Jul 23, 2025","Jun 30, 2031",,23,France,Liverpool
+Jadon Sancho,https://www.capology.com/player/jadon-sancho-36610/,"£ 200,000","£ 10,400,000","£ 2,600,000","Sep 1, 2025","Jun 30, 2026",,25,England,Aston Villa
+Wesley Fofana,https://www.capology.com/player/wesley-fofana-36877/,"£ 200,000","£ 10,400,000","£ 2,600,000","Aug 31, 2022","Jun 30, 2029",,24,France,Chelsea
+Josko Gvardiol,https://www.capology.com/player/josko-gvardiol-37279/,"£ 200,000","£ 10,400,000","£ 2,600,000","Aug 5, 2023","Jun 30, 2028",,23,Croatia,Manchester City
+Xavi Simons,https://www.capology.com/player/xavi-simons-37732/,"£ 195,000","£ 10,140,000","£ 2,535,000","Aug 29, 2025","Jun 30, 2030",,22,Netherlands,Tottenham
+Cristian Romero,https://www.capology.com/player/cristian-romero-35912/,"£ 195,000","£ 10,140,000","£ 2,535,000","Aug 18, 2025","Jun 30, 2029",,27,Argentina,Tottenham
+Bukayo Saka,https://www.capology.com/player/bukayo-saka-37139/,"£ 195,000","£ 10,140,000","£ 5,200,000","May 23, 2023","Jun 30, 2027",,23,England,Arsenal
+Matthijs de Ligt,https://www.capology.com/player/matthijs-de-ligt-36384/,"£ 195,000","£ 10,140,000","£ 2,535,000","Aug 13, 2024","Jun 30, 2029",,26,Netherlands,Manchester United
+Harry Maguire,https://www.capology.com/player/harry-maguire-34033/,"£ 190,000","£ 9,880,000","£ 2,470,000","Jan 3, 2025","Jun 30, 2026",,32,England,Manchester United
+Enzo Fernández,https://www.capology.com/player/enzo-fernandez-36908/,"£ 180,000","£ 9,360,000","£ 2,340,000","Jan 31, 2023","Jun 30, 2032",,24,Argentina,Chelsea
+Matheus Cunha,https://www.capology.com/player/matheus-cunha-36307/,"£ 180,000","£ 9,360,000","£ 1,040,000","Jul 1, 2025","Jun 30, 2030",,26,Brazil,Manchester United
+Eberechi Eze,https://www.capology.com/player/eberechi-eze-35975/,"£ 180,000","£ 9,360,000","£ 2,340,000","Aug 23, 2025","Jun 30, 2029",,27,England,Arsenal
+Gabriel Martinelli,https://www.capology.com/player/gabriel-martinelli-37060/,"£ 180,000","£ 9,360,000","£ 2,340,000","Feb 3, 2023","Jun 30, 2027",,24,Brazil,Arsenal
+Rayan Cherki,https://www.capology.com/player/rayan-cherki-37850/,"£ 180,000","£ 9,360,000","£ 2,340,000","Jun 10, 2025","Jun 30, 2030",,22,France,Manchester City
+Marc Cucurella,https://www.capology.com/player/marc-cucurella-35998/,"£ 175,000","£ 9,100,000","£ 2,275,000","Aug 5, 2022","Jun 30, 2028",,27,Spain,Chelsea
+James Maddison,https://www.capology.com/player/james-maddison-35392/,"£ 170,000","£ 8,840,000","£ 2,210,000","Jul 1, 2023","Jun 30, 2028",,28,England,Tottenham
+Pedro Neto,https://www.capology.com/player/pedro-neto-36594/,"£ 160,000","£ 8,320,000","£ 2,080,000","Aug 11, 2024","Jun 30, 2031",,25,Portugal,Chelsea
+Andrew Robertson,https://www.capology.com/player/andrew-robertson-34404/,"£ 160,000","£ 8,320,000","£ 2,080,000","Aug 24, 2021","Jun 30, 2026",,31,Scotland,Liverpool
+Nathan Aké,https://www.capology.com/player/nathan-ake-34748/,"£ 160,000","£ 8,320,000","£ 2,080,000","Jul 29, 2023","Jun 30, 2027",,30,Netherlands,Manchester City
+Benjamin Sesko,https://www.capology.com/player/benjamin-sesko-37772/,"£ 160,000","£ 8,320,000","£ 2,080,000","Aug 9, 2025","Jun 30, 2030",,22,Slovenia,Manchester United
+Bruno Guimarães,https://www.capology.com/player/bruno-guimaraes-35750/,"£ 160,000","£ 8,320,000","£ 2,080,000","Oct 7, 2023","Jun 30, 2028","£ 100,000,000",27,Brazil,Newcastle
+Youri Tielemans,https://www.capology.com/player/youri-tielemans-35557/,"£ 150,000","£ 7,800,000","£ 1,950,000","Jul 1, 2023","Jun 30, 2027",,28,Belgium,Aston Villa
+Joelinton,https://www.capology.com/player/joelinton-35291/,"£ 150,000","£ 7,800,000","£ 1,950,000","Apr 11, 2024","Jun 30, 2028",,29,Brazil,Newcastle
+Mason Mount,https://www.capology.com/player/mason-mount-36170/,"£ 150,000","£ 7,800,000","£ 2,600,000","Jul 5, 2023","Jun 30, 2028",,26,England,Manchester United
+Emiliano Martínez,https://www.capology.com/player/emiliano-martinez-33849/,"£ 150,000","£ 7,800,000","£ 1,950,000","Aug 21, 2024","Jun 30, 2029",,33,Argentina,Aston Villa
+Noni Madueke,https://www.capology.com/player/noni-madueke-37325/,"£ 150,000","£ 7,800,000","£ 1,950,000","Jul 18, 2025","Jun 30, 2030",,23,England,Arsenal
+Ben White,https://www.capology.com/player/ben-white-35711/,"£ 150,000","£ 7,800,000","£ 1,950,000","Mar 14, 2024","Jun 30, 2028",,27,England,Arsenal
+Alisson,https://www.capology.com/player/alisson-33879/,"£ 150,000","£ 7,800,000","£ 1,950,000","Aug 4, 2021","Jun 30, 2027",,32,Brazil,Liverpool
+Alexis Mac Allister,https://www.capology.com/player/alexis-mac-allister-36153/,"£ 150,000","£ 7,800,000","£ 1,560,000","Jul 1, 2023","Jun 30, 2028",,26,Argentina,Liverpool
+Sandro Tonali,https://www.capology.com/player/sandro-tonali-36654/,"£ 150,000","£ 7,800,000","£ 2,080,000","Jul 3, 2023","Jun 30, 2028",,25,Italy,Newcastle
+Boubacar Kamara,https://www.capology.com/player/boubacar-kamara-36487/,"£ 150,000","£ 7,800,000","£ 1,950,000","Jul 24, 2025","Jun 30, 2030",,25,France,Aston Villa
+Jarrod Bowen,https://www.capology.com/player/jarrod-bowen-35419/,"£ 150,000","£ 7,800,000","£ 1,950,000","Oct 8, 2023","Jun 30, 2030",,28,England,West Ham
+Lucas Paquetá,https://www.capology.com/player/lucas-paqueta-35669/,"£ 150,000","£ 7,800,000","£ 1,950,000","Aug 29, 2022","Jun 30, 2027","£ 85,000,000",28,Brazil,West Ham
+Kalvin Phillips,https://www.capology.com/player/kalvin-phillips-35035/,"£ 150,000","£ 7,800,000","£ 1,950,000","Jul 4, 2022","Jun 30, 2028",,29,England,Manchester City
+Randal Kolo Muani,https://www.capology.com/player/randal-kolo-muani-36134/,"£ 150,000","£ 7,800,000","£ 3,120,000","Sep 1, 2025","Jun 30, 2026",,26,France,Tottenham
+Luke Shaw,https://www.capology.com/player/luke-shaw-34892/,"£ 150,000","£ 7,800,000","£ 2,600,000","Apr 4, 2023","Jun 30, 2027",,30,England,Manchester United
+Ryan Gravenberch,https://www.capology.com/player/ryan-gravenberch-37392/,"£ 150,000","£ 7,800,000","£ 1,950,000","Sep 1, 2023","Jun 30, 2028",,23,Netherlands,Liverpool
+Anthony Gordon,https://www.capology.com/player/anthony-gordon-36946/,"£ 150,000","£ 7,800,000","£ 1,040,000","Oct 22, 2024","Jun 30, 2030",,24,England,Newcastle
+Gabriel Magalhães,https://www.capology.com/player/gabriel-magalhaes-35783/,"£ 150,000","£ 7,800,000","£ 2,600,000","Jun 6, 2025","Jun 30, 2029",,27,Brazil,Arsenal
+Mohammed Kudus,https://www.capology.com/player/mohammed-kudus-36740/,"£ 150,000","£ 7,800,000","£ 1,950,000","Jul 10, 2025","Jun 30, 2031",,25,Ghana,Tottenham
+Moisés Caicedo,https://www.capology.com/player/moises-caicedo-37197/,"£ 150,000","£ 7,800,000","£ 1,300,000","Aug 14, 2023","Jun 30, 2031",,23,Ecuador,Chelsea
+Federico Chiesa,https://www.capology.com/player/federico-chiesa-35728/,"£ 150,000","£ 7,800,000","£ 1,560,000","Aug 29, 2024","Jun 30, 2028",,27,Italy,Liverpool
+Bryan Mbeumo,https://www.capology.com/player/bryan-mbeumo-36379/,"£ 150,000","£ 7,800,000","£ 2,600,000","Jul 21, 2025","Jun 30, 2030",,26,Cameroon,Manchester United
+Mateo Kovacic,https://www.capology.com/player/mateo-kovacic-34460/,"£ 150,000","£ 7,800,000","£ 1,950,000","Jul 1, 2023","Jun 30, 2027",,31,Croatia,Manchester City
+Dominic Solanke,https://www.capology.com/player/dominic-solanke-35687/,"£ 140,000","£ 7,280,000","£ 1,820,000","Aug 10, 2024","Jun 30, 2030",,27,England,Tottenham
+Donyell Malen,https://www.capology.com/player/donyell-malen-36179/,"£ 140,000","£ 7,280,000","£ 1,820,000","Jan 14, 2025","Jun 30, 2026",,26,Netherlands,Aston Villa
+Yoane Wissa,https://www.capology.com/player/yoane-wissa-35311/,"£ 140,000","£ 7,280,000","£ 1,820,000","Sep 1, 2025","Jun 30, 2026",,28,Democratic Republic of the Congo,Newcastle
+Amadou Onana,https://www.capology.com/player/amadou-onana-37119/,"£ 140,000","£ 7,280,000","£ 1,820,000","Jul 22, 2024","Jun 30, 2029",,24,Belgium,Aston Villa
+Douglas Luiz,https://www.capology.com/player/douglas-luiz-35924/,"£ 135,000","£ 7,020,000","£ 780,000","Aug 22, 2025","Jun 30, 2026",,27,Brazil,Nottingham Forest
+João Palhinha,https://www.capology.com/player/joao-palhinha-34889/,"£ 135,000","£ 7,020,000","£ 1,651,000","Aug 3, 2025","Jun 30, 2026",,30,Portugal,Tottenham
+Lucas Digne,https://www.capology.com/player/lucas-digne-34170/,"£ 135,000","£ 7,020,000","£ 1,755,000","Aug 7, 2025","Jun 30, 2028",,32,France,Aston Villa
+Noussair Mazraoui,https://www.capology.com/player/noussair-mazraoui-35748/,"£ 135,000","£ 7,020,000","£ 1,755,000","Aug 13, 2024","Jun 30, 2028",,27,Morocco,Manchester United
+Nick Woltemade,https://www.capology.com/player/nick-woltemade-37301/,"£ 132,500","£ 6,890,000","£ 1,722,500","Aug 30, 2025","Jun 30, 2026",,23,Germany,Newcastle
+Bernd Leno,https://www.capology.com/player/bernd-leno-33667/,"£ 130,000","£ 6,760,000","£ 1,690,000","Dec 13, 2023","Jun 30, 2027",,33,Germany,Fulham
+Matheus Nunes,https://www.capology.com/player/matheus-nunes-36034/,"£ 130,000","£ 6,760,000","£ 1,690,000","Sep 1, 2023","Jun 30, 2028",,27,Portugal,Manchester City
+Mikel Merino,https://www.capology.com/player/mikel-merino-35238/,"£ 130,000","£ 6,760,000","£ 1,690,000","Aug 27, 2024","Jun 30, 2028",,29,Spain,Arsenal
+Cole Palmer,https://www.capology.com/player/cole-palmer-37382/,"£ 130,000","£ 6,760,000","£ 1,690,000","Aug 13, 2024","Jun 30, 2033",,23,England,Chelsea
+Ollie Watkins,https://www.capology.com/player/ollie-watkins-35063/,"£ 130,000","£ 6,760,000","£ 1,690,000","Oct 6, 2023","Jun 30, 2028",,29,England,Aston Villa
+João Pedro,https://www.capology.com/player/joao-pedro-37160/,"£ 125,000","£ 6,500,000","£ 1,625,000","Jul 2, 2025","Jun 30, 2033",,23,Brazil,Chelsea
+Jordan Pickford,https://www.capology.com/player/jordan-pickford-34400/,"£ 125,000","£ 6,500,000","£ 1,625,000","Feb 24, 2023","Jun 30, 2027",,31,England,Everton
+Kieran Trippier,https://www.capology.com/player/kieran-trippier-33135/,"£ 120,000","£ 6,240,000","£ 1,560,000","Jan 27, 2023","Jun 30, 2026",,34,England,Newcastle
+Alphonse Areola,https://www.capology.com/player/alphonse-areola-34027/,"£ 120,000","£ 6,240,000","£ 1,560,000","Jul 1, 2022","Jun 30, 2027",,32,France,West Ham
+Victor Lindelöf,https://www.capology.com/player/victor-lindelof-34532/,"£ 120,000","£ 6,240,000","£ 1,560,000","Sep 1, 2025","Jun 30, 2027",,31,Sweden,Aston Villa
+Amad Diallo,https://www.capology.com/player/amad-diallo-37448/,"£ 120,000","£ 6,240,000","£ 1,560,000","Jan 9, 2025","Jun 30, 2030",,23,Cote d'Ivoire,Manchester United
+Tosin Adarabioyo,https://www.capology.com/player/tosin-adarabioyo-35697/,"£ 120,000","£ 6,240,000","£ 1,560,000","Jul 1, 2024","Jun 30, 2028",,27,England,Chelsea
+Aaron Ramsdale,https://www.capology.com/player/aaron-ramsdale-35929/,"£ 120,000","£ 6,240,000","£ 1,560,000","Aug 2, 2025","Jun 30, 2026",,27,England,Newcastle
+Samuel Chukwueze,https://www.capology.com/player/samuel-chukwueze-36302/,"£ 120,000","£ 6,240,000","£ 1,560,000","Sep 1, 2025","Jun 30, 2026",,26,Nigeria,Fulham
+Riccardo Calafiori,https://www.capology.com/player/riccardo-calafiori-37395/,"£ 120,000","£ 6,240,000","£ 1,560,000","Jul 29, 2024","Jun 30, 2029",,23,Italy,Arsenal
+Rayan Aït-Nouri,https://www.capology.com/player/rayan-ait-nouri-37048/,"£ 120,000","£ 6,240,000","£ 1,560,000","Jun 9, 2025","Jun 30, 2030",,24,Algeria,Manchester City
+Dominik Szoboszlai,https://www.capology.com/player/dominik-szoboszlai-36824/,"£ 120,000","£ 6,240,000","£ 1,560,000","Jul 2, 2023","Jun 30, 2028",,24,Hungary,Liverpool
+Oleksandr Zinchenko,https://www.capology.com/player/oleksandr-zinchenko-35414/,"£ 120,000","£ 6,240,000","£ 1,560,000","Sep 1, 2025","Jun 30, 2026",,28,Ukraine,Nottingham Forest
+Idrissa Gueye,https://www.capology.com/player/idrissa-gueye-32777/,"£ 120,000","£ 6,240,000","£ 1,560,000","Jul 7, 2025","Jun 30, 2026",,35,Senegal,Everton
+Jacob Ramsey,https://www.capology.com/player/jacob-ramsey-37039/,"£ 120,000","£ 6,240,000","£ 1,560,000","Aug 17, 2025","Jun 30, 2026",,24,England,Newcastle
+James Tarkowski,https://www.capology.com/player/james-tarkowski-33927/,"£ 120,000","£ 6,240,000","£ 1,560,000","Oct 8, 2025","Jun 30, 2028",,32,England,Everton
+Jarrad Branthwaite,https://www.capology.com/player/jarrad-branthwaite-37434/,"£ 120,000","£ 6,240,000","£ 1,560,000","Jul 2, 2025","Jun 30, 2030",,23,England,Everton
+Manuel Ugarte,https://www.capology.com/player/manuel-ugarte-36992/,"£ 120,000","£ 6,240,000","£ 1,560,000","Aug 30, 2024","Jun 30, 2029",,24,Uruguay,Manchester United
+Lisandro Martínez,https://www.capology.com/player/lisandro-martinez-35813/,"£ 120,000","£ 6,240,000","£ 1,560,000","Jul 27, 2022","Jun 30, 2027",,27,Argentina,Manchester United
+John McGinn,https://www.capology.com/player/john-mcginn-34625/,"£ 120,000","£ 6,240,000","£ 1,560,000","Jun 23, 2023","Jun 30, 2027",,30,Scotland,Aston Villa
+Jorrel Hato,https://www.capology.com/player/jorrel-hato-38783/,"£ 120,000","£ 6,240,000","£ 1,560,000","Aug 3, 2025","Jun 30, 2032",,19,Netherlands,Chelsea
+James Ward-Prowse,https://www.capology.com/player/james-ward-prowse-34639/,"£ 115,000","£ 5,980,000","£ 1,495,000","Aug 14, 2023","Jun 30, 2027",,30,England,West Ham
+Leny Yoro,https://www.capology.com/player/leny-yoro-38669/,"£ 115,000","£ 5,980,000","£ 1,560,000","Jul 18, 2024","Jun 30, 2029",,19,France,Manchester United
+Dejan Kulusevski,https://www.capology.com/player/dejan-kulusevski-36641/,"£ 110,000","£ 5,720,000","£ 1,430,000","Jul 1, 2023","Jun 30, 2028",,25,Sweden,Tottenham
+Morgan Gibbs-White,https://www.capology.com/player/morgan-gibbs-white-36552/,"£ 110,000","£ 5,720,000","£ 1,430,000","Jul 26, 2025","Jun 30, 2028",,25,England,Nottingham Forest
+Granit Xhaka,https://www.capology.com/player/granit-xhaka-33874/,"£ 110,000","£ 5,720,000","£ 1,430,000","Jul 30, 2025","Jun 30, 2028",,32,Switzerland,Sunderland
+Tyrone Mings,https://www.capology.com/player/tyrone-mings-34041/,"£ 110,000","£ 5,720,000","£ 1,430,000","Jun 4, 2025","Jun 30, 2027",,32,England,Aston Villa
+Alejandro Garnacho,https://www.capology.com/player/alejandro-garnacho-38169/,"£ 110,000","£ 5,720,000","£ 1,430,000","Aug 30, 2025","Jun 30, 2032",,21,Argentina,Chelsea
+Jamie Bynoe-Gittens,https://www.capology.com/player/jamie-bynoe-gittens-38207/,"£ 108,000","£ 5,616,000","£ 1,404,000","Jul 5, 2025","Jun 30, 2032",,21,England,Chelsea
+Joshua Zirkzee,https://www.capology.com/player/joshua-zirkzee-37033/,"£ 105,000","£ 5,460,000","£ 1,365,000","Jul 14, 2024","Jun 30, 2029",,24,Netherlands,Manchester United
+Nikola Milenković,https://www.capology.com/player/nikola-milenkovic-35715/,"£ 105,000","£ 5,460,000","£ 1,365,000","Jul 18, 2024","Jun 30, 2029",,27,Serbia,Nottingham Forest
+João Gomes,https://www.capology.com/player/joao-gomes-36934/,"£ 105,000","£ 5,460,000","£ 1,365,000","Apr 1, 2025","Jun 30, 2030",,24,Brazil,Wolverhampton
+Daichi Kamada,https://www.capology.com/player/daichi-kamada-35282/,"£ 105,000","£ 5,460,000","£ 2,340,000","Jul 1, 2024","Jun 30, 2026",,29,Japan,Crystal Palace
+Max Kilman,https://www.capology.com/player/max-kilman-35573/,"£ 100,000","£ 5,200,000","£ 1,300,000","Jul 6, 2024","Jun 30, 2031",,28,England,West Ham
+Raúl Jiménez,https://www.capology.com/player/raul-jimenez-33363/,"£ 100,000","£ 5,200,000","£ 1,040,000","May 15, 2025","Jun 30, 2026",,34,Mexico,Fulham
+Pau Torres,https://www.capology.com/player/pau-torres-35446/,"£ 100,000","£ 5,200,000","£ 1,300,000","Jul 12, 2023","Jun 30, 2028",,28,Spain,Aston Villa
+Jeremie Frimpong,https://www.capology.com/player/jeremie-frimpong-36870/,"£ 100,000","£ 5,200,000","£ 1,300,000","Jul 1, 2025","Jun 30, 2030",,24,Netherlands,Liverpool
+Liam Delap,https://www.capology.com/player/liam-delap-37660/,"£ 100,000","£ 5,200,000","£ 1,300,000","Jun 4, 2025","Jun 30, 2031",,22,England,Chelsea
+Anthony Elanga,https://www.capology.com/player/anthony-elanga-37373/,"£ 100,000","£ 5,200,000","£ 1,300,000","Jul 11, 2025","Jun 30, 2026",,23,Sweden,Newcastle
+Ian Maatsen,https://www.capology.com/player/ian-maatsen-37325/,"£ 100,000","£ 5,200,000","£ 1,300,000","Jul 1, 2024","Jun 30, 2030",,23,Netherlands,Aston Villa
+Levi Colwill,https://www.capology.com/player/levi-colwill-37678/,"£ 100,000","£ 5,200,000","£ 1,300,000","Aug 2, 2023","Jun 30, 2029",,22,England,Chelsea
+Dominic Calvert-Lewin,https://www.capology.com/player/dominic-calvert-lewin-35505/,"£ 100,000","£ 5,200,000","£ 1,300,000","Aug 15, 2025","Jun 30, 2028",,28,England,Leeds
+Brennan Johnson,https://www.capology.com/player/brennan-johnson-37034/,"£ 100,000","£ 5,200,000","£ 1,300,000","Sep 1, 2023","Jun 30, 2028",,24,Wales,Tottenham
+Nordi Mukiele,https://www.capology.com/player/nordi-mukiele-35735/,"£ 100,000","£ 5,200,000","£ 1,300,000","Aug 17, 2025","Jun 30, 2029",,27,France,Sunderland
+David Raya,https://www.capology.com/player/david-raya-34957/,"£ 100,000","£ 5,200,000","£ 1,300,000","Jul 4, 2024","Jun 30, 2028",,29,Spain,Arsenal
+Dean Henderson,https://www.capology.com/player/dean-henderson-35501/,"£ 100,000","£ 5,200,000","£ 1,300,000","Aug 31, 2023","Jun 30, 2028",,28,England,Crystal Palace
+Mykhailo Mudryk,https://www.capology.com/player/mykhailo-mudryk-36896/,"£ 100,000","£ 5,200,000","£ 1,560,000","Jan 15, 2023","Jun 30, 2031",,24,Ukraine,Chelsea
+Jørgen Strand Larsen,https://www.capology.com/player/jorgen-strand-larsen-36562/,"£ 95,000","£ 4,940,000","£ 1,235,000","Jul 1, 2025","Jun 30, 2029",,25,Norway,Wolverhampton
+Tomáš Souček,https://www.capology.com/player/tomas-soucek-34757/,"£ 90,000","£ 4,680,000","£ 1,170,000","Jan 1, 2024","Jun 30, 2027",,30,Czech Republic,West Ham
+Benoît Badiashile,https://www.capology.com/player/benoit-badiashile-36976/,"£ 90,000","£ 4,680,000","£ 1,170,000","Jan 5, 2023","Jun 30, 2030",,24,France,Chelsea
+Jack Harrison,https://www.capology.com/player/jack-harrison-35389/,"£ 90,000","£ 4,680,000","£ 1,170,000","Apr 6, 2023","Jun 30, 2028",,28,England,Leeds
+Eddie Nketiah,https://www.capology.com/player/eddie-nketiah-36310/,"£ 90,000","£ 4,680,000","£ 1,170,000","Aug 30, 2024","Jun 30, 2029",,26,England,Crystal Palace
+Jurriën Timber,https://www.capology.com/player/jurrien-timber-37059/,"£ 90,000","£ 4,680,000","£ 1,560,000","Jul 14, 2023","Jun 30, 2028",,24,Netherlands,Arsenal
+Sven Botman,https://www.capology.com/player/sven-botman-36537/,"£ 90,000","£ 4,680,000","£ 1,170,000","Jul 1, 2022","Jun 30, 2027",,25,Netherlands,Newcastle
+Aaron Wan-Bissaka,https://www.capology.com/player/aaron-wan-bissaka-35760/,"£ 90,000","£ 4,680,000","£ 1,170,000","Aug 13, 2024","Jun 30, 2031",,27,Democratic Republic of the Congo,West Ham
+Kiernan Dewsbury-Hall,https://www.capology.com/player/kiernan-dewsbury-hall-36044/,"£ 90,000","£ 4,680,000","£ 1,170,000","Aug 6, 2025","Jun 30, 2030",,26,England,Everton
+Chris Wood,https://www.capology.com/player/chris-wood-33579/,"£ 90,000","£ 4,680,000","£ 1,170,000","Jan 23, 2025","Jun 30, 2027",,33,New Zealand,Nottingham Forest
+Callum Hudson-Odoi,https://www.capology.com/player/callum-hudson-odoi-36837/,"£ 90,000","£ 4,680,000","£ 1,170,000","Aug 30, 2025","Jun 30, 2028",,24,England,Nottingham Forest
+Stefan Ortega Moreno,https://www.capology.com/player/stefan-ortega-moreno-33914/,"£ 90,000","£ 4,680,000","£ 1,170,000","Jun 8, 2024","Jun 30, 2026",,32,Germany,Manchester City
+Micky van de Ven,https://www.capology.com/player/micky-van-de-ven-37000/,"£ 90,000","£ 4,680,000","£ 1,170,000","Aug 8, 2023","Jun 30, 2029",,24,Netherlands,Tottenham
+Niclas Füllkrug,https://www.capology.com/player/niclas-fullkrug-34009/,"£ 90,000","£ 4,680,000","£ 1,170,000","Aug 5, 2024","Jun 30, 2028",,32,Germany,West Ham
+Richarlison,https://www.capology.com/player/richarlison-35560/,"£ 90,000","£ 4,680,000","£ 2,080,000","Jul 1, 2022","Jun 30, 2027",,28,Brazil,Tottenham
+Leandro Trossard,https://www.capology.com/player/leandro-trossard-34672/,"£ 90,000","£ 4,680,000","£ 1,170,000","Jan 20, 2023","Jun 30, 2026",,30,Belgium,Arsenal
+Joachim Andersen,https://www.capology.com/player/joachim-andersen-35216/,"£ 90,000","£ 4,680,000","£ 1,170,000","Aug 23, 2024","Jun 30, 2029",,29,Denmark,Fulham
+Ferdi Kadıoğlu,https://www.capology.com/player/ferdi-kadioglu-36440/,"£ 87,500","£ 4,550,000","£ 1,137,500","Aug 27, 2024","Jun 30, 2028",,25,Turkey,Brighton
+Lutsharel Geertruida,https://www.capology.com/player/lutsharel-geertruida-36725/,"£ 85,000","£ 4,420,000","£ 1,105,000","Sep 1, 2025","Jun 30, 2026",,25,Netherlands,Sunderland
+Giorgi Mamardashvili,https://www.capology.com/player/giorgi-mamardashvili-36798/,"£ 85,000","£ 4,420,000","£ 1,105,000","Aug 27, 2024","Jun 30, 2031",,24,Georgia,Liverpool
+Joe Gomez,https://www.capology.com/player/joe-gomez-35573/,"£ 85,000","£ 4,420,000","£ 1,105,000","Jul 7, 2022","Jun 30, 2027",,28,England,Liverpool
+Pedro Porro,https://www.capology.com/player/pedro-porro-36416/,"£ 85,000","£ 4,420,000","£ 1,105,000","Jul 1, 2023","Jun 30, 2028",,25,Spain,Tottenham
+Dan Ndoye,https://www.capology.com/player/dan-ndoye-36824/,"£ 85,000","£ 4,420,000","£ 1,105,000","Jul 31, 2025","Jun 30, 2030",,24,Switzerland,Nottingham Forest
+Diogo Dalot,https://www.capology.com/player/diogo-dalot-36237/,"£ 85,000","£ 4,420,000","£ 780,000","May 31, 2023","Jun 30, 2028",,26,Portugal,Manchester United
+Radu Drăgușin,https://www.capology.com/player/radu-dragusin-37290/,"£ 85,000","£ 4,420,000","£ 1,105,000","Jan 11, 2024","Jun 30, 2030",,23,Romania,Tottenham
+Emmanuel Agbadou,https://www.capology.com/player/emmanuel-agbadou-35598/,"£ 85,000","£ 4,420,000","£ 1,105,000","Jan 9, 2025","Jun 30, 2029",,28,Cote d'Ivoire,Wolverhampton
+Evanilson,https://www.capology.com/player/evanilson-36439/,"£ 85,000","£ 4,420,000","£ 1,105,000","Aug 16, 2024","Jun 30, 2026",,25,Brazil,Bournemouth
+Matty Cash,https://www.capology.com/player/matty-cash-35649/,"£ 80,000","£ 4,160,000","£ 1,040,000","Apr 4, 2022","Jun 30, 2027",,28,Poland,Aston Villa
+Axel Disasi,https://www.capology.com/player/axel-disasi-35865/,"£ 80,000","£ 4,160,000","£ 1,040,000","Aug 4, 2023","Jun 30, 2029",,27,France,Chelsea
+Ben Davies,https://www.capology.com/player/ben-davies-34083/,"£ 80,000","£ 4,160,000","£ 1,040,000","Jun 8, 2025","Jun 30, 2026",,32,Wales,Tottenham
+Ethan Nwaneri,https://www.capology.com/player/ethan-nwaneri-39162/,"£ 80,000","£ 4,160,000","£ 1,040,000","Aug 8, 2025","Jun 30, 2030",,18,England,Arsenal
+Harvey Barnes,https://www.capology.com/player/harvey-barnes-35773/,"£ 80,000","£ 4,160,000","£ 1,040,000","Jul 23, 2023","Jun 30, 2028",,27,England,Newcastle
+Toti Gomes,https://www.capology.com/player/toti-gomes-36176/,"£ 80,000","£ 4,160,000","£ 1,040,000","Feb 8, 2024","Jun 30, 2029",,26,Portugal,Wolverhampton
+Michael Keane,https://www.capology.com/player/michael-keane-33980/,"£ 80,000","£ 4,160,000","£ 1,040,000","Jul 4, 2025","Jun 30, 2026",,32,England,Everton
+Joe Willock,https://www.capology.com/player/joe-willock-36392/,"£ 80,000","£ 4,160,000","£ 1,040,000","Aug 13, 2021","Jun 30, 2027",,26,England,Newcastle
+Lewis Dunk,https://www.capology.com/player/lewis-dunk-33563/,"£ 80,000","£ 4,160,000","£ 1,040,000","Jul 12, 2023","Jun 30, 2026",,33,England,Brighton
+Justin Kluivert,https://www.capology.com/player/justin-kluivert-36285/,"£ 80,000","£ 4,160,000","£ 1,040,000","Jul 1, 2023","Jun 30, 2028",,26,Netherlands,Bournemouth
+Jean-Clair Todibo,https://www.capology.com/player/jean-clair-todibo-36524/,"£ 80,000","£ 4,160,000","£ 1,040,000","Jul 1, 2025","Jun 30, 2026",,25,France,West Ham
+Alex Iwobi,https://www.capology.com/player/alex-iwobi-35188/,"£ 80,000","£ 4,160,000","£ 1,040,000","Sep 1, 2023","Jun 30, 2028",,29,Nigeria,Fulham
+Kaoru Mitoma,https://www.capology.com/player/kaoru-mitoma-35570/,"£ 80,000","£ 4,160,000","£ 1,040,000","Oct 20, 2023","Jun 30, 2027",,28,Japan,Brighton
+Sean Longstaff,https://www.capology.com/player/sean-longstaff-35733/,"£ 80,000","£ 4,160,000","£ 1,040,000","Jul 18, 2025","Jun 30, 2029",,27,England,Leeds
+Sávio,https://www.capology.com/player/savio-38087/,"£ 80,000","£ 4,160,000","£ 1,040,000","Oct 3, 2025","Jun 30, 2031",,21,Brazil,Manchester City
+Ezri Konsa,https://www.capology.com/player/ezri-konsa-35726/,"£ 75,000","£ 3,900,000","£ 975,000","Sep 20, 2023","Jun 30, 2028",,27,England,Aston Villa
+Malick Thiaw,https://www.capology.com/player/malick-thiaw-37111/,"£ 75,000","£ 3,900,000","£ 975,000","Aug 12, 2025","Jun 30, 2026",,24,Germany,Newcastle
+Destiny Udogie,https://www.capology.com/player/destiny-udogie-37588/,"£ 75,000","£ 3,900,000","£ 975,000","Dec 12, 2023","Jun 30, 2030",,22,Italy,Tottenham
+Murillo,https://www.capology.com/player/murillo-37441/,"£ 75,000","£ 3,900,000","£ 975,000","Jan 21, 2025","Jun 30, 2029",,23,Brazil,Nottingham Forest
+Morgan Rogers,https://www.capology.com/player/morgan-rogers-37463/,"£ 75,000","£ 3,900,000","£ 975,000","Nov 19, 2024","Jun 30, 2030",,23,England,Aston Villa
+Guido Rodríguez,https://www.capology.com/player/guido-rodriguez-34436/,"£ 75,000","£ 3,900,000","£ 975,000","Aug 6, 2024","Jun 30, 2027",,31,Argentina,West Ham
+Guglielmo Vicario,https://www.capology.com/player/guglielmo-vicario-35345/,"£ 75,000","£ 3,900,000","£ 975,000","Jul 1, 2023","Jun 30, 2028",,28,Italy,Tottenham
+Tolu Arokodare,https://www.capology.com/player/tolu-arokodare-36853/,"£ 75,000","£ 3,900,000","£ 975,000","Sep 1, 2025","Jun 30, 2029",,24,Nigeria,Wolverhampton
+Antoine Semenyo,https://www.capology.com/player/antoine-semenyo-36532/,"£ 75,000","£ 3,900,000","£ 975,000","Jul 1, 2025","Jun 30, 2030","£ 65,000,000",25,Ghana,Bournemouth
+Milos Kerkez,https://www.capology.com/player/milos-kerkez-37932/,"£ 75,000","£ 3,900,000","£ 975,000","Jul 1, 2025","Jun 30, 2030",,21,Hungary,Liverpool
+Mikkel Damsgaard,https://www.capology.com/player/mikkel-damsgaard-36710/,"£ 75,000","£ 3,900,000","£ 975,000","Jan 22, 2025","Jun 30, 2030",,25,Denmark,Brentford
+Jack Grealish,https://www.capology.com/player/jack-grealish-34952/,"£ 75,000","£ 3,900,000","£ 975,000","Aug 5, 2021","Jun 30, 2027",,29,England,Manchester City
+Daniel James,https://www.capology.com/player/daniel-james-35744/,"£ 75,000","£ 3,900,000","£ 975,000","Jul 14, 2025","Jun 30, 2029",,27,Wales,Leeds
+Archie Gray,https://www.capology.com/player/archie-gray-38788/,"£ 75,000","£ 3,900,000","£ 975,000","Jul 2, 2024","Jun 30, 2030",,19,England,Tottenham
+Jordan Henderson,https://www.capology.com/player/jordan-henderson-33041/,"£ 75,000","£ 3,900,000","£ 975,000","Jul 15, 2025","Jun 30, 2027",,35,England,Brentford
+Emiliano Buendía,https://www.capology.com/player/emiliano-buendia-35424/,"£ 75,000","£ 3,900,000","£ 975,000","Jan 29, 2025","Jun 30, 2027",,28,Argentina,Aston Villa
+Tyrell Malacia,https://www.capology.com/player/tyrell-malacia-36389/,"£ 75,000","£ 3,900,000","£ 975,000","Jul 5, 2022","Jun 30, 2026",,26,Netherlands,Manchester United
+Martín Zubimendi,https://www.capology.com/player/martin-zubimendi-36193/,"£ 75,000","£ 3,900,000","£ 975,000","Jul 6, 2025","Jun 30, 2030",,26,Spain,Arsenal
+Nico González,https://www.capology.com/player/nico-gonzalez-37259/,"£ 75,000","£ 3,900,000","£ 975,000","Feb 3, 2025","Jun 30, 2029",,23,Spain,Manchester City
+Jean-Ricner Bellegarde,https://www.capology.com/player/jean-ricner-bellegarde-35973/,"£ 75,000","£ 3,900,000","£ 975,000","Sep 1, 2023","Jun 30, 2028",,27,Haiti,Wolverhampton
+Conor Bradley,https://www.capology.com/player/conor-bradley-37811/,"£ 75,000","£ 3,900,000","£ 975,000","May 17, 2025","Jun 30, 2029",,22,Northern Ireland,Liverpool
+Enzo Le Fée,https://www.capology.com/player/enzo-le-fee-36559/,"£ 75,000","£ 3,900,000","£ 975,000","Jul 1, 2025","Jun 30, 2029",,25,France,Sunderland
+Kyle Walker,https://www.capology.com/player/kyle-walker-33021/,"£ 75,000","£ 3,900,000","£ 975,000","Jul 5, 2025","Jun 30, 2027",,35,England,Burnley
+Rodrigo Bentancur,https://www.capology.com/player/rodrigo-bentancur-35606/,"£ 75,000","£ 3,900,000","£ 975,000","Jan 31, 2022","Jun 30, 2026",,28,Uruguay,Tottenham
+Ibrahim Sangaré,https://www.capology.com/player/ibrahim-sangare-35766/,"£ 75,000","£ 3,900,000","£ 975,000","Sep 1, 2023","Jun 30, 2028",,27,Cote d'Ivoire,Nottingham Forest
+Georginio Rutter,https://www.capology.com/player/georginio-rutter-37366/,"£ 75,000","£ 3,900,000","£ 975,000","Aug 19, 2024","Jun 30, 2028",,23,France,Brighton
+Evann Guessand,https://www.capology.com/player/evann-guessand-37073/,"£ 75,000","£ 3,900,000","£ 975,000","Aug 8, 2025","Jun 30, 2026",,24,Cote d'Ivoire,Aston Villa
+Noah Okafor,https://www.capology.com/player/noah-okafor-36670/,"£ 72,500","£ 3,770,000","£ 942,500","Aug 21, 2025","Jun 30, 2029",,25,Switzerland,Leeds
+Marshall Munetsi,https://www.capology.com/player/marshall-munetsi-35238/,"£ 70,000","£ 3,640,000","£ 910,000","Feb 3, 2025","Jun 30, 2028",,29,Zimbabwe,Wolverhampton
+Pape Sarr,https://www.capology.com/player/pape-sarr-37513/,"£ 70,000","£ 3,640,000","£ 910,000","Jan 2, 2024","Jun 30, 2030",,22,Senegal,Tottenham
+Cheick Doucouré,https://www.capology.com/player/cheick-doucoure-36533/,"£ 70,000","£ 3,640,000","£ 910,000","Feb 28, 2024","Jun 30, 2029",,25,Mali,Crystal Palace
+Reiss Nelson,https://www.capology.com/player/reiss-nelson-36504/,"£ 70,000","£ 3,640,000","£ 910,000","Sep 1, 2025","Jun 30, 2026",,25,England,Brentford
+Dilane Bakwa,https://www.capology.com/player/dilane-bakwa-37494/,"£ 70,000","£ 3,640,000","£ 910,000","Sep 1, 2025","Jun 30, 2030",,23,France,Nottingham Forest
+Emile Smith Rowe,https://www.capology.com/player/emile-smith-rowe-36735/,"£ 70,000","£ 3,640,000","£ 910,000","Aug 2, 2024","Jun 30, 2029",,25,England,Fulham
+Simon Adingra,https://www.capology.com/player/simon-adingra-37257/,"£ 70,000","£ 3,640,000","£ 910,000","Jul 10, 2025","Jun 30, 2030",,23,Cote d'Ivoire,Sunderland
+Bafodé Diakité,https://www.capology.com/player/bafode-diakite-36897/,"£ 70,000","£ 3,640,000","£ 910,000","Aug 13, 2025","Jun 30, 2026",,24,France,Bournemouth
+Fabian Schär,https://www.capology.com/player/fabian-schar-33592/,"£ 70,000","£ 3,640,000","£ 910,000","Apr 3, 2025","Jun 30, 2026",,33,Switzerland,Newcastle
+Adama Traoré,https://www.capology.com/player/adama-traore-35089/,"£ 70,000","£ 3,640,000","£ 910,000","May 15, 2025","Jun 30, 2026",,29,Spain,Fulham
+Aaron Hickey,https://www.capology.com/player/aaron-hickey-37417/,"£ 70,000","£ 3,640,000","£ 910,000","Jan 11, 2025","Jun 30, 2028",,23,Scotland,Brentford
+Dan Burn,https://www.capology.com/player/dan-burn-33733/,"£ 70,000","£ 3,640,000","£ 910,000","May 24, 2025","Jun 30, 2027",,33,England,Newcastle
+Hee-chan Hwang,https://www.capology.com/player/hee-chan-hwang-35090/,"£ 70,000","£ 3,640,000","£ 910,000","Dec 21, 2023","Jun 30, 2028",,29,South Korea,Wolverhampton
+Ibrahima Konaté,https://www.capology.com/player/ibrahima-konate-36305/,"£ 70,000","£ 3,640,000","£ 910,000","Jul 1, 2021","Jun 30, 2026",,26,France,Liverpool
+Ismaïla Sarr,https://www.capology.com/player/ismaila-sarr-35851/,"£ 70,000","£ 3,640,000","£ 910,000","Aug 1, 2024","Jun 30, 2029",,27,Senegal,Crystal Palace
+Issa Diop,https://www.capology.com/player/issa-diop-35439/,"£ 70,000","£ 3,640,000","£ 910,000","Aug 10, 2022","Jun 30, 2027",,28,France,Fulham
+Jefferson Lerma,https://www.capology.com/player/jefferson-lerma-34632/,"£ 70,000","£ 3,640,000","£ 910,000","Jul 1, 2023","Jun 30, 2026",,30,Colombia,Crystal Palace
+Ryan Christie,https://www.capology.com/player/ryan-christie-34752/,"£ 70,000","£ 3,640,000","£ 910,000","Nov 10, 2023","Jun 30, 2027",,30,Scotland,Bournemouth
+Dango Ouattara,https://www.capology.com/player/dango-ouattara-37298/,"£ 65,000","£ 3,380,000","£ 845,000","Aug 16, 2025","Jun 30, 2030",,23,Burkina Faso,Brentford
+Omar Alderete,https://www.capology.com/player/omar-alderete-35425/,"£ 65,000","£ 3,380,000","£ 845,000","Aug 12, 2025","Jun 30, 2029",,28,Paraguay,Sunderland
+Piero Hincapié,https://www.capology.com/player/piero-hincapie-37265/,"£ 65,000","£ 3,380,000","£ 845,000","Sep 1, 2025","Jun 30, 2026",,23,Ecuador,Arsenal
+Marcus Tavernier,https://www.capology.com/player/marcus-tavernier-36241/,"£ 65,000","£ 3,380,000","£ 845,000","Jun 16, 2023","Jun 30, 2028",,26,England,Bournemouth
+Kevin Danso,https://www.capology.com/player/kevin-danso-36057/,"£ 65,000","£ 3,380,000","£ 845,000","Jul 1, 2025","Jun 30, 2030",,26,Austria,Tottenham
+Neco Williams,https://www.capology.com/player/neco-williams-36994/,"£ 65,000","£ 3,380,000","£ 845,000","Jul 1, 2025","Jun 30, 2029",,24,Wales,Nottingham Forest
+Kenny Tete,https://www.capology.com/player/kenny-tete-34981/,"£ 65,000","£ 3,380,000","£ 845,000","Jul 1, 2025","Jun 30, 2028",,29,Netherlands,Fulham
+Christian Nørgaard,https://www.capology.com/player/christian-norgaard-34403/,"£ 65,000","£ 3,380,000","£ 845,000","Jul 10, 2025","Jun 30, 2027",,31,Denmark,Arsenal
+Jhon Arias,https://www.capology.com/player/jhon-arias-35694/,"£ 65,000","£ 3,380,000","£ 845,000","Jul 24, 2025","Jun 30, 2029",,27,Colombia,Wolverhampton
+Harvey Elliott,https://www.capology.com/player/harvey-elliott-37715/,"£ 65,000","£ 3,380,000","£ 845,000","Sep 1, 2025","Jun 30, 2026",,22,England,Aston Villa
+Timothy Castagne,https://www.capology.com/player/timothy-castagne-35038/,"£ 65,000","£ 3,380,000","£ 845,000","Aug 29, 2023","Jun 30, 2027",,29,Belgium,Fulham
+Jackson Tchatchoua,https://www.capology.com/player/jackson-tchatchoua-37065/,"£ 65,000","£ 3,380,000","£ 845,000","Aug 19, 2025","Jun 30, 2030",,23,Cameroon,Wolverhampton
+Bertrand Traoré,https://www.capology.com/player/bertrand-traore-34948/,"£ 65,000","£ 3,380,000","£ 845,000","Sep 1, 2025","Jun 30, 2026",,29,Burkina Faso,Sunderland
+Saša Lukić,https://www.capology.com/player/sasa-lukic-35290/,"£ 63,000","£ 3,276,000","£ 819,000","Jan 31, 2023","Jun 30, 2027",,29,Serbia,Fulham
+Rodrigo Muniz,https://www.capology.com/player/rodrigo-muniz-37015/,"£ 60,000","£ 3,120,000","£ 780,000","Oct 1, 2025","Jun 30, 2030",,24,Brazil,Fulham
+Brian Brobbey,https://www.capology.com/player/brian-brobbey-37288/,"£ 60,000","£ 3,120,000","£ 780,000","Sep 1, 2025","Jun 30, 2029",,23,Netherlands,Sunderland
+Kepa Arrizabalaga,https://www.capology.com/player/kepa-34610/,"£ 60,000","£ 3,120,000","£ 780,000","Jul 1, 2025","Jun 30, 2028",,30,Spain,Arsenal
+Mats Wieffer,https://www.capology.com/player/mats-wieffer-36480/,"£ 60,000","£ 3,120,000","£ 780,000","Jul 5, 2024","Jun 30, 2029",,25,Netherlands,Brighton
+Lucas Bergvall,https://www.capology.com/player/lucas-bergvall-38750/,"£ 60,000","£ 3,120,000","£ 780,000","Apr 29, 2025","Jun 30, 2031",,19,Sweden,Tottenham
+Nick Pope,https://www.capology.com/player/nick-pope-33713/,"£ 60,000","£ 3,120,000","£ 780,000","Jul 1, 2022","Jun 30, 2026",,33,England,Newcastle
+Estêvão,https://www.capology.com/player/estevao-39196/,"£ 60,000","£ 3,120,000","£ 780,000","Jul 14, 2025","Jun 30, 2033",,18,Brazil,Chelsea
+Senne Lammens,https://www.capology.com/player/senne-lammens-37444/,"£ 60,000","£ 3,120,000","£ 780,000","Sep 1, 2025","Jun 30, 2030",,23,Belgium,Manchester United
+Ola Aina,https://www.capology.com/player/ola-aina-35346/,"£ 60,000","£ 3,120,000","£ 780,000","Jul 7, 2025","Jun 30, 2028",,28,Nigeria,Nottingham Forest
+André Trindade,https://www.capology.com/player/andre-trindade-37088/,"£ 60,000","£ 3,120,000","£ 780,000","Aug 30, 2024","Jun 30, 2029",,24,Brazil,Wolverhampton
+Mateus Fernandes,https://www.capology.com/player/mateus-fernandes-38178/,"£ 60,000","£ 3,120,000","£ 780,000","Aug 29, 2025","Jun 30, 2026",,21,Portugal,West Ham
+Tyler Adams,https://www.capology.com/player/tyler-adams-36205/,"£ 60,000","£ 3,120,000","£ 780,000","Aug 20, 2023","Jun 30, 2028",,26,United States,Bournemouth
+Olivier Boscagli,https://www.capology.com/player/olivier-boscagli-35752/,"£ 60,000","£ 3,120,000","£ 780,000","Jul 2, 2025","Jun 30, 2030",,27,France,Brighton
+Amine Adli,https://www.capology.com/player/amine-adli-36656/,"£ 60,000","£ 3,120,000","£ 780,000","Aug 21, 2025","Jun 30, 2030",,25,Morocco,Bournemouth
+Djordje Petrovic,https://www.capology.com/player/djordje-petrovic-36441/,"£ 60,000","£ 3,120,000","£ 780,000","Jul 16, 2025","Jun 30, 2030",,25,Serbia,Bournemouth
+Daniel Muñoz,https://www.capology.com/player/daniel-munoz-35210/,"£ 60,000","£ 3,120,000","£ 780,000","Apr 18, 2025","Jun 30, 2028",,29,Colombia,Crystal Palace
+Yeremi Pino,https://www.capology.com/player/yeremi-pino-37549/,"£ 60,000","£ 3,120,000","£ 780,000","Aug 29, 2025","Jun 30, 2030",,22,Spain,Crystal Palace
+Robert Sánchez,https://www.capology.com/player/robert-sanchez-35752/,"£ 60,000","£ 3,120,000","£ 780,000","Aug 5, 2023","Jun 30, 2030",,27,Spain,Chelsea
+Danny Welbeck,https://www.capology.com/player/danny-welbeck-33203/,"£ 60,000","£ 3,120,000","£ 780,000","May 14, 2024","Jun 30, 2026",,34,England,Brighton
+Beto,https://www.capology.com/player/beto-35826/,"£ 60,000","£ 3,120,000","£ 780,000","Aug 29, 2023","Jun 30, 2027",,27,Guinea-Bissau,Everton
+James Milner,https://www.capology.com/player/james-milner-31416/,"£ 60,000","£ 3,120,000","£ 780,000","Jun 13, 2025","Jun 30, 2026",,39,England,Brighton
+Ross Barkley,https://www.capology.com/player/ross-barkley-34308/,"£ 60,000","£ 3,120,000","£ 780,000","Jul 1, 2024","Jun 30, 2026",,31,England,Aston Villa
+José Sá,https://www.capology.com/player/jose-sa-33986/,"£ 60,000","£ 3,120,000","£ 780,000","Sep 29, 2023","Jun 30, 2027",,32,Portugal,Wolverhampton
+Lewis Cook,https://www.capology.com/player/lewis-cook-35464/,"£ 60,000","£ 3,120,000","£ 780,000","Jul 4, 2024","Jun 30, 2028",,28,England,Bournemouth
+Antonee Robinson,https://www.capology.com/player/antonee-robinson-35650/,"£ 60,000","£ 3,120,000","£ 780,000","Jul 7, 2023","Jun 30, 2028",,28,United States,Fulham
+Will Hughes,https://www.capology.com/player/will-hughes-34806/,"£ 60,000","£ 3,120,000","£ 780,000","Apr 15, 2025","Jun 30, 2027",,30,England,Crystal Palace
+Arnaud Kalimuendo,https://www.capology.com/player/arnaud-kalimuendo-37276/,"£ 60,000","£ 3,120,000","£ 780,000","Aug 18, 2025","Jun 30, 2030",,23,France,Nottingham Forest
+Vitaliy Mykolenko,https://www.capology.com/player/vitaliy-mykolenko-36309/,"£ 58,000","£ 3,016,000","£ 754,000","Jan 1, 2022","Jun 30, 2026",,26,Ukraine,Everton
+Josh Cullen,https://www.capology.com/player/josh-cullen-35162/,"£ 55,000","£ 2,860,000","£ 715,000","Sep 9, 2024","Jun 30, 2027",,29,Ireland,Burnley
+Giovanni Leoni,https://www.capology.com/player/giovanni-leoni-39072/,"£ 55,000","£ 2,860,000","£ 715,000","Aug 15, 2025","Jun 30, 2031",,18,Italy,Liverpool
+Arthur Masuaku,https://www.capology.com/player/arthur-masuaku-34280/,"£ 55,000","£ 2,860,000","£ 715,000","Aug 10, 2025","Jun 30, 2027",,31,Democratic Republic of the Congo,Sunderland
+Séamus Coleman,https://www.capology.com/player/seamus-coleman-32427/,"£ 55,000","£ 2,860,000","£ 715,000","Jun 27, 2025","Jun 30, 2026",,36,Ireland,Everton
+Adam Webster,https://www.capology.com/player/adam-webster-34703/,"£ 55,000","£ 2,860,000","£ 715,000","Aug 2, 2021","Jun 30, 2026",,30,England,Brighton
+Kyle Walker-Peters,https://www.capology.com/player/kyle-walker-peters-35533/,"£ 55,000","£ 2,860,000","£ 715,000","Jul 20, 2025","Jun 30, 2028",,28,England,West Ham
+Caoimhín Kelleher,https://www.capology.com/player/caoimhin-kelleher-36122/,"£ 55,000","£ 2,860,000","£ 715,000","Jul 1, 2025","Jun 30, 2030",,26,Ireland,Brentford
+Emil Krafth,https://www.capology.com/player/emil-krafth-34548/,"£ 55,000","£ 2,860,000","£ 715,000","Feb 20, 2025","Jun 30, 2026",,31,Sweden,Newcastle
+Lesley Ugochukwu,https://www.capology.com/player/lesley-ugochukwu-38072/,"£ 55,000","£ 2,860,000","£ 715,000","Aug 6, 2025","Jun 30, 2030",,21,France,Burnley
+Sander Berge,https://www.capology.com/player/sander-berge-35840/,"£ 55,000","£ 2,860,000","£ 715,000","Aug 22, 2024","Jun 30, 2029",,27,Norway,Fulham
+Chris Richards,https://www.capology.com/player/chris-richards-36613/,"£ 55,000","£ 2,860,000","£ 715,000","Jul 27, 2022","Jun 30, 2027",,25,United States,Crystal Palace
+Maxim De Cuyper,https://www.capology.com/player/maxim-de-cuyper-36882/,"£ 55,000","£ 2,860,000","£ 715,000","Jul 5, 2025","Jun 30, 2030",,24,Belgium,Brighton
+Yves Bissouma,https://www.capology.com/player/yves-bissouma-35307/,"£ 55,000","£ 2,860,000","£ 715,000","Jul 1, 2022","Jun 30, 2026",,29,Mali,Tottenham
+Cristhian Mosquera,https://www.capology.com/player/cristhian-mosquera-38165/,"£ 55,000","£ 2,860,000","£ 715,000","Jul 24, 2025","Jun 30, 2030",,21,Spain,Arsenal
+Mathys Tel,https://www.capology.com/player/mathys-tel-38469/,"£ 55,000","£ 2,860,000","£ 715,000","Jul 1, 2025","Jun 30, 2031",,20,France,Tottenham
+Omari Hutchinson,https://www.capology.com/player/omari-hutchinson-37924/,"£ 55,000","£ 2,860,000","£ 715,000","Aug 16, 2025","Jun 30, 2030",,21,England,Nottingham Forest
+Harry Wilson,https://www.capology.com/player/harry-wilson-35511/,"£ 55,000","£ 2,860,000","£ 715,000","May 15, 2025","Jun 30, 2026",,28,Wales,Fulham
+Trevoh Chalobah,https://www.capology.com/player/trevoh-chalobah-36346/,"£ 50,000","£ 2,600,000","£ 650,000","Nov 25, 2022","Jun 30, 2028",,26,England,Chelsea
+Ryan Yates,https://www.capology.com/player/ryan-yates-35755/,"£ 50,000","£ 2,600,000","£ 650,000","Jul 25, 2024","Jun 30, 2028",,27,England,Nottingham Forest
+Sam Johnstone,https://www.capology.com/player/sam-johnstone-34053/,"£ 50,000","£ 2,600,000","£ 650,000","Aug 30, 2024","Jun 30, 2028",,32,England,Wolverhampton
+Brajan Gruda,https://www.capology.com/player/brajan-gruda-38138/,"£ 50,000","£ 2,600,000","£ 650,000","Aug 14, 2024","Jun 30, 2028",,21,Germany,Brighton
+David Brooks,https://www.capology.com/player/david-brooks-35619/,"£ 50,000","£ 2,600,000","£ 650,000","Aug 22, 2022","Jun 30, 2026",,28,Wales,Bournemouth
+Pascal Struijk,https://www.capology.com/player/pascal-struijk-36383/,"£ 50,000","£ 2,600,000","£ 650,000","Dec 21, 2022","Jun 30, 2027",,26,Netherlands,Leeds
+Oscar Bobb,https://www.capology.com/player/oscar-bobb-37814/,"£ 50,000","£ 2,600,000","£ 650,000","Feb 26, 2024","Jun 30, 2029",,22,Norway,Manchester City
+Solly March,https://www.capology.com/player/solly-march-34535/,"£ 50,000","£ 2,600,000","£ 650,000","Mar 17, 2023","Jun 30, 2026",,31,England,Brighton
+Nathaniel Clyne,https://www.capology.com/player/nathaniel-clyne-33333/,"£ 50,000","£ 2,600,000","£ 650,000","Jun 5, 2025","Jun 30, 2026",,34,England,Crystal Palace
+Filip Jørgensen,https://www.capology.com/player/filip-jorgensen-37362/,"£ 50,000","£ 2,600,000","£ 650,000","Jul 30, 2024","Jun 30, 2031",,23,Denmark,Chelsea
+Taiwo Awoniyi,https://www.capology.com/player/taiwo-awoniyi-35654/,"£ 50,000","£ 2,600,000","£ 650,000","Jul 1, 2022","Jun 30, 2027",,28,Nigeria,Nottingham Forest
+Tino Livramento,https://www.capology.com/player/tino-livramento-37572/,"£ 50,000","£ 2,600,000","£ 650,000","Aug 8, 2023","Jun 30, 2028",,22,England,Newcastle
+Habib Diarra,https://www.capology.com/player/habib-diarra-37989/,"£ 50,000","£ 2,600,000","£ 650,000","Jul 1, 2025","Jun 30, 2030",,21,Senegal,Sunderland
+Maxime Estève,https://www.capology.com/player/maxime-esteve-37402/,"£ 50,000","£ 2,600,000","£ 650,000","Jul 30, 2025","Jun 30, 2030",,23,France,Burnley
+Maxence Lacroix,https://www.capology.com/player/maxence-lacroix-36622/,"£ 50,000","£ 2,600,000","£ 650,000","Aug 30, 2024","Jun 30, 2029",,25,France,Crystal Palace
+Harrison Reed,https://www.capology.com/player/harrison-reed-34726/,"£ 50,000","£ 2,600,000","£ 650,000","Sep 14, 2023","Jun 30, 2027",,30,England,Fulham
+Matt Doherty,https://www.capology.com/player/matt-doherty-33619/,"£ 50,000","£ 2,600,000","£ 650,000","Jul 20, 2023","Jun 30, 2026",,33,Ireland,Wolverhampton
+Mathias Jensen,https://www.capology.com/player/mathias-jensen-35065/,"£ 50,000","£ 2,600,000","£ 650,000","Jan 18, 2023","Jun 30, 2026",,29,Denmark,Brentford
+Igor Jesus,https://www.capology.com/player/igor-jesus-36947/,"£ 50,000","£ 2,600,000","£ 650,000","Jul 5, 2025","Jun 30, 2029",,24,Brazil,Nottingham Forest
+Igor Thiago,https://www.capology.com/player/igor-thiago-37068/,"£ 50,000","£ 2,600,000","£ 650,000","Jul 1, 2024","Jun 30, 2029",,24,Brazil,Brentford
+Reinildo Mandava,https://www.capology.com/player/reinildo-mandava-34355/,"£ 50,000","£ 2,600,000","£ 650,000","Jul 8, 2025","Jun 30, 2027",,31,Mozambique,Sunderland
+Jadon Sancho,https://www.capology.com/player/jadon-sancho-36610/,"£ 50,000","£ 2,600,000","£ 5,200,000","Jul 23, 2021","Jun 30, 2026",,25,England,Manchester United
+Wataru Endo,https://www.capology.com/player/wataru-endo-34009/,"£ 50,000","£ 2,600,000","£ 650,000","Aug 18, 2023","Jun 30, 2027",,32,Japan,Liverpool
+Marcus Edwards,https://www.capology.com/player/marcus-edwards-36132/,"£ 50,000","£ 2,600,000","£ 650,000","Jul 1, 2025","Jun 30, 2029",,26,England,Burnley
+Marcos Senesi,https://www.capology.com/player/marcos-senesi-35560/,"£ 50,000","£ 2,600,000","£ 650,000","Aug 8, 2022","Jun 30, 2026",,28,Argentina,Bournemouth
+Marc Guiu,https://www.capology.com/player/marc-guiu-38721/,"£ 50,000","£ 2,600,000","£ 650,000","Jul 1, 2024","Jun 30, 2029",,19,Spain,Chelsea
+James Trafford,https://www.capology.com/player/james-trafford-37539/,"£ 50,000","£ 2,600,000","£ 650,000","Jul 29, 2025","Jun 30, 2030",,22,England,Manchester City
+Jan Paul van Hecke,https://www.capology.com/player/jan-paul-van-hecke-36685/,"£ 50,000","£ 2,600,000","£ 650,000","Dec 15, 2023","Jun 30, 2027",,25,Netherlands,Brighton
+Marc Guéhi,https://www.capology.com/player/marc-guehi-36720/,"£ 50,000","£ 2,600,000","£ 650,000","Jul 18, 2021","Jun 30, 2026",,25,England,Crystal Palace
+Konstantinos Mavropanos,https://www.capology.com/player/konstantinos-mavropanos-35775/,"£ 50,000","£ 2,600,000","£ 650,000","Aug 22, 2023","Jun 30, 2028",,27,Greece,West Ham
+Jean-Philippe Mateta,https://www.capology.com/player/jean-philippe-mateta-35609/,"£ 50,000","£ 2,600,000","£ 650,000","Dec 23, 2024","Jun 30, 2027",,28,France,Crystal Palace
+Jérémy Doku,https://www.capology.com/player/jeremy-doku-37403/,"£ 50,000","£ 2,600,000","£ 650,000","Aug 24, 2023","Jun 30, 2028",,23,Belgium,Manchester City
+Lukasz Fabianski,https://www.capology.com/player/lukasz-fabianski-31155/,"£ 50,000","£ 2,600,000","£ 650,000","Sep 10, 2025","Jun 30, 2026",,40,Poland,West Ham
+Lucas Perri,https://www.capology.com/player/lucas-perri-35774/,"£ 50,000","£ 2,600,000","£ 650,000","Jul 26, 2025","Jun 30, 2029",,27,Brazil,Leeds
+Keane Lewis-Potter,https://www.capology.com/player/keane-lewis-potter-36944/,"£ 50,000","£ 2,600,000","£ 650,000","Jan 8, 2025","Jun 30, 2031",,24,England,Brentford
+Joël Veltman,https://www.capology.com/player/joel-veltman-33618/,"£ 50,000","£ 2,600,000","£ 650,000","Jan 1, 2025","Jun 30, 2026",,33,Netherlands,Brighton
+Kevin,https://www.capology.com/player/kevin-37625/,"£ 50,000","£ 2,600,000","£ 650,000","Sep 1, 2025","Jun 30, 2030",,22,Brazil,Fulham
+Abdukodir Khusanov,https://www.capology.com/player/abdukodir-khusanov-38046/,"£ 50,000","£ 2,600,000","£ 650,000","Jan 20, 2025","Jun 30, 2029",,21,Uzbekistan,Manchester City
+Callum Wilson,https://www.capology.com/player/callum-wilson-33661/,"£ 50,000","£ 2,600,000","£ 650,000","Aug 2, 2025","Jun 30, 2026",,33,England,West Ham
+Sebastiaan Bornauw,https://www.capology.com/player/sebastiaan-bornauw-36241/,"£ 45,000","£ 2,340,000","£ 585,000","Jul 1, 2025","Jun 30, 2029",,26,Belgium,Leeds
+Anton Stach,https://www.capology.com/player/anton-stach-36114/,"£ 45,000","£ 2,340,000","£ 585,000","Jul 22, 2025","Jun 30, 2029",,26,Germany,Leeds
+Armando Broja,https://www.capology.com/player/armando-broja-37144/,"£ 45,000","£ 2,340,000","£ 585,000","Aug 8, 2025","Jun 30, 2030",,23,Albania,Burnley
+Axel Tuanzebe,https://www.capology.com/player/axel-tuanzebe-35748/,"£ 45,000","£ 2,340,000","£ 585,000","Jul 1, 2025","Jun 30, 2026",,27,Democratic Republic of the Congo,Burnley
+Brenden Aaronson,https://www.capology.com/player/brenden-aaronson-36821/,"£ 45,000","£ 2,340,000","£ 585,000","Jul 1, 2022","Jun 30, 2027",,24,United States,Leeds
+Calvin Bassey,https://www.capology.com/player/calvin-bassey-36525/,"£ 45,000","£ 2,340,000","£ 585,000","Jul 28, 2023","Jun 30, 2027",,25,Nigeria,Fulham
+Crysencio Summerville,https://www.capology.com/player/crysencio-summerville-37194/,"£ 45,000","£ 2,340,000","£ 585,000","Aug 3, 2024","Jun 30, 2029",,23,Netherlands,West Ham
+Igor,https://www.capology.com/player/igor-35833/,"£ 45,000","£ 2,340,000","£ 585,000","Sep 1, 2025","Jun 30, 2026",,27,Brazil,West Ham
+Iliman Ndiaye,https://www.capology.com/player/iliman-ndiaye-36591/,"£ 45,000","£ 2,340,000","£ 585,000","Jul 3, 2024","Jun 30, 2029",,25,Senegal,Everton
+Jacob Bruun Larsen,https://www.capology.com/player/jacob-bruun-larsen-36057/,"£ 45,000","£ 2,340,000","£ 585,000","Jul 11, 2025","Jun 30, 2029",,26,Denmark,Burnley
+Jaidon Anthony,https://www.capology.com/player/jaidon-anthony-36495/,"£ 45,000","£ 2,340,000","£ 585,000","Jul 1, 2025","Jun 30, 2029",,25,England,Burnley
+Jaka Bijol,https://www.capology.com/player/jaka-bijol-36196/,"£ 45,000","£ 2,340,000","£ 585,000","Jul 1, 2025","Jun 30, 2030",,26,Slovenia,Leeds
+Ladislav Krejci,https://www.capology.com/player/ladislav-krejci-36270/,"£ 45,000","£ 2,340,000","£ 585,000","Aug 28, 2025","Jun 30, 2026",,26,Czech Republic,Wolverhampton
+Lewis Hall,https://www.capology.com/player/lewis-hall-38238/,"£ 45,000","£ 2,340,000","£ 585,000","Jul 1, 2024","Jun 30, 2026",,20,England,Newcastle
+Loum Tchaouna,https://www.capology.com/player/loum-tchaouna-37872/,"£ 45,000","£ 2,340,000","£ 585,000","Jul 2, 2025","Jun 30, 2030",,21,France,Burnley
+Mads Hermansen,https://www.capology.com/player/mads-hermansen-36718/,"£ 45,000","£ 2,340,000","£ 585,000","Aug 9, 2025","Jun 30, 2030",,25,Denmark,West Ham
+Malo Gusto,https://www.capology.com/player/malo-gusto-37760/,"£ 45,000","£ 2,340,000","£ 585,000","Jan 29, 2023","Jun 30, 2030",,22,France,Chelsea
+Marco Bizot,https://www.capology.com/player/marco-bizot-33307/,"£ 45,000","£ 2,340,000","£ 585,000","Jul 15, 2025","Jun 30, 2027",,34,Netherlands,Aston Villa
+Myles Lewis-Skelly,https://www.capology.com/player/myles-lewis-skelly-38986/,"£ 45,000","£ 2,340,000","£ 585,000","Jun 26, 2025","Jun 30, 2030",,18,England,Arsenal
+Nicolò Savona,https://www.capology.com/player/nicolo-savona-37699/,"£ 45,000","£ 2,340,000","£ 780,000","Aug 30, 2025","Jun 30, 2030",,22,Italy,Nottingham Forest
+Quilindschy Hartman,https://www.capology.com/player/quilindschy-hartman-37209/,"£ 45,000","£ 2,340,000","£ 585,000","Jul 1, 2025","Jun 30, 2029",,23,Netherlands,Burnley
+Roméo Lavia,https://www.capology.com/player/romeo-lavia-37992/,"£ 45,000","£ 2,340,000","£ 585,000","Aug 18, 2023","Jun 30, 2030",,21,Belgium,Chelsea
+Ryan Sessegnon,https://www.capology.com/player/ryan-sessegnon-36664/,"£ 45,000","£ 2,340,000","£ 585,000","Jul 26, 2024","Jun 30, 2026",,25,England,Fulham
+Thierno Barry,https://www.capology.com/player/thierno-barry-37550/,"£ 45,000","£ 2,340,000","£ 585,000","Jul 9, 2025","Jun 30, 2029",,22,France,Everton
+Tom Heaton,https://www.capology.com/player/tom-heaton-31517/,"£ 45,000","£ 2,340,000","£ 585,000","Jun 27, 2025","Jun 30, 2026",,39,England,Manchester United
+Trai Hume,https://www.capology.com/player/trai-hume-37333/,"£ 45,000","£ 2,340,000","£ 585,000","Aug 13, 2025","Jun 30, 2030",,23,Northern Ireland,Sunderland
+Kristoffer Ajer,https://www.capology.com/player/kristoffer-ajer-35902/,"£ 40,000","£ 2,080,000","£ 520,000","Nov 21, 2023","Jun 30, 2028",,27,Norway,Brentford
+Santiago Bueno,https://www.capology.com/player/santiago-bueno-36108/,"£ 40,000","£ 2,080,000","£ 520,000","Aug 31, 2023","Jun 30, 2028",,26,Uruguay,Wolverhampton
+Joe Worrall,https://www.capology.com/player/joe-worrall-35440/,"£ 40,000","£ 2,080,000","£ 520,000","Aug 22, 2024","Jun 30, 2028",,28,England,Burnley
+Fábio Carvalho,https://www.capology.com/player/fabio-carvalho-37498/,"£ 40,000","£ 2,080,000","£ 520,000","Aug 12, 2024","Jun 30, 2029",,23,Portugal,Brentford
+Elliot Anderson,https://www.capology.com/player/elliot-anderson-37566/,"£ 40,000","£ 2,080,000","£ 520,000","Jul 1, 2024","Jun 30, 2029",,22,England,Nottingham Forest
+Djed Spence,https://www.capology.com/player/djed-spence-36747/,"£ 40,000","£ 2,080,000","£ 520,000","Oct 17, 2024","Jun 30, 2029",,25,England,Tottenham
+Wilfried Gnonto,https://www.capology.com/player/wilfried-gnonto-37930/,"£ 40,000","£ 2,080,000","£ 520,000","Aug 31, 2024","Jun 30, 2028",,21,Italy,Leeds
+Stefan Bajcetic,https://www.capology.com/player/stefan-bajcetic-38282/,"£ 40,000","£ 2,080,000","£ 520,000","Jan 26, 2023","Jun 30, 2027",,20,Spain,Liverpool
+Bashir Humphreys,https://www.capology.com/player/bashir-humphreys-37695/,"£ 40,000","£ 2,080,000","£ 520,000","Jul 1, 2025","Jun 30, 2026",,22,England,Burnley
+Adam Smith,https://www.capology.com/player/adam-smith-33357/,"£ 40,000","£ 2,080,000","£ 520,000","Sep 12, 2024","Jun 30, 2026",,34,England,Bournemouth
+Patrick Dorgu,https://www.capology.com/player/patrick-dorgu-38286/,"£ 40,000","£ 2,080,000","£ 520,000","Feb 2, 2025","Jun 30, 2030",,20,Denmark,Manchester United
+James McAtee,https://www.capology.com/player/james-mcatee-37547/,"£ 40,000","£ 2,080,000","£ 520,000","Aug 16, 2025","Jun 30, 2030",,22,England,Nottingham Forest
+Yankuba Minteh,https://www.capology.com/player/yankuba-minteh-38190/,"£ 40,000","£ 2,080,000","£ 520,000","Jul 1, 2024","Jun 30, 2029",,21,The Gambia,Brighton
+Dário Essugo,https://www.capology.com/player/dario-essugo-38425/,"£ 40,000","£ 2,080,000","£ 520,000","Jun 10, 2025","Jun 30, 2033",,20,Portugal,Chelsea
+Joe Rodon,https://www.capology.com/player/joe-rodon-35725/,"£ 40,000","£ 2,080,000","£ 520,000","Jul 2, 2024","Jun 30, 2028",,27,Wales,Leeds
+Florentino,https://www.capology.com/player/florentino-36391/,"£ 40,000","£ 2,080,000","£ 520,000","Sep 1, 2025","Jun 30, 2026",,26,Portugal,Burnley
+Joël Piroe,https://www.capology.com/player/joel-piroe-36374/,"£ 40,000","£ 2,080,000","£ 520,000","Aug 24, 2023","Jun 30, 2027",,26,Netherlands,Leeds
+Wilson Odobert,https://www.capology.com/player/wilson-odobert-38319/,"£ 40,000","£ 2,080,000","£ 520,000","Aug 16, 2024","Jun 30, 2029",,20,France,Tottenham
+Charalampos Kostoulas,https://www.capology.com/player/charalampos-kostoulas-39232/,"£ 40,000","£ 2,080,000","£ 520,000","Jul 1, 2025","Jun 30, 2030",,18,Greece,Brighton
+Frank Onyeka,https://www.capology.com/player/frank-onyeka-35796/,"£ 40,000","£ 2,080,000","£ 520,000","Aug 7, 2023","Jun 30, 2027",,27,Nigeria,Brentford
+Jamaal Lascelles,https://www.capology.com/player/jamaal-lascelles-34284/,"£ 40,000","£ 2,080,000","£ 520,000","Mar 8, 2023","Jun 30, 2026",,31,England,Newcastle
+Martin Dubravka,https://www.capology.com/player/martin-dubravka-32523/,"£ 40,000","£ 2,080,000","£ 520,000","Aug 7, 2025","Jun 30, 2026",,36,Slovakia,Burnley
+Alex Scott,https://www.capology.com/player/alex-scott-37854/,"£ 40,000","£ 2,080,000","£ 520,000","Aug 10, 2023","Jun 30, 2028",,22,England,Bournemouth
+Willy Boly,https://www.capology.com/player/willy-boly-33272/,"£ 40,000","£ 2,080,000","£ 520,000","Jun 19, 2025","Jun 30, 2026",,34,Cote d'Ivoire,Nottingham Forest
+Ethan Ampadu,https://www.capology.com/player/ethan-ampadu-36783/,"£ 40,000","£ 2,080,000","£ 520,000","Jul 19, 2023","Jun 30, 2027",,24,Wales,Leeds
+Gabriel Gudmundsson,https://www.capology.com/player/gabriel-gudmundsson-36279/,"£ 40,000","£ 2,080,000","£ 520,000","Jul 8, 2025","Jun 30, 2029",,26,Sweden,Leeds
+Gabriel Slonina,https://www.capology.com/player/gabriel-slonina-38122/,"£ 40,000","£ 2,080,000","£ 520,000","Aug 2, 2022","Jun 30, 2028",,21,United States,Chelsea
+Tyrick Mitchell,https://www.capology.com/player/tyrick-mitchell-36404/,"£ 40,000","£ 2,080,000","£ 520,000","Apr 13, 2021","Jun 30, 2027",,26,England,Crystal Palace
+Michael Kayode,https://www.capology.com/player/michael-kayode-38178/,"£ 40,000","£ 2,080,000","£ 520,000","Jul 1, 2025","Jun 30, 2030",,21,Italy,Brentford
+Ki-Jana Hoever,https://www.capology.com/player/ki-jana-hoever-37274/,"£ 40,000","£ 2,080,000","£ 520,000","Jul 21, 2023","Jun 30, 2026",,23,Netherlands,Wolverhampton
+Noah Sadiki,https://www.capology.com/player/noah-sadiki-38338/,"£ 40,000","£ 2,080,000","£ 520,000","Jul 4, 2025","Jun 30, 2030",,20,Democratic Republic of the Congo,Sunderland
+Matt Targett,https://www.capology.com/player/matt-targett-34960/,"£ 40,000","£ 2,080,000","£ 520,000","Jul 1, 2022","Jun 30, 2026",,29,England,Newcastle
+John,https://www.capology.com/player/john-35108/,"£ 40,000","£ 2,080,000","£ 520,000","Aug 31, 2025","Jun 30, 2028",,29,Brazil,Nottingham Forest
+Tyler Dibling,https://www.capology.com/player/tyler-dibling-38765/,"£ 40,000","£ 2,080,000","£ 520,000","Aug 25, 2025","Jun 30, 2029",,19,England,Everton
+Chemsdine Talbi,https://www.capology.com/player/chemsdine-talbi-38481/,"£ 40,000","£ 2,080,000","£ 520,000","Jul 9, 2025","Jun 30, 2030",,20,Morocco,Sunderland
+Matz Sels,https://www.capology.com/player/matz-sels-33660/,"£ 40,000","£ 2,080,000","£ 520,000","Jul 18, 2025","Jun 30, 2027",,33,Belgium,Nottingham Forest
+Tom Cairney,https://www.capology.com/player/tom-cairney-33258/,"£ 35,000","£ 1,820,000","£ 455,000","Jul 14, 2025","Jun 30, 2026",,34,Scotland,Fulham
+Nicolás Domínguez,https://www.capology.com/player/nicolas-dominguez-35974/,"£ 35,000","£ 1,820,000","£ 455,000","Sep 1, 2023","Jun 30, 2028",,27,Argentina,Nottingham Forest
+Soungoutou Magassa,https://www.capology.com/player/soungoutou-magassa-37902/,"£ 35,000","£ 1,820,000","£ 455,000","Aug 29, 2025","Jun 30, 2031",,21,France,West Ham
+Bart Verbruggen,https://www.capology.com/player/bart-verbruggen-37486/,"£ 35,000","£ 1,820,000","£ 455,000","Jul 3, 2023","Jun 30, 2028",,23,Netherlands,Brighton
+Borna Sosa,https://www.capology.com/player/borna-sosa-35816/,"£ 35,000","£ 1,820,000","£ 455,000","Jul 11, 2025","Jun 30, 2028",,27,Croatia,Crystal Palace
+Connor Roberts,https://www.capology.com/player/connor-roberts-34965/,"£ 35,000","£ 1,820,000","£ 455,000","Aug 31, 2021","Jun 30, 2027",,29,Wales,Burnley
+Max Dowman,https://www.capology.com/player/max-dowman-40178/,"£ 35,000","£ 1,820,000","£ 455,000","Jul 1, 2025","Jun 30, 2026",,15,England,Arsenal
+Walter Benítez,https://www.capology.com/player/walter-benitez-33988/,"£ 35,000","£ 1,820,000","£ 455,000","Jul 1, 2025","Jun 30, 2026",,32,Argentina,Crystal Palace
+El Hadji Malick Diouf,https://www.capology.com/player/el-hadji-malick-diouf-38349/,"£ 35,000","£ 1,820,000","£ 455,000","Jul 15, 2025","Jun 30, 2030",,20,Senegal,West Ham
+Altay Bayındır,https://www.capology.com/player/altay-bayindir-35899/,"£ 35,000","£ 1,820,000","£ 455,000","Sep 1, 2023","Jun 30, 2027",,27,Turkey,Manchester United
+Chris Rigg,https://www.capology.com/player/chris-rigg-39251/,"£ 35,000","£ 1,820,000","£ 455,000","Aug 28, 2025","Jun 30, 2030",,18,England,Sunderland
+Luis Sinisterra,https://www.capology.com/player/luis-sinisterra-36328/,"£ 35,000","£ 1,820,000","£ 455,000","Jul 1, 2024","Jun 30, 2026",,26,Colombia,Bournemouth
+Lukas Nmecha,https://www.capology.com/player/lukas-nmecha-36143/,"£ 35,000","£ 1,820,000","£ 455,000","Jul 1, 2025","Jun 30, 2027",,26,Germany,Leeds
+Rico Henry,https://www.capology.com/player/rico-henry-35619/,"£ 35,000","£ 1,820,000","£ 455,000","Mar 22, 2022","Jun 30, 2026",,28,England,Brentford
+Andrey Santos,https://www.capology.com/player/andrey-santos-38110/,"£ 35,000","£ 1,820,000","£ 455,000","Jan 1, 2023","Jun 30, 2030",,21,Brazil,Chelsea
+Zeki Amdouni,https://www.capology.com/player/zeki-amdouni-36864/,"£ 35,000","£ 1,820,000","£ 455,000","Jul 19, 2023","Jun 30, 2028",,24,Switzerland,Burnley
+Romain Faivre,https://www.capology.com/player/romain-faivre-35990/,"£ 35,000","£ 1,820,000","£ 455,000","Jul 13, 2023","Jun 30, 2028",,27,France,Bournemouth
+Daniel Ballard,https://www.capology.com/player/daniel-ballard-36425/,"£ 35,000","£ 1,820,000","£ 455,000","Jul 24, 2024","Jun 30, 2028",,25,Northern Ireland,Sunderland
+Adam Wharton,https://www.capology.com/player/adam-wharton-38023/,"£ 35,000","£ 1,820,000","£ 455,000","Feb 1, 2024","Jun 30, 2029",,21,England,Crystal Palace
+Adrien Truffert,https://www.capology.com/player/adrien-truffert-37215/,"£ 35,000","£ 1,820,000","£ 455,000","Jul 1, 2025","Jun 30, 2030",,23,France,Bournemouth
+Cuiabano,https://www.capology.com/player/cuiabano-37668/,"£ 35,000","£ 1,820,000","£ 455,000","Sep 1, 2025","Jun 30, 2029",,22,Brazil,Nottingham Forest
+James Justin,https://www.capology.com/player/james-justin-35849/,"£ 35,000","£ 1,820,000","£ 455,000","Aug 25, 2025","Jun 30, 2029",,27,England,Leeds
+Marcus Bettinelli,https://www.capology.com/player/marcus-bettinelli-33748/,"£ 35,000","£ 1,820,000","£ 455,000","Jun 10, 2025","Jun 30, 2026",,33,England,Manchester City
+Morato,https://www.capology.com/player/morato-37072/,"£ 35,000","£ 1,820,000","£ 455,000","Aug 30, 2024","Jun 30, 2029",,24,Brazil,Nottingham Forest
+Jake O'Brien,https://www.capology.com/player/jake-o-brien-37026/,"£ 35,000","£ 1,820,000","£ 455,000","Jul 30, 2024","Jun 30, 2028",,24,Ireland,Everton
+Jair Cunha,https://www.capology.com/player/jair-cunha-38418/,"£ 35,000","£ 1,820,000","£ 455,000","Jul 11, 2025","Jun 30, 2030",,20,Brazil,Nottingham Forest
+Jacob Murphy,https://www.capology.com/player/jacob-murphy-34754/,"£ 35,000","£ 1,820,000","£ 455,000","Jul 7, 2021","Jun 30, 2027",,30,England,Newcastle
+David Møller Wolfe,https://www.capology.com/player/david-moller-wolfe-37369/,"£ 30,000","£ 1,560,000","£ 390,000","Aug 2, 2025","Jun 30, 2030",,23,Norway,Wolverhampton
+Lamare Bogarde,https://www.capology.com/player/lamare-bogarde-37991/,"£ 30,000","£ 1,560,000","£ 390,000","Apr 7, 2025","Jun 30, 2026",,21,Netherlands,Aston Villa
+Vitaly Janelt,https://www.capology.com/player/vitaly-janelt-35925/,"£ 30,000","£ 1,560,000","£ 390,000","Apr 1, 2022","Jun 30, 2026",,27,Germany,Brentford
+Lewis Miley,https://www.capology.com/player/lewis-miley-38838/,"£ 30,000","£ 1,560,000","£ 390,000","Jan 29, 2024","Jun 30, 2029",,19,England,Newcastle
+Luis Guilherme,https://www.capology.com/player/luis-guilherme-38757/,"£ 30,000","£ 1,560,000","£ 390,000","Jul 1, 2024","Jun 30, 2029",,19,Brazil,West Ham
+Angus Gunn,https://www.capology.com/player/angus-gunn-35086/,"£ 30,000","£ 1,560,000","£ 390,000","Aug 6, 2025","Jun 30, 2026",,29,Scotland,Nottingham Forest
+Antoni Milambo,https://www.capology.com/player/antoni-milambo-38445/,"£ 30,000","£ 1,560,000","£ 390,000","Jul 3, 2025","Jun 30, 2030",,20,Netherlands,Brentford
+Antonín Kinský,https://www.capology.com/player/antonin-kinsky-37693/,"£ 30,000","£ 1,560,000","£ 390,000","Jan 5, 2025","Jun 30, 2031",,22,Czech Republic,Tottenham
+Jayden Bogle,https://www.capology.com/player/jayden-bogle-36734/,"£ 30,000","£ 1,560,000","£ 390,000","Jul 20, 2024","Jun 30, 2028",,25,England,Leeds
+Karl Darlow,https://www.capology.com/player/karl-darlow-33154/,"£ 30,000","£ 1,560,000","£ 390,000","Jul 29, 2023","Jun 30, 2026",,34,Wales,Leeds
+Yerson Mosquera,https://www.capology.com/player/yerson-mosquera-37013/,"£ 30,000","£ 1,560,000","£ 390,000","Mar 31, 2025","Jun 30, 2030",,24,Colombia,Wolverhampton
+James Garner,https://www.capology.com/player/james-garner-36963/,"£ 30,000","£ 1,560,000","£ 390,000","Sep 1, 2022","Jun 30, 2026",,24,England,Everton
+Illan Meslier,https://www.capology.com/player/illan-meslier-36587/,"£ 30,000","£ 1,560,000","£ 390,000","Aug 13, 2021","Jun 30, 2026",,25,France,Leeds
+Ben Doak,https://www.capology.com/player/ben-doak-38667/,"£ 30,000","£ 1,560,000","£ 390,000","Aug 18, 2025","Jun 30, 2030",,19,Scotland,Bournemouth
+Benjamin Lecomte,https://www.capology.com/player/benjamin-lecomte-33354/,"£ 30,000","£ 1,560,000","£ 390,000","Jul 26, 2025","Jun 30, 2027",,34,France,Fulham
+Benson Manuel,https://www.capology.com/player/benson-manuel-35517/,"£ 30,000","£ 1,560,000","£ 390,000","Aug 9, 2023","Jun 30, 2027",,28,Angola,Burnley
+Mike Tresor,https://www.capology.com/player/mike-tresor-36308/,"£ 30,000","£ 1,560,000","£ 390,000","Jul 1, 2024","Jun 30, 2028",,26,Belgium,Burnley
+Chadi Riad,https://www.capology.com/player/chadi-riad-37789/,"£ 30,000","£ 1,560,000","£ 390,000","Jul 2, 2024","Jun 30, 2029",,22,Morocco,Crystal Palace
+Robin Roefs,https://www.capology.com/player/robin-roefs-37638/,"£ 30,000","£ 1,560,000","£ 390,000","Aug 1, 2025","Jun 30, 2030",,22,Netherlands,Sunderland
+Naouirou Ahamada,https://www.capology.com/player/naouirou-ahamada-37344/,"£ 30,000","£ 1,560,000","£ 390,000","Jan 31, 2023","Jun 30, 2026",,23,France,Crystal Palace
+Nathan Collins,https://www.capology.com/player/nathan-collins-37011/,"£ 30,000","£ 1,560,000","£ 390,000","Jul 4, 2023","Jun 30, 2029",,24,Ireland,Brentford
+Reiss Nelson,https://www.capology.com/player/reiss-nelson-36504/,"£ 30,000","£ 1,560,000","£ 390,000","Jun 6, 2023","Jun 30, 2027",,25,England,Arsenal
+Ethan Pinnock,https://www.capology.com/player/ethan-pinnock-34118/,"£ 30,000","£ 1,560,000","£ 390,000","May 28, 2023","Jun 30, 2027",,32,Jamaica,Brentford
+Christantus Uche,https://www.capology.com/player/christantus-uche-37760/,"£ 30,000","£ 1,560,000","£ 390,000","Sep 1, 2025","Jun 30, 2026",,22,Nigeria,Crystal Palace
+Nico O'Reilly,https://www.capology.com/player/nico-o-reilly-38432/,"£ 30,000","£ 1,560,000","£ 390,000","Sep 26, 2025","Jun 30, 2030",,20,England,Manchester City
+Eliezer Mayenda,https://www.capology.com/player/eliezer-mayenda-38480/,"£ 30,000","£ 1,560,000","£ 390,000","Aug 7, 2025","Jun 30, 2030",,20,Spain,Sunderland
+Oleksandr Zinchenko,https://www.capology.com/player/oleksandr-zinchenko-35414/,"£ 30,000","£ 1,560,000","£ 2,600,000","Jul 22, 2022","Jun 30, 2026",,28,Ukraine,Arsenal
+Nathan Patterson,https://www.capology.com/player/nathan-patterson-37180/,"£ 28,000","£ 1,456,000","£ 364,000","Jan 4, 2022","Jun 30, 2027",,23,Scotland,Everton
+Boubacar Traoré,https://www.capology.com/player/boubacar-traore-37123/,"£ 27,500","£ 1,430,000","£ 357,500","Jul 1, 2023","Jun 30, 2027",,24,Mali,Wolverhampton
+Jordan Beyer,https://www.capology.com/player/jordan-beyer-36665/,"£ 25,000","£ 1,300,000","£ 325,000","Jul 1, 2023","Jun 30, 2027",,25,Germany,Burnley
+Jonah Kusi-Asare,https://www.capology.com/player/jonah-kusi-asare-39267/,"£ 25,000","£ 1,300,000","£ 325,000","Sep 1, 2025","Jun 30, 2026",,18,Sweden,Fulham
+Mark Travers,https://www.capology.com/player/mark-travers-36298/,"£ 25,000","£ 1,300,000","£ 325,000","Jul 15, 2025","Jun 30, 2029",,26,Ireland,Everton
+Ashley Barnes,https://www.capology.com/player/ashley-barnes-32811/,"£ 25,000","£ 1,300,000","£ 325,000","Jun 27, 2025","Jun 30, 2026",,35,England,Burnley
+Ao Tanaka,https://www.capology.com/player/ao-tanaka-36048/,"£ 25,000","£ 1,300,000","£ 325,000","Aug 30, 2024","Jun 30, 2028",,26,Japan,Leeds
+James Hill,https://www.capology.com/player/james-hill-37266/,"£ 25,000","£ 1,300,000","£ 325,000","Jan 5, 2022","Jun 30, 2026",,23,England,Bournemouth
+Rio Ngumoha,https://www.capology.com/player/rio-ngumoha-39689/,"£ 25,000","£ 1,300,000","£ 325,000","Sep 25, 2025","Jun 30, 2028",,17,England,Liverpool
+Fer López,https://www.capology.com/player/fer-lopez-38131/,"£ 25,000","£ 1,300,000","£ 325,000","Jul 1, 2025","Jun 30, 2030",,21,Spain,Wolverhampton
+Facundo Buonanotte,https://www.capology.com/player/facundo-buonanotte-38344/,"£ 25,000","£ 1,300,000","£ 325,000","Sep 1, 2025","Jun 30, 2026",,20,Argentina,Chelsea
+Jaydee Canvot,https://www.capology.com/player/jaydee-canvot-38927/,"£ 25,000","£ 1,300,000","£ 325,000","Sep 1, 2025","Jun 30, 2029",,19,France,Crystal Palace
+Rico Lewis,https://www.capology.com/player/rico-lewis-38312/,"£ 25,000","£ 1,300,000","£ 325,000","Aug 15, 2023","Jun 30, 2028",,20,England,Manchester City
+Diego León,https://www.capology.com/player/diego-leon-39175/,"£ 25,000","£ 1,300,000","£ 325,000","Jul 5, 2025","Jun 30, 2026",,18,Paraguay,Manchester United
+Yegor Yarmolyuk,https://www.capology.com/player/yegor-yarmolyuk-38047/,"£ 25,000","£ 1,300,000","£ 325,000","May 29, 2025","Jun 30, 2031",,21,Ukraine,Brentford
+Dwight McNeil,https://www.capology.com/player/dwight-mcneil-36486/,"£ 25,000","£ 1,300,000","£ 325,000","Jul 28, 2022","Jun 30, 2027",,25,England,Everton
+Julián Araujo,https://www.capology.com/player/julian-araujo-37116/,"£ 25,000","£ 1,300,000","£ 325,000","Aug 13, 2024","Jun 30, 2029",,24,Mexico,Bournemouth
+Trey Nyoni,https://www.capology.com/player/trey-nyoni-39263/,"£ 25,000","£ 1,300,000","£ 325,000","Jun 30, 2025","Jun 30, 2026",,18,England,Liverpool
+Diego Gómez,https://www.capology.com/player/diego-gomez-37707/,"£ 25,000","£ 1,300,000","£ 325,000","Jan 1, 2025","Jun 30, 2026",,22,Paraguay,Brighton
+Tyler Fredricson,https://www.capology.com/player/tyler-fredricson-38406/,"£ 25,000","£ 1,300,000","£ 325,000","Jul 1, 2025","Jun 30, 2026",,20,England,Manchester United
+Diego Coppola,https://www.capology.com/player/diego-coppola-37983/,"£ 25,000","£ 1,300,000","£ 325,000","Jul 1, 2025","Jun 30, 2030",,21,Italy,Brighton
+Veljko Milosavljevic,https://www.capology.com/player/veljko-milosavljevic-39261/,"£ 25,000","£ 1,300,000","£ 325,000","Sep 1, 2025","Jun 30, 2030",,18,Serbia,Bournemouth
+Jorge Cuenca,https://www.capology.com/player/jorge-cuenca-36481/,"£ 25,000","£ 1,300,000","£ 325,000","Aug 3, 2024","Jun 30, 2028",,25,Spain,Fulham
+William Osula,https://www.capology.com/player/william-osula-37837/,"£ 25,000","£ 1,300,000","£ 325,000","Aug 8, 2024","Jun 30, 2029",,22,Denmark,Newcastle
+Wilson Isidor,https://www.capology.com/player/wilson-isidor-36765/,"£ 25,000","£ 1,300,000","£ 325,000","Feb 1, 2025","Jun 30, 2028",,25,France,Sunderland
+Hjalmar Ekdal,https://www.capology.com/player/hjalmar-ekdal-36089/,"£ 25,000","£ 1,300,000","£ 325,000","Jan 21, 2023","Jun 30, 2027",,26,Sweden,Burnley
+Hugo Bueno,https://www.capology.com/player/hugo-bueno-37517/,"£ 25,000","£ 1,300,000","£ 325,000","Nov 20, 2023","Jun 30, 2028",,22,Spain,Wolverhampton
+Max Weiß,https://www.capology.com/player/max-weiss-38153/,"£ 25,000","£ 1,300,000","£ 325,000","Jul 1, 2025","Jun 30, 2029",,21,Germany,Burnley
+Sam Byram,https://www.capology.com/player/sam-byram-34228/,"£ 25,000","£ 1,300,000","£ 325,000","Jul 8, 2025","Jun 30, 2026",,31,England,Leeds
+Kota Takai,https://www.capology.com/player/kota-takai-38234/,"£ 25,000","£ 1,300,000","£ 325,000","Jul 8, 2025","Jun 30, 2030",,20,Japan,Tottenham
+Gustavo Nunes,https://www.capology.com/player/gustavo-nunes-38676/,"£ 25,000","£ 1,300,000","£ 325,000","Aug 28, 2024","Jun 30, 2030",,19,Brazil,Brentford
+Ayden Heaven,https://www.capology.com/player/ayden-heaven-38982/,"£ 25,000","£ 1,300,000","£ 325,000","Feb 1, 2025","Jun 30, 2029",,18,England,Manchester United
+Jack Hinshelwood,https://www.capology.com/player/jack-hinshelwood-38453/,"£ 25,000","£ 1,300,000","£ 325,000","Apr 9, 2024","Jun 30, 2028",,20,England,Brighton
+Adam Aznou,https://www.capology.com/player/adam-aznou-38870/,"£ 25,000","£ 1,300,000","£ 325,000","Jul 29, 2025","Jun 30, 2029",,19,Morocco,Everton
+Rodrigo Gomes,https://www.capology.com/player/rodrigo-gomes-37809/,"£ 25,000","£ 1,300,000","£ 325,000","Jul 1, 2024","Jun 30, 2029",,22,Portugal,Wolverhampton
+Kobbie Mainoo,https://www.capology.com/player/kobbie-mainoo-38461/,"£ 25,000","£ 1,300,000","£ 325,000","Feb 9, 2023","Jun 30, 2027",,20,England,Manchester United
+Freddie Woodman,https://www.capology.com/player/freddie-woodman-35493/,"£ 25,000","£ 1,300,000","£ 325,000","Jul 1, 2025","Jun 30, 2026",,28,England,Liverpool
+Stefanos Tzimas,https://www.capology.com/player/stefanos-tzimas-38723/,"£ 20,000","£ 1,040,000","£ 260,000","Feb 3, 2025","Jun 30, 2030",,19,Greece,Brighton
+Lucas Pires,https://www.capology.com/player/lucas-pires-36974/,"£ 20,000","£ 1,040,000","£ 260,000","Jul 16, 2024","Jun 30, 2028",,24,Brazil,Burnley
+Luke O'Nien,https://www.capology.com/player/luke-o-nien-34659/,"£ 20,000","£ 1,040,000","£ 260,000","Aug 14, 2025","Jun 30, 2027",,30,England,Sunderland
+Jason Steele,https://www.capology.com/player/jason-steele-33103/,"£ 20,000","£ 1,040,000","£ 260,000","Nov 2, 2023","Jun 30, 2026",,35,England,Brighton
+Ian Poveda,https://www.capology.com/player/ian-poveda-36565/,"£ 20,000","£ 1,040,000","£ 260,000","Jul 24, 2024","Jun 30, 2027",,25,Colombia,Sunderland
+Hannes Delcroix,https://www.capology.com/player/hannes-delcroix-36219/,"£ 20,000","£ 1,040,000","£ 260,000","Aug 22, 2023","Jun 30, 2026",,26,Belgium,Burnley
+Eli Junior Kroupi,https://www.capology.com/player/eli-junior-kroupi-38891/,"£ 20,000","£ 1,040,000","£ 260,000","Feb 3, 2025","Jun 30, 2030",,19,France,Bournemouth
+Oliver Scarles,https://www.capology.com/player/oliver-scarles-38698/,"£ 20,000","£ 1,040,000","£ 260,000","Jan 1, 2025","Jun 30, 2028",,19,England,West Ham
+Dennis Cirkin,https://www.capology.com/player/dennis-cirkin-37352/,"£ 20,000","£ 1,040,000","£ 260,000","Jun 17, 2023","Jun 30, 2026",,23,England,Sunderland
+Daniel Bentley,https://www.capology.com/player/daniel-bentley-34163/,"£ 20,000","£ 1,040,000","£ 260,000","Sep 17, 2024","Jun 30, 2027",,32,England,Wolverhampton
+Carlos Alcaraz,https://www.capology.com/player/carlos-alcaraz-37590/,"£ 20,000","£ 1,040,000","£ 260,000","Jul 1, 2025","Jun 30, 2027",,22,Argentina,Everton
+Sasa Kalajdzic,https://www.capology.com/player/sasa-kalajdzic-35618/,"£ 20,000","£ 1,040,000","£ 260,000","Aug 31, 2022","Jun 30, 2027",,28,Austria,Wolverhampton
+Sepp van den Berg,https://www.capology.com/player/sepp-van-den-berg-37245/,"£ 20,000","£ 1,040,000","£ 260,000","Aug 22, 2024","Jun 30, 2029",,23,Netherlands,Brentford
+Tim Iroegbunam,https://www.capology.com/player/tim-iroegbunam-37802/,"£ 20,000","£ 1,040,000","£ 260,000","Jul 1, 2024","Jun 30, 2027",,22,England,Everton
+Anthony Patterson,https://www.capology.com/player/anthony-patterson-36656/,"£ 20,000","£ 1,040,000","£ 260,000","Sep 22, 2023","Jun 30, 2028",,25,England,Sunderland
+Tom Watson,https://www.capology.com/player/tom-watson-38815/,"£ 20,000","£ 1,040,000","£ 260,000","Jul 1, 2025","Jun 30, 2029",,19,England,Brighton
+Zian Flemming,https://www.capology.com/player/zian-flemming-36008/,"£ 20,000","£ 1,040,000","£ 260,000","Jul 1, 2025","Jun 30, 2029",,27,Netherlands,Burnley
+Justin Devenny,https://www.capology.com/player/justin-devenny-37905/,"£ 20,000","£ 1,040,000","£ 260,000","Jan 14, 2025","Jun 30, 2027",,21,Northern Ireland,Crystal Palace
+Julio Soler,https://www.capology.com/player/julio-soler-38399/,"£ 20,000","£ 1,040,000","£ 260,000","Jan 7, 2025","Jun 30, 2026",,20,Argentina,Bournemouth
+Josh Laurent,https://www.capology.com/player/josh-laurent-34825/,"£ 20,000","£ 1,040,000","£ 260,000","Aug 30, 2024","Jun 30, 2026",,30,England,Burnley
+Josh King,https://www.capology.com/player/josh-king-39085/,"£ 20,000","£ 1,040,000","£ 260,000","Jul 17, 2025","Jun 30, 2029",,18,England,Fulham
+Álex Jiménez,https://www.capology.com/player/alex-jimenez-38480/,"£ 18,000","£ 936,000","£ 312,000","Sep 1, 2025","Jun 30, 2026",,20,Spain,Bournemouth
+Merlin Röhl,https://www.capology.com/player/merlin-rohl-37442/,"£ 15,500","£ 806,000","£ 201,500","Sep 1, 2025","Jun 30, 2026",,23,Germany,Everton
+Callum Marshall,https://www.capology.com/player/callum-marshall-38319/,"£ 15,000","£ 780,000","£ 195,000","Jul 1, 2025","Jun 30, 2027",,20,Northern Ireland,West Ham
+Mark Gillespie,https://www.capology.com/player/mark-gillespie-33690/,"£ 15,000","£ 780,000","£ 195,000","Jun 6, 2025","Jun 30, 2026",,33,England,Newcastle
+Ilia Gruev,https://www.capology.com/player/ilia-gruev-36652/,"£ 15,000","£ 780,000","£ 195,000","Aug 31, 2023","Jun 30, 2027",,25,Bulgaria,Leeds
+Tom King,https://www.capology.com/player/tom-king-34767/,"£ 15,000","£ 780,000","£ 195,000","Aug 15, 2025","Jun 30, 2027",,30,Wales,Everton
+Tom McGill,https://www.capology.com/player/tom-mcgill-36610/,"£ 15,000","£ 780,000","£ 195,000","May 8, 2025","Jun 30, 2027",,25,Canada,Brighton
+Andy Irving,https://www.capology.com/player/andy-irving-36659/,"£ 15,000","£ 780,000","£ 195,000","Aug 31, 2023","Jun 30, 2026",,25,Scotland,West Ham
+Simon Moore,https://www.capology.com/player/simon-moore-33012/,"£ 15,000","£ 780,000","£ 195,000","Jul 1, 2024","Jun 30, 2026",,35,England,Sunderland
+Enso González,https://www.capology.com/player/enso-gonzalez-38372/,"£ 15,000","£ 780,000","£ 195,000","Aug 31, 2023","Jun 30, 2029",,20,Paraguay,Wolverhampton
+Yunus Emre Konak,https://www.capology.com/player/yunus-emre-konak-38727/,"£ 15,000","£ 780,000","£ 195,000","Jan 11, 2024","Jun 30, 2029",,19,Turkey,Brentford
+David Datro Fofana,https://www.capology.com/player/david-datro-fofana-37612/,"£ 15,000","£ 780,000","£ 195,000","Jan 1, 2023","Jun 30, 2029",,22,Cote d'Ivoire,Chelsea
+Andrés García,https://www.capology.com/player/andres-garcia-37659/,"£ 15,000","£ 780,000","£ 195,000","Jan 21, 2025","Jun 30, 2026",,22,Spain,Aston Villa
+Curtis Jones,https://www.capology.com/player/curtis-jones-36921/,"£ 15,000","£ 780,000","£ 195,000","Nov 17, 2022","Jun 30, 2027",,24,England,Liverpool
+Chido Obi,https://www.capology.com/player/chido-obi-39415/,"£ 15,000","£ 780,000","£ 195,000","Jul 1, 2025","Jun 30, 2026",,17,Denmark,Manchester United
+Wes Foderingham,https://www.capology.com/player/wes-foderingham-33252/,"£ 15,000","£ 780,000","£ 195,000","Jul 1, 2024","Jun 30, 2026",,34,England,West Ham
+Blondy Nna Noukeu,https://www.capology.com/player/blondy-nna-noukeu-37151/,"£ 15,000","£ 780,000","£ 195,000","Aug 2, 2024","Jun 30, 2026",,23,Cameroon,Sunderland
+Dan Neil,https://www.capology.com/player/dan-neil-37225/,"£ 15,000","£ 780,000","£ 195,000","Mar 21, 2023","Jun 30, 2026",,23,England,Sunderland
+Enes Ünal,https://www.capology.com/player/enes-unal-35560/,"£ 15,000","£ 780,000","£ 195,000","Jul 1, 2024","Jun 30, 2028",,28,Turkey,Bournemouth
+Harrison Ashby,https://www.capology.com/player/harrison-ashby-37209/,"£ 15,000","£ 780,000","£ 195,000","Jan 31, 2023","Jun 30, 2026",,23,Scotland,Newcastle
+Aji Alese,https://www.capology.com/player/aji-alese-36908/,"£ 15,000","£ 780,000","£ 195,000","Mar 22, 2024","Jun 30, 2027",,24,England,Sunderland
+Freddie Potts,https://www.capology.com/player/freddie-potts-37876/,"£ 15,000","£ 780,000","£ 195,000","Jul 1, 2025","Jun 30, 2029",,21,England,West Ham
+Omar Richards,https://www.capology.com/player/omar-richards-35841/,"£ 15,000","£ 780,000","£ 195,000","Jul 10, 2022","Jun 30, 2026",,27,England,Nottingham Forest
+John Ruddy,https://www.capology.com/player/john-ruddy-31709/,"£ 15,000","£ 780,000","£ 195,000","Jul 1, 2024","Jun 30, 2026",,38,England,Newcastle
+Dane Scarlett,https://www.capology.com/player/dane-scarlett-38070/,"£ 15,000","£ 780,000","£ 195,000","Aug 31, 2023","Jun 30, 2027",,21,England,Tottenham
+Timothée Pembélé,https://www.capology.com/player/timothee-pembele-37508/,"£ 15,000","£ 780,000","£ 195,000","Sep 1, 2023","Jun 30, 2028",,22,France,Sunderland
+Samuel Iling-Junior,https://www.capology.com/player/samuel-iling-junior-37898/,"£ 15,000","£ 780,000","£ 195,000","Jul 1, 2024","Jun 30, 2026",,21,England,Aston Villa
+Romain Esse,https://www.capology.com/player/romain-esse-38485/,"£ 15,000","£ 780,000","£ 195,000","Jan 18, 2025","Jun 30, 2030",,20,England,Crystal Palace
+George Earthy,https://www.capology.com/player/george-earthy-38235/,"£ 15,000","£ 780,000","£ 195,000","Jul 1, 2025","Jun 30, 2026",,20,England,West Ham
+Romelle Donovan,https://www.capology.com/player/romelle-donovan-39051/,"£ 15,000","£ 780,000","£ 195,000","Jul 1, 2025","Jun 30, 2030",,18,England,Brentford
+Brandon Austin,https://www.capology.com/player/brandon-austin-36168/,"£ 15,000","£ 780,000","£ 195,000","May 28, 2024","Jun 30, 2029",,26,England,Tottenham
+Calvin Ramsay,https://www.capology.com/player/calvin-ramsay-37833/,"£ 15,000","£ 780,000","£ 195,000","Jul 1, 2022","Jun 30, 2027",,22,Scotland,Liverpool
+Zach Abbott,https://www.capology.com/player/zach-abbott-38850/,"£ 12,500","£ 650,000","£ 162,500","Jul 23, 2025","Jun 30, 2029",,19,England,Nottingham Forest
+Remi Matthews,https://www.capology.com/player/remi-matthews-34375/,"£ 12,500","£ 650,000","£ 162,500","Jun 5, 2025","Jun 30, 2027",,31,England,Crystal Palace
+Carlos Baleba,https://www.capology.com/player/carlos-baleba-37989/,"£ 12,500","£ 650,000","£ 162,500","Aug 29, 2023","Jun 30, 2028",,21,Cameroon,Brighton
+Caleb Kporha,https://www.capology.com/player/caleb-kporha-38913/,"£ 12,500","£ 650,000","£ 162,500","Apr 9, 2025","Jun 30, 2029",,19,England,Crystal Palace
+Václav Hladký,https://www.capology.com/player/vaclav-hladky-33191/,"£ 12,000","£ 624,000","£ 156,000","Jul 19, 2024","Jun 30, 2026",,34,Czech Republic,Burnley
+Callan McKenna,https://www.capology.com/player/callan-mckenna-39073/,"£ 12,000","£ 624,000","£ 156,000","Jul 1, 2025","Jun 30, 2026",,18,Scotland,Bournemouth
+Kevin Schade,https://www.capology.com/player/kevin-schade-37222/,"£ 10,000","£ 520,000","£ 130,000","Jul 1, 2023","Jun 30, 2028",,23,Germany,Brentford
+Jaydon Banel,https://www.capology.com/player/jaydon-banel-38279/,"£ 10,000","£ 520,000","£ 130,000","Feb 3, 2025","Jun 30, 2029",,20,Netherlands,Burnley
+Abdoullah Ba,https://www.capology.com/player/abdoullah-ba-37833/,"£ 10,000","£ 520,000","£ 130,000","Aug 31, 2022","Jun 30, 2027",,22,France,Sunderland
+Romaine Mundle,https://www.capology.com/player/romaine-mundle-37735/,"£ 10,000","£ 520,000","£ 130,000","Feb 1, 2024","Jun 30, 2028",,22,England,Sunderland
+Hákon Rafn Valdimarsson,https://www.capology.com/player/hakon-rafn-valdimarsson-37177/,"£ 10,000","£ 520,000","£ 130,000","Jan 26, 2024","Jun 30, 2028",,23,Iceland,Brentford
+Oliver Sonne,https://www.capology.com/player/oliver-sonne-36840/,"£ 10,000","£ 520,000","£ 130,000","Jan 1, 2025","Jun 30, 2029",,24,Peru,Burnley
+Remy Rees-Dottin,https://www.capology.com/player/remy-rees-dottin-38782/,"£ 10,000","£ 520,000","£ 130,000","Jul 7, 2025","Jun 30, 2026",,19,England,Bournemouth
+Leo Fuhr Hjelde,https://www.capology.com/player/leo-fuhr-hjelde-37859/,"£ 10,000","£ 520,000","£ 130,000","Jan 30, 2024","Jun 30, 2028",,22,Norway,Sunderland
+Nathan Fraser,https://www.capology.com/player/nathan-fraser-38405/,"£ 10,000","£ 520,000","£ 130,000","Jul 5, 2024","Jun 30, 2028",,20,Ireland,Wolverhampton
+Alex Cairns,https://www.capology.com/player/alex-cairns-33973/,"£ 10,000","£ 520,000","£ 130,000","Jul 8, 2024","Jun 30, 2026",,32,England,Leeds
+Rhys Williams,https://www.capology.com/player/rhys-williams-36925/,"£ 10,000","£ 520,000","£ 130,000","Aug 31, 2021","Jun 30, 2026",,24,England,Liverpool
+Ellery Balcombe,https://www.capology.com/player/ellery-balcombe-36448/,"£ 10,000","£ 520,000","£ 130,000","Jul 1, 2018","Jun 30, 2027",,25,England,Brentford
+Jay Matete,https://www.capology.com/player/jay-matete-36933/,"£ 10,000","£ 520,000","£ 130,000","Jan 31, 2022","Jun 30, 2026",,24,England,Sunderland
+Issa Kabore,https://www.capology.com/player/issa-kabore-37023/,"£ 10,000","£ 520,000","£ 130,000","Jul 29, 2020","Jun 30, 2027",,24,Burkina Faso,Manchester City
+Jesurun Rak-Sakyi,https://www.capology.com/player/jesurun-rak-sakyi-37534/,"£ 10,000","£ 520,000","£ 130,000","Aug 11, 2022","Jun 30, 2027",,22,England,Crystal Palace
+Tawanda Chirewa,https://www.capology.com/player/tawanda-chirewa-37906/,"£ 10,000","£ 520,000","£ 130,000","Aug 26, 2024","Jun 30, 2027",,21,Zimbabwe,Wolverhampton
+Luke Harris,https://www.capology.com/player/luke-harris-38415/,"£ 10,000","£ 520,000","£ 130,000","Jul 1, 2024","Jun 30, 2026",,20,Wales,Fulham
+Joe Anderson,https://www.capology.com/player/joe-anderson-36928/,"£ 8,000","£ 416,000","£ 104,000","Jan 31, 2023","Jun 30, 2026",,24,England,Sunderland
+Enock Agyei,https://www.capology.com/player/enock-agyei-38365/,"£ 8,000","£ 416,000","£ 104,000","Jul 1, 2024","Jun 30, 2027",,20,Belgium,Burnley
+Sam Chambers,https://www.capology.com/player/sam-chambers-39312/,"£ 8,000","£ 416,000","£ 104,000","Mar 10, 2025","Jun 30, 2028",,18,Scotland,Leeds
+Matheus França,https://www.capology.com/player/matheus-franca-38078/,"£ 8,000","£ 416,000","£ 104,000","Aug 5, 2023","Jun 30, 2028",,21,Brazil,Crystal Palace
+Mateus Mané,https://www.capology.com/player/mateus-mane-39341/,"£ 8,000","£ 416,000","£ 104,000","Jul 1, 2025","Jun 30, 2027",,17,England,Wolverhampton
+Julian Eyestone,https://www.capology.com/player/julian-eyestone-38828/,"£ 8,000","£ 416,000","£ 104,000","Jul 4, 2025","Jun 30, 2031",,19,United States,Brentford
+Alex Murphy,https://www.capology.com/player/alex-murphy-38163/,"£ 8,000","£ 416,000","£ 104,000","Jul 1, 2024","Jun 30, 2028",,21,Ireland,Newcastle
+Yasin Ayari,https://www.capology.com/player/yasin-ayari-37900/,"£ 8,000","£ 416,000","£ 104,000","Jan 30, 2023","Jun 30, 2027",,21,Sweden,Brighton
+Nigel Lonwijk,https://www.capology.com/player/nigel-lonwijk-37556/,"£ 8,000","£ 416,000","£ 104,000","Jan 24, 2020","Jun 30, 2026",,22,Suriname,Wolverhampton
+Owen Bevan,https://www.capology.com/player/owen-bevan-37920/,"£ 8,000","£ 416,000","£ 104,000","Jun 26, 2024","Jun 30, 2028",,21,Wales,Bournemouth
+Will Dennis,https://www.capology.com/player/will-dennis-36717/,"£ 8,000","£ 416,000","£ 104,000","Feb 5, 2025","Jun 30, 2028",,25,England,Bournemouth
+Ahmed Abdullahi,https://www.capology.com/player/ahmed-abdullahi-38157/,"£ 8,000","£ 416,000","£ 104,000","Aug 30, 2024","Jun 30, 2028",,21,Nigeria,Sunderland
+Dexter Lembikisa,https://www.capology.com/player/dexter-lembikisa-37929/,"£ 8,000","£ 416,000","£ 104,000","Jul 1, 2020","Jun 30, 2026",,21,Jamaica,Wolverhampton
+Benjamin Arthur,https://www.capology.com/player/benjamin-arthur-38634/,"£ 8,000","£ 416,000","£ 104,000","Jul 4, 2025","Jun 30, 2031",,19,England,Brentford
+Lewis Dobbin,https://www.capology.com/player/lewis-dobbin-37624/,"£ 7,500","£ 390,000","£ 97,500","Jul 1, 2024","Jun 30, 2026",,22,England,Aston Villa
+Tayo Adaramola,https://www.capology.com/player/tayo-adaramola-37939/,"£ 7,500","£ 390,000","£ 97,500","Jul 1, 2020","Jun 30, 2026",,21,Ireland,Crystal Palace
+Tyrique George,https://www.capology.com/player/tyrique-george-38752/,"£ 7,500","£ 390,000","£ 97,500","Dec 18, 2024","Jun 30, 2027",,19,England,Chelsea
+Matthew Cox,https://www.capology.com/player/matthew-cox-37743/,"£ 7,000","£ 364,000","£ 91,000","Jul 8, 2022","Jun 30, 2028",,22,England,Brentford
+Harrison Jones,https://www.capology.com/player/harrison-jones-38346/,"£ 5,000","£ 260,000","£ 65,000","Dec 23, 2024","Jun 30, 2026",,20,England,Sunderland
+Ethan Wheatley,https://www.capology.com/player/ethan-wheatley-38737/,"£ 5,000","£ 260,000","£ 65,000","Mar 6, 2025","Jun 30, 2028",,19,England,Manchester United
+Myles Peart-Harris,https://www.capology.com/player/myles-peart-harris-37517/,"£ 5,000","£ 260,000","£ 65,000","Jul 23, 2021","Jun 30, 2026",,22,Jamaica,Brentford
+Rio Cardines,https://www.capology.com/player/rio-cardines-38899/,"£ 5,000","£ 260,000","£ 65,000","Jul 1, 2025","Jun 30, 2026",,19,Trinidad and Tobago,Crystal Palace
+Milan Aleksic,https://www.capology.com/player/milan-aleksic-38594/,"£ 5,000","£ 260,000","£ 65,000","Aug 30, 2024","Jun 30, 2028",,20,Serbia,Sunderland
+Josh Acheampong,https://www.capology.com/player/josh-acheampong-38842/,"£ 5,000","£ 260,000","£ 65,000","Dec 18, 2024","Jun 30, 2029",,19,England,Chelsea
+Ashley Phillips,https://www.capology.com/player/ashley-phillips-38529/,"£ 5,000","£ 260,000","£ 65,000","Aug 5, 2023","Jun 30, 2028",,20,England,Tottenham
+Zak Johnson,https://www.capology.com/player/zak-johnson-38497/,"£ 5,000","£ 260,000","£ 65,000","Jun 1, 2025","Jun 30, 2026",,20,England,Sunderland
+Tyler Bindon,https://www.capology.com/player/tyler-bindon-38379/,"£ 5,000","£ 260,000","£ 65,000","Feb 2, 2025","Jun 30, 2028",,20,New Zealand,Nottingham Forest
+Joe Gauci,https://www.capology.com/player/joe-gauci-36711/,"£ 5,000","£ 260,000","£ 65,000","Feb 1, 2024","Jun 30, 2028",,24,Australia,Aston Villa
+Joe Hugill,https://www.capology.com/player/joe-hugill-37913/,"£ 5,000","£ 260,000","£ 65,000","Jul 1, 2020","Jun 30, 2026",,21,England,Manchester United
+Joe Whitworth,https://www.capology.com/player/joe-whitworth-38046/,"£ 5,000","£ 260,000","£ 65,000","Jan 11, 2023","Jun 30, 2027",,21,England,Crystal Palace
+Leo Castledine,https://www.capology.com/player/leo-castledine-38584/,"£ 5,000","£ 260,000","£ 65,000","Mar 11, 2020","Jun 30, 2027",,20,England,Chelsea
+Kaden Rodney,https://www.capology.com/player/kaden-rodney-38267/,"£ 5,000","£ 260,000","£ 65,000","Jul 1, 2024","Jun 30, 2026",,20,England,Crystal Palace
+Oliver Pimlott,https://www.capology.com/player/oliver-pimlott-39179/,"£ 5,000","£ 260,000","£ 65,000","Jul 1, 2025","Jun 30, 2027",,18,England,Burnley
+Nazarii Rusyn,https://www.capology.com/player/nazarii-rusyn-36093/,"£ 4,500","£ 234,000","£ 58,500","Sep 1, 2023","Jun 30, 2027",,26,Ukraine,Sunderland
+Matai Akinmboni,https://www.capology.com/player/matai-akinmboni-39007/,"£ 4,000","£ 208,000","£ 52,000","Jan 3, 2025","Jun 30, 2026",,18,United States,Bournemouth
+Mahamadou Susoho,https://www.capology.com/player/mahamadou-susoho-38372/,"£ 3,500","£ 182,000","£ 45,500","Jul 1, 2023","Jun 30, 2026",,20,Spain,Manchester City
+Paris Maghoma,https://www.capology.com/player/paris-maghoma-37019/,"£ 3,000","£ 156,000","£ 39,000","Aug 2, 2024","Jun 30, 2027",,24,England,Brentford
+Daniel Gore,https://www.capology.com/player/daniel-gore-38256/,"£ 3,000","£ 156,000","£ 39,000","Jul 1, 2023","Jun 30, 2026",,20,England,Manchester United
+Amario Cozier-Duberry,https://www.capology.com/player/amario-cozier-duberry-38501/,"£ 3,000","£ 156,000","£ 39,000","Jul 7, 2024","Jun 30, 2028",,20,England,Brighton
+Will Lankshear,https://www.capology.com/player/will-lankshear-38462/,"£ 2,500","£ 130,000","£ 32,500","Jul 1, 2023","Jun 30, 2029",,20,England,Tottenham
+Jimmy-Jay Morgan,https://www.capology.com/player/jimmy-jay-morgan-38738/,"£ 2,500","£ 130,000","£ 32,500","Feb 10, 2023","Jun 30, 2027",,19,England,Chelsea
+Min-hyeok Yang,https://www.capology.com/player/min-hyeok-yang-38823/,"£ 2,500","£ 130,000","£ 32,500","Jan 1, 2025","Jun 30, 2026",,19,South Korea,Tottenham
+Finley Burns,https://www.capology.com/player/finley-burns-37789/,"£ 2,500","£ 130,000","£ 32,500","Jul 1, 2020","Jun 30, 2027",,22,England,Manchester City
+Will Dickson,https://www.capology.com/player/will-dickson-38316/,"£ 1,800","£ 93,600","£ 23,400","Jul 1, 2021","Jun 30, 2027",,20,England,Manchester City
+Kamari Doyle,https://www.capology.com/player/kamari-doyle-38565/,"£ 1,500","£ 78,000","£ 19,500","Jan 26, 2024","Jun 30, 2026",,20,England,Brighton
+Joe White,https://www.capology.com/player/joe-white-37530/,"£ 1,500","£ 78,000","£ 19,500","Jul 1, 2023","Jun 30, 2026",,22,England,Newcastle
+Harry Tyrer,https://www.capology.com/player/harry-tyrer-37231/,"£ 1,500","£ 78,000","£ 19,500","Jul 1, 2024","Jun 30, 2026",,23,England,Everton
+Francis Okoronkwo,https://www.capology.com/player/francis-okoronkwo-38248/,"£ 1,000","£ 52,000","£ 13,000","Sep 20, 2021","Jun 30, 2026",,20,England,Everton
+Owen Goodman,https://www.capology.com/player/owen-goodman-37952/,"£ 1,000","£ 52,000","£ 13,000","Jul 1, 2022","Jun 30, 2026",,21,England,Crystal Palace
+Lyle Foster,https://www.capology.com/player/lyle-foster-36772/,£ 769,"£ 40,000","£ 10,000","Oct 26, 2023","Jun 30, 2028",,24,South Africa,Burnley
+Hannibal,https://www.capology.com/player/hannibal-37642/,£ 577,"£ 30,000","£ 7,500","Aug 28, 2024","Jun 30, 2028",,22,Tunisia,Burnley
+Edson Álvarez,https://www.capology.com/player/edson-alvarez-35727/,,,,"Aug 10, 2023","Jun 30, 2028",,27,Mexico,West Ham
+Evan Ferguson,https://www.capology.com/player/evan-ferguson-38279/,,,,"Nov 10, 2023","Jun 30, 2029",,20,Ireland,Brighton
+Jota Silva,https://www.capology.com/player/jota-silva-36373/,,,,"Aug 1, 2024","Jun 30, 2028",,26,Portugal,Nottingham Forest
+Tommy Doyle,https://www.capology.com/player/tommy-doyle-37181/,,,,"Jul 1, 2024","Jun 30, 2028",,23,England,Wolverhampton
+Josh Wilson-Esbrand,https://www.capology.com/player/josh-wilson-esbrand-37616/,,,,"Jan 1, 2023","Jun 30, 2027",,22,England,Manchester City
+Andrew Moran,https://www.capology.com/player/andrew-moran-37909/,,,,"Jul 1, 2025","Jun 30, 2028",,21,Ireland,Brighton
+Konstantinos Tsimikas,https://www.capology.com/player/konstantinos-tsimikas-35197/,,,,"Sep 25, 2023","Jun 30, 2027",,29,Greece,Liverpool
+Toby Collyer,https://www.capology.com/player/toby-collyer-37989/,,,,"Jul 11, 2024","Jun 30, 2027",,21,England,Manchester United
+André Onana,https://www.capology.com/player/andre-onana-35157/,,,,"Jul 20, 2023","Jun 30, 2028",,29,Cameroon,Manchester United
+Claudio Echeverri,https://www.capology.com/player/claudio-echeverri-38719/,,,,"Jan 25, 2024","Jun 30, 2028",,19,Argentina,Manchester City
+Malick Yalcouyé,https://www.capology.com/player/malick-yalcouye-38674/,,,,"Jul 12, 2024","Jun 30, 2029",,19,Cote d'Ivoire,Brighton
+Marcus Rashford,https://www.capology.com/player/marcus-rashford-35734/,,,,"Jul 18, 2023","Jun 30, 2028",,27,England,Manchester United
+Joe Gelhardt,https://www.capology.com/player/joe-gelhardt-37380/,,,,"Aug 2, 2022","Jun 30, 2027",,23,England,Leeds
+Alfie Devine,https://www.capology.com/player/alfie-devine-38200/,,,,"Jul 1, 2024","Jun 30, 2027",,20,England,Tottenham
+Steven Benda,https://www.capology.com/player/steven-benda-36069/,,,,"Aug 30, 2023","Jun 30, 2026",,26,Germany,Fulham
+Aarón Anselmino,https://www.capology.com/player/aaron-anselmino-38471/,,,,"Aug 8, 2024","Jun 30, 2031",,20,Argentina,Chelsea
+Harry Amass,https://www.capology.com/player/harry-amass-39157/,,,,"Jul 1, 2024","Jun 30, 2027",,18,England,Manchester United
+Eiran Cashin,https://www.capology.com/player/eiran-cashin-37204/,,,,"Jan 31, 2025","Jun 30, 2030",,23,Ireland,Brighton
+Kosta Nedeljkovic,https://www.capology.com/player/kosta-nedeljkovic-38702/,,,,"Jan 22, 2024","Jun 30, 2029",,19,Serbia,Aston Villa
+Leon Bailey,https://www.capology.com/player/leon-bailey-35651/,,,,"Feb 12, 2024","Jun 30, 2027",,27,Jamaica,Aston Villa
+Caleb Wiley,https://www.capology.com/player/caleb-wiley-38343/,,,,"Jul 22, 2024","Jun 30, 2030",,20,United States,Chelsea
+Ryan Trevitt,https://www.capology.com/player/ryan-trevitt-37692/,,,,"Jul 14, 2023","Jun 30, 2026",,22,England,Brentford
+Carl Rushworth,https://www.capology.com/player/carl-rushworth-37074/,,,,"Jul 31, 2023","Jun 30, 2027",,23,England,Brighton
+Kaelan Casey,https://www.capology.com/player/kaelan-casey-38288/,,,,"Aug 15, 2023","Jun 30, 2026",,20,England,West Ham
