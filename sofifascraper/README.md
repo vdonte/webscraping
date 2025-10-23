@@ -1,4 +1,4 @@
-# The Sofifa Scraper
+# The Sofifa Scraper using Python, Playwright and BeautifulSoup
 
 ## Project Overview
 
